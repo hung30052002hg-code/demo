@@ -1,0 +1,18 @@
+RewriteEngine On
+RewriteBase /Shoptrasua/
+
+# Nếu file hoặc thư mục tồn tại thì không rewrite
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Chuyển hướng tất cả request về index.php
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Bảo vệ các file cấu hình
+<FilesMatch "\.(sql|md)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Tắt directory listing
+Options -Indexes

@@ -1,0 +1,481 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' 
+      xmlns:w='urn:schemas-microsoft-com:office:word' 
+      xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta charset="utf-8">
+<title>Bao Cao Hoc Phan - Shop Tra Sua</title>
+<!--[if gte mso 9]>
+<xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>100</w:Zoom>
+  <w:DoNotOptimizeForBrowser/>
+ </w:WordDocument>
+</xml>
+<![endif]-->
+<style>
+@page {
+    size: 21.0cm 29.7cm; /* A4 */
+    margin: 2.0cm 2.0cm 2.0cm 3.0cm; /* Standard margins: Top 2, Bottom 2, Right 2, Left 3 (for binding) */
+}
+@page Section1 {
+    size: 21.0cm 29.7cm;
+    margin: 2.0cm 2.0cm 2.0cm 3.0cm;
+    mso-header-margin: 35.4pt;
+    mso-footer-margin: 35.4pt;
+    mso-footer: f1;
+}
+div.Section1 {
+    page: Section1;
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 13pt;
+    line-height: 1.5;
+    color: #000000;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 6pt;
+    text-align: justify;
+    text-indent: 1.27cm; /* First line indent */
+}
+p.no-indent {
+    text-indent: 0;
+}
+h1 {
+    font-size: 16pt;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 18pt;
+    margin-bottom: 6pt;
+    line-height: 1.3;
+}
+h2 {
+    font-size: 14pt;
+    font-weight: bold;
+    margin-top: 12pt;
+    margin-bottom: 6pt;
+}
+h3 {
+    font-size: 13pt;
+    font-weight: bold;
+    margin-top: 12pt;
+    margin-bottom: 6pt;
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 6pt;
+    padding-left: 20px;
+}
+li {
+    margin-bottom: 3pt;
+    text-align: justify;
+}
+code {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 11pt;
+    background-color: #f4f4f4;
+    padding: 1px 3px;
+    border: 1px solid #ddd;
+}
+pre {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 10pt;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
+    white-space: pre-wrap;
+}
+hr {
+    border: 0;
+    border-top: 1px solid #000;
+    margin: 20px 0;
+}
+/* Cover page styles */
+.cover-page {
+    text-align: center;
+    page-break-after: always;
+    margin-top: 0px;
+}
+.cover-school {
+    font-size: 14pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.cover-faculty {
+    font-size: 13pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+.cover-title-label {
+    font-size: 16pt;
+    font-weight: bold;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+.cover-title {
+    font-size: 20pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 2px solid #000;
+    padding: 25px;
+    margin: 20px auto;
+    width: 90%;
+    line-height: 1.4;
+}
+.cover-info {
+    margin-top: 100px;
+    text-align: left;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 13pt;
+    line-height: 2.0;
+}
+.cover-info table {
+    width: 100%;
+    border: none;
+}
+.cover-info td {
+    padding: 5px 0;
+    border: none;
+}
+.cover-footer {
+    margin-top: 120px;
+    font-size: 13pt;
+    font-weight: bold;
+}
+/* Footer layout style */
+p.MsoFooter {
+    margin: 0in;
+    margin-bottom: .0001pt;
+    text-align: center;
+    font-size: 11pt;
+    font-family: "Times New Roman", serif;
+}
+</style>
+</head>
+<body>
+<div class="Section1">
+
+<!-- Page 1: COVER PAGE -->
+<div class="cover-page">
+    <div class="cover-school">TRƯỜNG ĐẠI HỌC HÀNG HẢI VIỆT NAM</div>
+    <div class="cover-faculty">KHOA CÔNG NGHỆ THÔNG TIN</div>
+    <div style="margin-top: 20px; font-weight: bold;">***</div>
+    
+    <div class="cover-title-label" style="margin-top: 60px;">BÁO CÁO HỌC PHẦN</div>
+    <div style="font-size: 14pt; font-weight: bold; margin-bottom: 10px; text-transform: uppercase;">Phát triển hệ thống thương mại điện tử</div>
+    <div class="cover-title">
+        XÂY DỰNG WEBSITE THƯƠNG MẠI ĐIỆN TỬ<br>TRÀ SỮA CAO CẤP CHUS TEA<br>TÍCH HỢP TRÍ TUỆ NHÂN TẠO AI
+    </div>
+    
+    <div class="cover-info" style="margin-top: 80px;">
+        <table style="border: none;">
+            <tr style="border: none;">
+                <td style="width: 45%; font-weight: bold; border: none;">Giảng viên hướng dẫn:</td>
+                <td style="border: none;">[Tên Giảng Viên]</td>
+            </tr>
+            <tr style="border: none;">
+                <td style="font-weight: bold; border: none;">Sinh viên thực hiện:</td>
+                <td style="border: none;">[Tên Sinh Viên]</td>
+            </tr>
+            <tr style="border: none;">
+                <td style="font-weight: bold; border: none;">Mã số sinh viên:</td>
+                <td style="border: none;">[Mã Số Sinh Viên]</td>
+            </tr>
+            <tr style="border: none;">
+                <td style="font-weight: bold; border: none;">Lớp:</td>
+                <td style="border: none;">[Tên Lớp]</td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="cover-footer" style="margin-top: 100px;">
+        HẢI PHÒNG, NĂM 2026
+    </div>
+</div>
+
+<!-- Page 2: TABLE OF CONTENTS -->
+<div class="toc-page" style="page-break-after: always; text-indent: 0; padding-top: 20px;">
+    <h2 style="text-align: center; text-transform: uppercase; margin-bottom: 30px;">MỤC LỤC</h2>
+    <table style="width: 100%; border: none; font-size: 13pt; line-height: 2.0;">
+        <tr>
+            <td style="font-weight: bold; border: none;">1. GIỚI THIỆU ĐỀ TÀI & PHÂN TÍCH YÊU CẦU</td>
+            <td style="text-align: right; font-weight: bold; border: none; width: 5%;">1</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">1.1. Đặt vấn đề</td>
+            <td style="text-align: right; border: none;">1</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">1.2. Mục tiêu dự án</td>
+            <td style="text-align: right; border: none;">1</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; border: none; padding-top: 10px;">2. KIẾN TRÚC HỆ THỐNG & CÔNG NGHỆ SỬ DỤNG</td>
+            <td style="text-align: right; font-weight: bold; border: none;">2</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">2.1. Kiến trúc phần mềm (Pattern MVC)</td>
+            <td style="text-align: right; border: none;">2</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">2.2. Công nghệ tích hợp</td>
+            <td style="text-align: right; border: none;">2</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; border: none; padding-top: 10px;">3. THIẾT KẾ CƠ SỞ DỮ LIỆU (DATABASE SCHEMA)</td>
+            <td style="text-align: right; font-weight: bold; border: none;">3</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">3.1. Bảng users (Quản lý người dùng & phân quyền)</td>
+            <td style="text-align: right; border: none;">3</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">3.2. Bảng products (Quản lý sản phẩm)</td>
+            <td style="text-align: right; border: none;">3</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">3.3. Bảng orders & order_items</td>
+            <td style="text-align: right; border: none;">3</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">3.4. Các bảng phụ trợ khác</td>
+            <td style="text-align: right; border: none;">4</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; border: none; padding-top: 10px;">4. CHI TIẾT CÁC TÍNH NĂNG CHÍNH ĐÃ TRIỂN KHAI</td>
+            <td style="text-align: right; font-weight: bold; border: none;">5</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">4.1. Quy trình mua hàng khép kín (End-to-End E-Commerce Flow)</td>
+            <td style="text-align: right; border: none;">5</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">4.2. Trí tuệ nhân tạo AI Chatbot (Gemini 2.5 Flash API)</td>
+            <td style="text-align: right; border: none;">5</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">4.3. Thuật toán gợi ý sản phẩm mua kèm AI</td>
+            <td style="text-align: right; border: none;">6</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">4.4. Hệ thống Quản trị (Admin Dashboard)</td>
+            <td style="text-align: right; border: none;">6</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; border: none; padding-top: 10px;">5. CÁC CƠ CHẾ BẢO MẬT & SEO ĐÃ ÁP DỤNG</td>
+            <td style="text-align: right; font-weight: bold; border: none;">7</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">5.1. Cơ chế bảo mật (Security)</td>
+            <td style="text-align: right; border: none;">7</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">5.2. Tối ưu hóa công cụ tìm kiếm (SEO)</td>
+            <td style="text-align: right; border: none;">7</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; border: none; padding-top: 10px;">6. KẾT LUẬN & HƯỚNG PHÁT TRIỂN</td>
+            <td style="text-align: right; font-weight: bold; border: none;">8</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">6.1. Kết quả đạt được</td>
+            <td style="text-align: right; border: none;">8</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 20px; border: none;">6.2. Hướng phát triển tương lai</td>
+            <td style="text-align: right; border: none;">8</td>
+        </tr>
+    </table>
+</div>
+
+<!-- Main content starts here -->
+<h1 style='page-break-before: always;'>BÁO CÁO HỌC PHẦN: PHÁT TRIỂN HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ TRÀ SỮA CAO CẤP (CHUS TEA)</h1>
+<hr />
+<h2>1. GIỚI THIỆU ĐỀ TÀI &amp; PHÂN TÍCH YÊU CẦU</h2>
+<h3>1.1. Đặt vấn đề</h3>
+<p>Trong bối cảnh chuyển đổi số và xu hướng tiêu dùng trực tuyến ngày càng phát triển mạnh mẽ, ngành ẩm thực và đồ uống (F&amp;B) – đặc biệt là thị trường trà sữa – đòi hỏi các doanh nghiệp phải xây dựng hệ thống bán hàng trực tuyến toàn diện. Đề tài <strong>&quot;Xây dựng Website Thương mại Điện tử Trà sữa Cao cấp CHUS TEA&quot;</strong> được lựa chọn nhằm giải quyết nhu cầu trải nghiệm mua sắm đồ uống tiện lợi, trực quan và hiện đại của người tiêu dùng, đồng thời tối ưu hóa quy trình quản lý vận hành của nhà quản trị.</p>
+<h3>1.2. Mục tiêu dự án</h3>
+<ul>
+<li><strong>Đối với khách hàng</strong>: Cung cấp giao diện trực quan, tươi mới với tông màu Matcha &amp; Cream, giúp dễ dàng duyệt menu, thêm vào giỏ hàng, đặt hàng, lựa chọn phương thức thanh toán trực tuyến qua QR hoặc tiền mặt, theo dõi tiến trình đơn hàng theo thời gian thực và tương tác với trợ lý ảo thông minh AI.</li>
+<li><strong>Đối với quản trị viên</strong>: Cung cấp hệ thống quản lý sản phẩm (CRUD kèm upload ảnh), xử lý cập nhật trạng thái đơn hàng, thống kê báo cáo doanh số, theo dõi khách hàng tiềm năng và xuất báo cáo CSV phục vụ kinh doanh.</li>
+<li><strong>Về mặt kỹ thuật</strong>: Áp dụng kiến trúc phần mềm chuẩn MVC (Model - View - Controller) bằng ngôn ngữ PHP, kết hợp với cơ sở dữ liệu MySQL, sử dụng PDO bảo mật, tích hợp trí tuệ nhân tạo (Gemini 2.5 Flash) làm chatbot và thuật toán gợi ý sản phẩm mua kèm.</li>
+</ul>
+<hr />
+<h2>2. KIẾN TRÚC HỆ THỐNG &amp; CÔNG NGHỆ SỬ DỤNG</h2>
+<h3>2.1. Kiến trúc phần mềm (Pattern MVC)</h3>
+<p>Dự án được xây dựng dựa trên kiến trúc Model-View-Controller thuần túy nhằm tách biệt mã nguồn thành ba thành phần độc lập, giúp dễ dàng mở rộng và bảo trì:</p>
+<ul>
+<li><strong>Front Controller (<code>index.php</code>)</strong>: Tiếp nhận mọi yêu cầu (Request) từ client, phân tích tham số <code>controller</code> và <code>action</code> để điều phối đến Controller tương ứng.</li>
+<li><strong>Model</strong>: Chứa các lớp xử lý nghiệp vụ và truy vấn CSDL bằng PDO (như <code>Product.php</code>, <code>Order.php</code>, <code>User.php</code>, <code>Review.php</code>...).</li>
+<li><strong>View</strong>: Chứa các file giao diện PHP/HTML hiển thị dữ liệu tới người dùng.</li>
+<li><strong>Controller</strong>: Tiếp nhận dữ liệu từ Request, gọi các phương thức tương ứng trong Model để xử lý dữ liệu và đẩy kết quả sang View để hiển thị.</li>
+</ul>
+<h3>2.2. Công nghệ tích hợp</h3>
+<ul>
+<li><strong>Backend</strong>: PHP 8.x (Hướng đối tượng - OOP, PDO kết nối MySQL, cURL kết nối API AI).</li>
+<li><strong>Database</strong>: MySQL (Hệ quản trị cơ sở dữ liệu quan hệ).</li>
+<li><strong>Frontend</strong>: Tailwind CSS (Thiết kế giao diện responsive), Vanilla JavaScript (Xử lý hiệu ứng cuộn trang, AJAX giỏ hàng, Chatbot, Toast notifications).</li>
+<li><strong>AI Integration</strong>: API OpenRouter kết nối mô hình ngôn ngữ lớn <strong>Gemini 2.5 Flash</strong>.</li>
+<li><strong>Email System</strong>: SMTP Mailer Helper hỗ trợ tự động gửi hóa đơn điện tử dạng HTML.</li>
+</ul>
+<hr />
+<h2>3. THIẾT KẾ CƠ SỞ DỮ LIỆU (DATABASE SCHEMA)</h2>
+<p>Cơ sở dữ liệu của hệ thống gồm các bảng quan hệ được chuẩn hóa nhằm tránh dư thừa dữ liệu:</p>
+<h3>3.1. Bảng <code>users</code> (Quản lý người dùng &amp; phân quyền)</h3>
+<ul>
+<li><code>id</code> (INT, Primary Key, Auto Increment): ID người dùng.</li>
+<li><code>name</code> (VARCHAR): Họ và tên.</li>
+<li><code>email</code> (VARCHAR, Unique): Địa chỉ email đăng nhập.</li>
+<li><code>password</code> (VARCHAR): Mật khẩu đã mã hóa Bcrypt.</li>
+<li><code>phone</code> (VARCHAR): Số điện thoại liên lạc.</li>
+<li><code>role</code> (VARCHAR): Phân quyền người dùng (<code>admin</code> hoặc <code>user</code>).</li>
+<li><code>created_at</code> (DATETIME): Thời điểm tạo tài khoản.</li>
+</ul>
+<h3>3.2. Bảng <code>products</code> (Quản lý sản phẩm)</h3>
+<ul>
+<li><code>id</code> (INT, Primary Key, Auto Increment): ID sản phẩm.</li>
+<li><code>category_id</code> (INT, Foreign Key): ID danh mục sản phẩm.</li>
+<li><code>name</code> (VARCHAR): Tên sản phẩm.</li>
+<li><code>slug</code> (VARCHAR): Đường dẫn thân thiện SEO.</li>
+<li><code>description</code> (TEXT): Mô tả sản phẩm.</li>
+<li><code>price</code> (INT): Giá tiền mặc định (Size M).</li>
+<li><code>price_large</code> (INT): Giá tiền nâng cấp (Size L).</li>
+<li><code>image</code> (VARCHAR): Tên tệp ảnh sản phẩm được tải lên thư mục <code>public/uploads/</code>.</li>
+<li><code>stock_quantity</code> (INT): Số lượng tồn kho.</li>
+<li><code>is_featured</code> (TINYINT): Đánh dấu sản phẩm nổi bật.</li>
+<li><code>is_new</code> (TINYINT): Đánh dấu sản phẩm mới.</li>
+</ul>
+<h3>3.3. Bảng <code>orders</code> &amp; <code>order_items</code> (Quản lý đơn hàng &amp; Chi tiết sản phẩm mua)</h3>
+<ul>
+<li><strong><code>orders</code></strong>:</li>
+<ul>
+<li><code>id</code> (INT, Primary Key): Mã đơn hàng.</li>
+<li><code>user_id</code> (INT, Foreign Key): Người đặt hàng.</li>
+<li><code>total_money</code> (INT): Tổng số tiền thanh toán (sau khi giảm giá).</li>
+<li><code>status</code> (VARCHAR): Trạng thái đơn (<code>pending</code>, <code>processing</code>, <code>shipped</code>, <code>completed</code>, <code>cancelled</code>).</li>
+<li><code>payment_method</code> (VARCHAR): Phương thức thanh toán (<code>COD</code> hoặc <code>ONLINE</code>).</li>
+<li><code>payment_status</code> (VARCHAR): Trạng thái thanh toán (<code>paid</code> hoặc <code>unpaid</code>).</li>
+<li><code>shipping_address</code> (VARCHAR): Địa chỉ nhận hàng.</li>
+<li><code>phone</code> (VARCHAR): Số điện thoại nhận hàng.</li>
+<li><code>note</code> (TEXT): Ghi chú đơn hàng.</li>
+<li><code>created_at</code> (DATETIME): Ngày tạo đơn.</li>
+</ul>
+<li><strong><code>order_items</code></strong>:</li>
+<ul>
+<li><code>id</code> (INT, Primary Key).</li>
+<li><code>order_id</code> (INT, Foreign Key): Thuộc đơn hàng nào.</li>
+<li><code>product_id</code> (INT, Foreign Key): Sản phẩm nào.</li>
+<li><code>quantity</code> (INT): Số lượng đặt mua.</li>
+<li><code>size</code> (VARCHAR): Kích cỡ chọn (<code>M</code> hoặc <code>L</code>).</li>
+<li><code>price</code> (INT): Đơn giá tại thời điểm mua.</li>
+</ul>
+</ul>
+<h3>3.4. Các bảng phụ trợ khác</h3>
+<ul>
+<li><code>categories</code>: Lưu trữ danh mục trà sữa (Trà sữa truyền thống, Trà trái cây, Đá xay...).</li>
+<li><code>reviews</code>: Quản lý đánh giá và bình luận sản phẩm (gồm số sao từ 1-5 và nội dung phản hồi).</li>
+<li><code>wishlists</code>: Lưu trữ danh sách sản phẩm yêu thích của từng khách hàng.</li>
+<li><code>coupons</code>: Lưu mã giảm giá, mức giảm và giá trị đơn hàng tối thiểu.</li>
+<li><code>contacts</code>: Lưu thông tin phản hồi từ Form Liên hệ của khách hàng.</li>
+</ul>
+<hr />
+<h2>4. CHI TIẾT CÁC TÍNH NĂNG CHÍNH ĐÃ TRIỂN KHAI</h2>
+<h3>4.1. Quy trình mua hàng khép kín (End-to-End E-Commerce Flow)</h3>
+<p>Hệ thống hỗ trợ toàn diện quy trình mua sắm của khách hàng:</p>
+<ul>
+<li><strong>Duyệt sản phẩm</strong>: Xem danh sách menu tại trang thực đơn, lọc theo từng danh mục hoặc tìm kiếm từ khóa.</li>
+<li><strong>Giỏ hàng tương tác (AJAX)</strong>:</li>
+<ul>
+<li>Khách hàng có thể nhấn vào biểu tượng dấu cộng <code>+</code> trên thẻ sản phẩm để thêm trực tiếp vào giỏ hàng ngay lập tức mà không bị tải lại trang.</li>
+<li>Cập nhật số lượng và xóa sản phẩm tức thì trong trang giỏ hàng bằng AJAX.</li>
+</ul>
+<li><strong>Trang thanh toán (Checkout)</strong>: Nhập thông tin liên hệ, áp dụng mã giảm giá và lựa chọn 1 trong 2 phương thức thanh toán:</li>
+<ul>
+<li>*Thanh toán khi nhận hàng (COD)*.</li>
+<li>*Thanh toán trực tuyến*: Chuyển hướng đến cổng thanh toán giả lập hiển thị mã QR cùng chữ ký bảo mật checksum. Sau khi quét mã và xác nhận chuyển khoản, đơn hàng tự động chuyển sang trạng thái &quot;Đã thanh toán&quot; (Paid).</li>
+</ul>
+<li><strong>Theo dõi &amp; Hoàn thành đơn hàng</strong>: Khách hàng kiểm tra lịch sử mua hàng, theo dõi tiến trình (Chờ duyệt -&gt; Đang pha chế -&gt; Đang giao hàng) bằng thanh tiến trình trực quan. Khi đã nhận được đồ uống, khách hàng có thể bấm nút <strong>&quot;Đã Nhận Được Hàng&quot;</strong> để chuyển trạng thái đơn hàng thành <strong>Hoàn thành</strong>.</li>
+</ul>
+<h3>4.2. Trí tuệ nhân tạo AI Chatbot (Gemini 2.5 Flash API)</h3>
+<ul>
+<li><strong>Cơ chế hoạt động</strong>: Chatbot tích hợp trực tiếp ở góc dưới màn hình. Khi người dùng nhập câu hỏi, hệ thống gửi request thông qua cURL đến API OpenRouter sử dụng mô hình Gemini 2.5 Flash.</li>
+<li><strong>Tích hợp dữ liệu CSDL (RAG-like)</strong>: Hệ thống tự động truy vấn danh sách toàn bộ sản phẩm thực tế trong Database (tên, mô tả, giá cả) cùng các thông tin của cửa hàng (địa chỉ, số điện thoại, giờ hoạt động, mã giảm giá) và nạp vào prompt hệ thống. Nhờ đó, AI có thể trả lời cực kỳ chính xác về menu của quán.</li>
+<li><strong>Đường link động</strong>: AI được cấu hình để tự động chèn các liên kết dạng thẻ HTML (<code>&lt;a href=&#039;index.php?controller=product&amp;action=detail&amp;id=ID_SẢN_PHẨM&#039;...&gt;</code>) khi giới thiệu đồ uống, giúp khách hàng click vào là chuyển ngay đến trang chi tiết của sản phẩm đó để đặt mua.</li>
+<li><strong>Fallback</strong>: Nếu cuộc gọi API gặp sự cố (hết tiền, lỗi mạng), hệ thống tự động kích hoạt bộ xử lý quy tắc cục bộ (Local Rules Fallback) để trả lời khách hàng mà không gây gián đoạn trải nghiệm.</li>
+</ul>
+<h3>4.3. Thuật toán gợi ý sản phẩm mua kèm AI (Association Rule Mining)</h3>
+<ul>
+<li>Tại trang chi tiết sản phẩm, hệ thống phân tích lịch sử các đơn hàng đã đặt trong bảng <code>order_items</code>.</li>
+<li>Áp dụng thuật toán tìm kiếm các sản phẩm có tần suất xuất hiện cùng nhau nhiều nhất trong một giỏ hàng để hiển thị tại mục <strong>&quot;Sản Phẩm Thường Được Mua Cùng (Gợi ý từ AI)&quot;</strong>.</li>
+<li>Nếu chưa có lịch sử mua kèm thực tế, hệ thống tự động lấy các sản phẩm cùng danh mục làm giải pháp bổ trợ (fallback).</li>
+</ul>
+<h3>4.4. Hệ thống Quản trị (Admin Dashboard)</h3>
+<ul>
+<li><strong>Tổng quan trực quan</strong>: Hiển thị doanh số tổng, số lượng đơn hàng, số khách hàng đăng ký và số sản phẩm đang kinh doanh.</li>
+<li><strong>Thống kê nâng cao</strong>: Hiển thị danh sách Top 5 sản phẩm bán chạy nhất thu về doanh số cao nhất và Top 5 khách hàng tiềm năng chi tiêu nhiều nhất.</li>
+<li><strong>Quản lý sản phẩm</strong>: Cho phép Admin thêm mới, cập nhật sản phẩm cùng tính năng tải lên hình ảnh sản phẩm thực tế vào thư mục máy chủ.</li>
+<li><strong>Xuất báo cáo</strong>: Tính năng kết xuất dữ liệu đơn hàng ra tệp tin CSV chuẩn mã hóa UTF-8 để mở trực tiếp và quản lý trong Microsoft Excel.</li>
+<li><strong>Gửi mail xác nhận</strong>: SMTP Mailer tự động gửi email hóa đơn định dạng HTML sang hòm thư của khách hàng ngay khi đặt đơn hàng thành công.</li>
+</ul>
+<hr />
+<h2>5. CÁC CƠ CHẾ BẢO MẬT &amp; SEO ĐÃ ÁP DỤNG</h2>
+<h3>5.1. Cơ chế bảo mật (Security)</h3>
+<ul>
+<li><strong>Phòng chống SQL Injection</strong>: Toàn bộ các câu lệnh truy vấn dữ liệu từ cơ sở dữ liệu đều sử dụng <strong>Prepared Statements</strong> (câu lệnh chuẩn bị sẵn) và liên kết tham số bằng PDO (<code>bindValue</code> / <code>execute([&#039;:param&#039; =&gt; $value])</code>). Việc này loại bỏ hoàn toàn nguy cơ hacker chèn mã SQL độc hại vào các ô nhập liệu.</li>
+<li><strong>Mã hóa mật khẩu</strong>: Mật khẩu của người dùng được băm (hash) bằng thuật toán <strong>Bcrypt</strong> an toàn nhất hiện nay thông qua hàm <code>password_hash()</code> của PHP trước khi lưu vào CSDL, đảm bảo an toàn ngay cả khi database bị rò rỉ.</li>
+<li><strong>Phòng chống tấn công XSS</strong>: Sử dụng hàm <code>htmlspecialchars()</code> trước khi in (render) bất kỳ dữ liệu đầu vào nào của người dùng ra màn hình trình duyệt nhằm vô hiệu hóa các thẻ script độc hại.</li>
+<li><strong>Bảo mật Session &amp; Phân quyền</strong>: Áp dụng cơ chế kiểm tra session chặt chẽ tại hàm khởi tạo của các controller. Khách hàng thông thường không thể truy cập các action quản trị của Admin, và khách hàng này không thể xem chi tiết đơn hàng của khách hàng khác.</li>
+</ul>
+<h3>5.2. Tối ưu hóa công cụ tìm kiếm (SEO)</h3>
+<ul>
+<li><strong>URL Rewriting</strong>: Cấu hình tệp <code>.htaccess</code> để tối ưu đường dẫn tĩnh, ẩn các tham số đuôi mở rộng phức tạp, giúp các công cụ tìm kiếm dễ dàng thu thập dữ liệu (Index).</li>
+<li><strong>Cấu trúc thẻ tiêu đề &amp; Meta</strong>:</li>
+<ul>
+<li>Mỗi trang con đều được định nghĩa một thẻ <code>&lt;title&gt;</code> riêng biệt mô tả đúng nội dung trang (nhã trang thực đơn, trang chi tiết món ăn).</li>
+<li>Tích hợp thẻ <code>&lt;meta name=&quot;description&quot;&gt;</code> mô tả hấp dẫn, chuẩn hóa cấu trúc phân cấp thẻ tiêu đề (chỉ duy nhất một thẻ <code>&lt;h1&gt;</code> làm tiêu đề chính trên mỗi trang, tiếp theo là các thẻ <code>&lt;h2&gt;</code>, <code>&lt;h3&gt;</code> bổ trợ).</li>
+</ul>
+<li><strong>Thẻ Semantic HTML5</strong>: Sử dụng các thẻ ngữ nghĩa của HTML5 như <code>&lt;nav&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;aside&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;footer&gt;</code> giúp các công cụ tìm kiếm (như Google Bot) hiểu rõ bố cục và trọng tâm nội dung của website.</li>
+</ul>
+<hr />
+<h2>6. KẾT LUẬN &amp; HƯỚNG PHÁT TRIỂN</h2>
+<h3>6.1. Kết quả đạt được</h3>
+<ul>
+<li>Website đã được xây dựng hoàn thiện theo phong cách Matcha &amp; Milk Tea Cream hiện đại, responsive chạy mượt mà trên cả máy tính lẫn thiết bị di động.</li>
+<li>Quy trình e-commerce hoạt động trơn tru từ khâu chọn món, đặt hàng, thanh toán trực tuyến đến quản trị viên xử lý đơn và xuất báo cáo kinh doanh.</li>
+<li>Tích hợp AI Chatbot (Gemini 2.5 Flash) hoạt động thông minh, phản hồi tự nhiên và dẫn link sản phẩm linh hoạt giúp gia tăng tỷ lệ chuyển đổi đơn hàng.</li>
+</ul>
+<h3>6.2. Hướng phát triển tương lai</h3>
+<ul>
+<li>Tích hợp các cổng thanh toán trực tuyến chính thức bằng API thực tế (như MoMo, VNPAY, PayOS).</li>
+<li>Ứng dụng mô hình AI tự động phân tích hành vi của khách hàng trên trang web để đưa ra các gợi ý cá nhân hóa sâu hơn.</li>
+<li>Xây dựng ứng dụng di động (Mobile App) đồng bộ hóa cơ sở dữ liệu để mở rộng kênh bán hàng.</li>
+</ul>
+
+
+<!-- Word Page Numbering Footer -->
+<div style="mso-element: footer;" id="f1">
+    <p class="MsoFooter">
+        <!--[if supportFields]>
+        <span style="mso-element:field-begin"></span>
+        <span> PAGE </span>
+        <span style="mso-element:field-separator"></span>
+        <![endif]-->
+        <span class="MsoPageNumber"></span>
+        <!--[if supportFields]>
+        <span style="mso-element:field-end"></span>
+        <![endif]-->
+    </p>
+</div>
+
+</div>
+</body>
+</html>
