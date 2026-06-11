@@ -120,7 +120,7 @@
             <div class="relative group bg-white rounded-3xl p-4 shadow-xl border border-white/10 inline-block max-w-full">
                 <!-- Outer styling glow -->
                 <div class="absolute -inset-0.5 bg-gradient-to-br from-primary to-primary-light rounded-3xl blur opacity-10 group-hover:opacity-25 transition-opacity duration-300 -z-10"></div>
-                <img src="<?php echo BASE_URL; ?>public/images/payment_qr.png" 
+                <img src="<?php echo BASE_URL; ?>public/images/payment_qr.png?v=<?php echo time(); ?>" 
                      alt="Mã QR nhận tiền VU LE PHI HUNG" 
                      class="w-64 h-auto mx-auto rounded-2xl block object-contain">
             </div>
