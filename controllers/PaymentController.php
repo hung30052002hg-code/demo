@@ -33,6 +33,14 @@ class PaymentController
             exit;
         }
 
+        // Thông tin cấu hình tài khoản nhận tiền
+        $bankInfo = [
+            'bank_name' => 'Ví điện tử MoMo',
+            'account_number' => '*******410',
+            'account_name' => 'VU LE PHI HUNG',
+            'memo' => 'DH' . $order['id']
+        ];
+
         // Lấy danh mục sản phẩm phục vụ cho header layout
         $categories = $this->categoryModel->getAll();
 
