@@ -7,8 +7,9 @@
 // Khởi tạo session
 session_start();
 
-// Định nghĩa hằng số
-define('BASE_URL', '/Shoptrasua/');
+// Tự động phát hiện đường dẫn gốc (BASE_URL) để chạy tương thích cả trên localhost và hosting
+$basePath = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME']));
+define('BASE_URL', rtrim($basePath, '/') . '/');
 define('ROOT_PATH', __DIR__ . '/');
 
 // Lấy controller và action từ URL

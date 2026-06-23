@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /Shoptrasua/
+# RewriteBase /Shoptrasua/
 
 # Nếu file hoặc thư mục tồn tại thì không rewrite
 RewriteCond %{REQUEST_FILENAME} !-f

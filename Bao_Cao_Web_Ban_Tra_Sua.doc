@@ -1,0 +1,616 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+      xmlns:w="urn:schemas-microsoft-com:office:word"
+      xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Báo Cáo Thực Tập</title>
+<style>
+    @page {
+        size: 21cm 29.7cm; /* A4 */
+        margin: 2cm 2cm 2cm 3cm;
+        mso-page-orientation: portrait;
+    }
+    @page Section1 {
+        size: 21cm 29.7cm;
+        margin: 2cm 2cm 2cm 3cm;
+        mso-header-margin: 1.5cm;
+        mso-footer-margin: 1.5cm;
+        mso-paper-source: 0;
+    }
+    div.Section1 { page: Section1; }
+    
+    body {
+        font-family: "Times New Roman", serif;
+        font-size: 13pt;
+        line-height: 1.5;
+        text-align: justify;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-family: "Times New Roman", serif;
+        font-weight: bold;
+    }
+    h1 { font-size: 18pt; text-align: center; text-transform: uppercase; margin-top: 24pt; margin-bottom: 12pt; page-break-before: always; }
+    h2 { font-size: 14pt; margin-top: 18pt; margin-bottom: 6pt; }
+    h3 { font-size: 13pt; font-style: italic; margin-top: 12pt; margin-bottom: 6pt; }
+    p { margin-top: 6pt; margin-bottom: 6pt; text-indent: 1cm; }
+    ul, ol { margin-top: 6pt; margin-bottom: 6pt; }
+    li { margin-bottom: 6pt; }
+    table { width: 100%; border-collapse: collapse; margin-top: 12pt; margin-bottom: 12pt; }
+    th, td { border: 1pt solid black; padding: 6pt; font-size: 12pt; text-align: left; }
+    th { font-weight: bold; text-align: center; background-color: #f2f2f2; }
+    .center { text-align: center; text-indent: 0; }
+    .bold { font-weight: bold; }
+    .italic { font-style: italic; }
+    .page-break { page-break-before: always; }
+    .cover-page {
+        text-align: center;
+        border: 3pt solid black;
+        padding: 2cm;
+        height: 25cm;
+        box-sizing: border-box;
+    }
+    .cover-title { font-size: 24pt; font-weight: bold; text-transform: uppercase; margin-top: 2cm; margin-bottom: 2cm; }
+    .cover-subtitle { font-size: 16pt; font-weight: bold; margin-bottom: 1cm; }
+    .cover-info { font-size: 14pt; text-align: left; margin-left: 2cm; margin-top: 3cm; line-height: 2; }
+    
+    pre {
+        font-family: "Courier New", Courier, monospace;
+        font-size: 10pt;
+        background-color: #f8f9fa;
+        border: 1px solid #ccc;
+        padding: 10px;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+</style>
+</head>
+<body>
+<div class="Section1">
+
+    <!-- TRANG BÌA -->
+    <div class="cover-page">
+        <p class="center" style="font-size: 14pt; font-weight: bold; text-transform: uppercase; margin-top: 1cm;">BỘ GIÁO DỤC VÀ ĐÀO TẠO</p>
+        <p class="center" style="font-size: 14pt; font-weight: bold; text-transform: uppercase;">TRƯỜNG ĐẠI HỌC ...</p>
+        <p class="center" style="font-size: 14pt; font-weight: bold;">KHOA CÔNG NGHỆ THÔNG TIN</p>
+        
+        <div style="margin-top: 4cm;"></div>
+        
+        <p class="center cover-title">BÁO CÁO BÀI TẬP LỚN / ĐỒ ÁN</p>
+        <p class="center cover-subtitle">TÊN ĐỀ TÀI: XÂY DỰNG WEBSITE BÁN TRÀ SỮA TRỰC TUYẾN SỬ DỤNG PHP & MYSQL THEO MÔ HÌNH MVC</p>
+        
+        <div class="cover-info">
+            <p><strong>Giảng viên hướng dẫn:</strong> ......................................................</p>
+            <p><strong>Sinh viên thực hiện:</strong> Vũ Lê Phi Hùng</p>
+            <p><strong>Mã sinh viên:</strong> ......................................................</p>
+            <p><strong>Lớp:</strong> ......................................................</p>
+        </div>
+        
+        <div style="margin-top: 4cm;"></div>
+        <p class="center" style="font-size: 12pt;">Năm 2026</p>
+    </div>
+
+    <!-- LỜI CẢM ƠN -->
+    <h1 class="page-break">LỜI CẢM ƠN</h1>
+    <p>Trong quá trình học tập và hoàn thành đồ án môn học này, em đã nhận được sự hướng dẫn tận tình của các thầy cô giáo trong Khoa Công nghệ Thông tin. Em xin gửi lời cảm ơn chân thành và sâu sắc nhất đến thầy/cô đã trực tiếp hướng dẫn, chỉ bảo và tạo mọi điều kiện thuận lợi nhất để em có thể hoàn thành tốt báo cáo này.</p>
+    <p>Do thời gian thực hiện có hạn và kiến thức thực tế của bản thân còn nhiều hạn chế, báo cáo khó tránh khỏi những thiếu sót nhất định. Em rất mong nhận được những ý kiến đóng góp quý báu từ các thầy cô giáo để đồ án được hoàn thiện hơn, đồng thời giúp em tích lũy thêm kinh nghiệm quý báu cho quá trình học tập và công tác sau này.</p>
+    <p>Em xin chân thành cảm ơn!</p>
+    <p class="center italic" style="text-align: right; margin-top: 2cm;">Sinh viên thực hiện<br><br><br>Vũ Lê Phi Hùng</p>
+
+    <!-- MỤC LỤC -->
+    <h1 class="page-break">MỤC LỤC</h1>
+    <p><strong>LỜI CẢM ƠN</strong></p>
+    <p><strong>CHƯƠNG 1: TỔNG QUAN ĐỀ TÀI</strong></p>
+    <p>1.1. Lý do chọn đề tài</p>
+    <p>1.2. Mục tiêu của đề tài</p>
+    <p>1.3. Phạm vi và đối tượng nghiên cứu</p>
+    <p><strong>CHƯƠNG 2: CƠ SỞ LÝ THUYẾT VÀ CÔNG NGHỆ SỬ DỤNG</strong></p>
+    <p>2.1. Ngôn ngữ lập trình PHP</p>
+    <p>2.2. Hệ quản trị cơ sở dữ liệu MySQL</p>
+    <p>2.3. Mô hình kiến trúc MVC</p>
+    <p>2.4. Công nghệ Frontend (HTML5, CSS3, Tailwind CSS, JavaScript)</p>
+    <p>2.5. Giải pháp thanh toán trực tuyến (Mã QR thủ công / VNPAY)</p>
+    <p><strong>CHƯƠNG 3: PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG</strong></p>
+    <p>3.1. Đặc tả yêu cầu bài toán</p>
+    <p>3.2. Yêu cầu phi chức năng</p>
+    <p>3.3. Biểu đồ Use Case (Use Case Diagram)</p>
+    <p>3.4. Mô tả chi tiết các Use Case</p>
+    <p><strong>CHƯƠNG 4: THIẾT KẾ CƠ SỞ DỮ LIỆU</strong></p>
+    <p>4.1. Sơ đồ thực thể liên kết (ERD)</p>
+    <p>4.2. Thiết kế chi tiết các bảng CSDL</p>
+    <p><strong>CHƯƠNG 5: TRIỂN KHAI VÀ ĐÁNH GIÁ KẾT QUẢ</strong></p>
+    <p>5.1. Cấu trúc thư mục dự án</p>
+    <p>5.2. Các giao diện chính của hệ thống</p>
+    <p>5.3. Các chức năng nổi bật đã triển khai</p>
+    <p><strong>KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN</strong></p>
+    <p><strong>PHỤ LỤC: MÃ NGUỒN HỆ THỐNG</strong></p>
+
+    <!-- CHƯƠNG 1 -->
+    <h1 class="page-break">CHƯƠNG 1: TỔNG QUAN ĐỀ TÀI</h1>
+    <h2>1.1. Lý do chọn đề tài</h2>
+    <p>Sự bùng nổ của mạng lưới Internet và các thiết bị di động trong thập kỷ qua đã và đang làm thay đổi sâu sắc mọi khía cạnh của đời sống con người, từ thói quen sinh hoạt hàng ngày đến phương thức vận hành của toàn bộ nền kinh tế. Trong bối cảnh đó, Thương mại điện tử (E-commerce) nổi lên như một xu hướng tất yếu, một công cụ đắc lực giúp xóa bỏ mọi rào cản về không gian và thời gian trong giao thương. Tại Việt Nam, thị trường thương mại điện tử đang trải qua giai đoạn phát triển rực rỡ nhất với tốc độ tăng trưởng ấn tượng, thu hút sự tham gia của đông đảo người tiêu dùng và doanh nghiệp.</p>
+    <p>Cùng với xu hướng đó, văn hóa thưởng thức đồ uống, đặc biệt là trà sữa, đã trở thành một phần không thể thiếu trong lối sống hiện đại của giới trẻ Việt Nam nói riêng và người dân đô thị nói chung. Các chuỗi cửa hàng trà sữa mọc lên khắp nơi, tạo ra một thị trường cạnh tranh vô cùng khốc liệt. Tuy nhiên, phương thức kinh doanh truyền thống – khách hàng trực tiếp đến cửa hàng để mua – đang dần bộc lộ nhiều hạn chế. Việc phải xếp hàng chờ đợi trong những giờ cao điểm, giới hạn về thời gian mở cửa, cùng với nhu cầu mua sắm trực tuyến ngày càng cao của người tiêu dùng, đặt ra yêu cầu cấp thiết về một giải pháp bán hàng đa kênh, linh hoạt và tiện lợi hơn.</p>
+    <p>Nhận thức được tiềm năng to lớn của thị trường kết hợp với những kiến thức đã được trang bị trong quá trình học tập tại trường đại học, đặc biệt là các kiến thức về phát triển ứng dụng Web, em đã quyết định lựa chọn đề tài: <strong>"Xây dựng Website bán trà sữa trực tuyến sử dụng PHP, MySQL theo mô hình MVC"</strong> làm đồ án/bài tập lớn của mình. Đề tài không chỉ là cơ hội để vận dụng lý thuyết vào giải quyết một bài toán thực tế sinh động, mà còn là bước đệm quan trọng giúp em làm quen với quy trình phát triển một hệ thống phần mềm hoàn chỉnh, từ khâu khảo sát yêu cầu, phân tích thiết kế đến lập trình và kiểm thử.</p>
+    <p>Việc xây dựng một website bán trà sữa chuyên nghiệp sẽ mang lại lợi ích kép. Về phía khách hàng, họ có thể dễ dàng tham khảo thực đơn đa dạng, xem chi tiết thông tin sản phẩm (thành phần, mức đá, mức đường, topping), đặt hàng mọi lúc mọi nơi và lựa chọn các phương thức thanh toán linh hoạt, tiện lợi như thanh toán qua mã QR. Về phía cửa hàng, hệ thống website sẽ là một kênh quảng bá thương hiệu hiệu quả, giúp mở rộng tệp khách hàng, quản lý đơn hàng một cách tập trung, tối ưu hóa quy trình vận hành và đặc biệt là triển khai các chương trình chăm sóc khách hàng tự động như hệ thống tích điểm đổi quà (Loyalty Program) – một tính năng cốt lõi giúp giữ chân khách hàng trong môi trường cạnh tranh hiện nay.</p>
+
+    <h2>1.2. Mục tiêu của đề tài</h2>
+    <p>Mục tiêu tổng quát của đề tài là xây dựng thành công một website thương mại điện tử chuyên cung cấp các sản phẩm đồ uống (trà sữa, cà phê, trà trái cây...) với giao diện đẹp mắt, thân thiện với người dùng, tối ưu hóa trải nghiệm mua sắm trên nhiều thiết bị (Responsive Design) và tích hợp các tính năng quản lý bán hàng chuyên nghiệp. Để đạt được mục tiêu tổng quát đó, đề tài đặt ra các mục tiêu cụ thể sau:</p>
+    <ul>
+        <li><strong>Về mặt kỹ thuật:</strong> Xây dựng hệ thống dựa trên nền tảng ngôn ngữ lập trình PHP thuần (Native PHP) kết hợp hệ quản trị cơ sở dữ liệu MySQL, áp dụng triệt để mô hình kiến trúc MVC (Model - View - Controller). Việc sử dụng PHP thuần giúp nắm vững bản chất hoạt động của một ứng dụng Web, cách thức luân chuyển luồng dữ liệu mà không bị phụ thuộc vào các framework phức tạp.</li>
+        <li><strong>Đối với khách hàng (Frontend):</strong> Cung cấp một giao diện trực quan, sang trọng (sử dụng phong cách Dark Mode hiện đại, lấy cảm hứng từ các thương hiệu lớn như Starbucks). Khách hàng có thể dễ dàng tìm kiếm sản phẩm, lọc theo danh mục, xem chi tiết đánh giá, tùy chỉnh đồ uống (chọn kích cỡ, thêm topping), quản lý giỏ hàng, đặt hàng trực tuyến, thanh toán linh hoạt và theo dõi điểm tích lũy của mình.</li>
+        <li><strong>Đối với quản trị viên (Backend):</strong> Xây dựng một trang quản trị (Admin Dashboard) bảo mật và toàn diện, cho phép chủ cửa hàng thực hiện các nghiệp vụ CRUD (Create, Read, Update, Delete) đối với danh mục sản phẩm, sản phẩm, quản lý thông tin khách hàng, xử lý đơn hàng theo từng trạng thái (chờ xác nhận, đang giao, hoàn thành, đã hủy), cập nhật trạng thái thanh toán và quản lý các thiết lập chung của hệ thống.</li>
+        <li><strong>Tính năng nổi bật:</strong> Triển khai thành công hệ thống tích điểm thành viên (Loyalty points) và quy đổi điểm thưởng khi thanh toán; tích hợp phương thức thanh toán chuyển khoản thông qua mã QR linh hoạt thay thế cho các cổng thanh toán truyền thống đôi khi bị quá tải hoặc lỗi môi trường Sandbox.</li>
+    </ul>
+
+    <h2>1.3. Phạm vi và đối tượng nghiên cứu</h2>
+    <h3>1.3.1. Đối tượng nghiên cứu</h3>
+    <p>Đối tượng nghiên cứu chính của đề tài là quy trình nghiệp vụ bán hàng, quản lý kho hàng và chăm sóc khách hàng tại một cửa hàng đồ uống quy mô vừa và nhỏ. Ngoài ra, đề tài cũng tập trung nghiên cứu chuyên sâu về các công nghệ lập trình Web phía Server-side (PHP), Client-side (HTML/CSS/JS, Tailwind CSS), và các nguyên lý thiết kế cơ sở dữ liệu quan hệ (MySQL).</p>
+    
+    <h3>1.3.2. Phạm vi nghiên cứu</h3>
+    <p>Do giới hạn về thời gian và nguồn lực thực hiện, hệ thống tập trung hoàn thiện các tính năng cốt lõi nhất của một website thương mại điện tử cơ bản. Phạm vi của đề tài bao gồm:</p>
+    <ul>
+        <li>Xây dựng phân hệ người dùng: Đăng ký, đăng nhập, quên mật khẩu, xem sản phẩm, tìm kiếm, thêm vào giỏ hàng, thanh toán, quản lý tài khoản cá nhân, lịch sử đơn hàng và điểm thưởng.</li>
+        <li>Xây dựng phân hệ quản trị: Đăng nhập quyền Admin, quản lý danh mục (Categories), quản lý sản phẩm (Products), quản lý người dùng (Users), quản lý đơn hàng (Orders) và quản lý banner quảng cáo.</li>
+        <li>Các tính năng nâng cao như trí tuệ nhân tạo dự đoán xu hướng mua hàng, hệ thống gợi ý sản phẩm phức tạp hay quản lý chuỗi cung ứng đa kho tạm thời chưa được đưa vào phạm vi của phiên bản này.</li>
+    </ul>
+
+    <!-- CHƯƠNG 2 -->
+    <h1 class="page-break">CHƯƠNG 2: CƠ SỞ LÝ THUYẾT VÀ CÔNG NGHỆ SỬ DỤNG</h1>
+    <h2>2.1. Ngôn ngữ lập trình PHP (Hypertext Preprocessor)</h2>
+    <p>PHP là một ngôn ngữ lập trình kịch bản (scripting language) mã nguồn mở, chạy ở phía server (server-side) và được thiết kế đặc biệt để phát triển các ứng dụng Web động. Được tạo ra bởi Rasmus Lerdorf vào năm 1994, trải qua nhiều thập kỷ phát triển, PHP hiện nay vẫn là một trong những ngôn ngữ phổ biến nhất thế giới để xây dựng các trang web, từ các blog nhỏ cá nhân đến các hệ thống thương mại điện tử khổng lồ, mạng xã hội (như giai đoạn đầu của Facebook). Mã lệnh PHP được nhúng trực tiếp vào trong các tài liệu HTML và được thực thi trên máy chủ Web (như Apache, Nginx), sau đó máy chủ sẽ gửi kết quả dạng HTML thuần túy về trình duyệt của người dùng.</p>
+    <p>Một số ưu điểm vượt trội khiến PHP được lựa chọn cho đề tài này bao gồm:</p>
+    <ul>
+        <li><strong>Miễn phí và mã nguồn mở:</strong> PHP hoàn toàn miễn phí để tải về và sử dụng, tiết kiệm chi phí bản quyền phần mềm.</li>
+        <li><strong>Cộng đồng hỗ trợ lớn:</strong> Với lịch sử phát triển lâu đời, PHP sở hữu một cộng đồng nhà phát triển khổng lồ, kho tài liệu phong phú, hàng ngàn thư viện và giải pháp có sẵn trên các diễn đàn (như StackOverflow) giúp giải quyết mọi vấn đề phát sinh trong quá trình code.</li>
+        <li><strong>Khả năng tích hợp mạnh mẽ:</strong> PHP kết nối và làm việc cực kỳ trơn tru với hầu hết các hệ quản trị CSDL hiện nay, đặc biệt là MySQL – một bộ đôi hoàn hảo LAMP/WAMP stack.</li>
+        <li><strong>Dễ học và triển khai:</strong> Cú pháp của PHP mang nhiều nét tương đồng với C và Java, rất thân thiện với người mới bắt đầu. Việc cấu hình và triển khai (deploy) ứng dụng PHP lên các máy chủ hosting (Shared Hosting, VPS) cũng vô cùng đơn giản và tiết kiệm.</li>
+    </ul>
+
+    <h2>2.2. Hệ quản trị cơ sở dữ liệu MySQL</h2>
+    <p>MySQL là một hệ quản trị cơ sở dữ liệu quan hệ (Relational Database Management System - RDBMS) mã nguồn mở phổ biến nhất trên thế giới, thuộc sở hữu của tập đoàn Oracle. Nó sử dụng ngôn ngữ truy vấn có cấu trúc (SQL - Structured Query Language) để thao tác, quản lý và truy xuất dữ liệu. Trong mô hình ứng dụng Web động, dữ liệu không được lưu cứng trên file HTML mà được quản lý tập trung trong các bảng (Tables) của cơ sở dữ liệu, giúp dễ dàng mở rộng, bảo trì và đảm bảo tính toàn vẹn.</p>
+    <p>Lý do lựa chọn MySQL kết hợp với PHP:</p>
+    <ul>
+        <li><strong>Hiệu suất cao:</strong> MySQL được tối ưu hóa để xử lý một lượng lớn dữ liệu với tốc độ truy vấn cực nhanh, đáp ứng tốt yêu cầu của một website thương mại điện tử với hàng ngàn sản phẩm và lượt truy cập.</li>
+        <li><strong>Độ tin cậy và bảo mật:</strong> Cung cấp các cơ chế phân quyền người dùng chặt chẽ, mã hóa mật khẩu, hỗ trợ Transaction (giao dịch) để đảm bảo tính nhất quán của dữ liệu (đặc biệt quan trọng trong các thao tác thanh toán, cập nhật đơn hàng).</li>
+        <li><strong>Hỗ trợ PDO (PHP Data Objects):</strong> Trong project này, kết nối đến cơ sở dữ liệu MySQL được thực hiện thông qua lớp PDO của PHP. PDO cung cấp một giao diện thống nhất để truy cập CSDL, đặc biệt hỗ trợ Prepared Statements giúp bảo vệ hệ thống chống lại các cuộc tấn công SQL Injection một cách triệt để.</li>
+    </ul>
+
+    <h2>2.3. Mô hình kiến trúc MVC (Model - View - Controller)</h2>
+    <p>MVC là một mẫu kiến trúc phần mềm (Software Architectural Pattern) kinh điển, đóng vai trò sống còn trong việc xây dựng các ứng dụng Web có cấu trúc rõ ràng, dễ bảo trì và mở rộng. Khắc phục nhược điểm của việc lập trình "spaghetti" (trộn lẫn mã xử lý logic, truy vấn CSDL và mã hiển thị HTML vào cùng một file), MVC chia tách ứng dụng thành 3 thành phần chính biệt lập:</p>
+    <ul>
+        <li><strong>Model (Mô hình):</strong> Là lớp chịu trách nhiệm xử lý toàn bộ các nghiệp vụ liên quan đến dữ liệu (Business Logic & Data Access). Model sẽ giao tiếp trực tiếp với cơ sở dữ liệu MySQL, thực hiện các câu lệnh SELECT, INSERT, UPDATE, DELETE. Nó không cần biết dữ liệu sẽ được hiển thị ra sao. Trong đồ án, các file như `User.php`, `Product.php`, `Order.php` đóng vai trò là Model.</li>
+        <li><strong>View (Giao diện):</strong> Là lớp chịu trách nhiệm hiển thị thông tin, tương tác trực tiếp với người dùng (User Interface). View nhận dữ liệu từ Controller và định dạng chúng dưới dạng mã HTML/CSS/JS để trình duyệt hiểu được. View không chứa các xử lý logic phức tạp hay truy vấn CSDL. Trong đồ án, các file nằm trong thư mục `views/` đóng vai trò này.</li>
+        <li><strong>Controller (Bộ điều khiển):</strong> Là lớp trung gian kết nối giữa Model và View. Nó tiếp nhận các yêu cầu (Request) từ người dùng gửi qua URL, quyết định sẽ gọi Model nào để lấy dữ liệu tương ứng, sau đó truyền dữ liệu đó sang View thích hợp để kết xuất giao diện. Ví dụ: khi người dùng truy cập trang giỏ hàng, `CartController` sẽ gọi `ProductModel` để lấy thông tin sản phẩm trong giỏ, rồi trả về `cart_view.php`.</li>
+    </ul>
+
+    <h2>2.4. Công nghệ Frontend (HTML5, CSS3, Tailwind CSS, JavaScript)</h2>
+    <p>Để tạo ra một giao diện người dùng hấp dẫn, hiện đại và chuẩn SEO, phần Frontend của hệ thống sử dụng kết hợp các công nghệ tiên tiến nhất hiện nay:</p>
+    <ul>
+        <li><strong>HTML5:</strong> Xây dựng bộ khung xương của trang web, sử dụng các thẻ Semantic (header, nav, section, article, footer) giúp cấu trúc tài liệu rõ ràng, hỗ trợ tốt cho việc tối ưu hóa công cụ tìm kiếm (SEO) và hỗ trợ các thiết bị đọc màn hình.</li>
+        <li><strong>CSS3 và Tailwind CSS:</strong> CSS3 được dùng để định kiểu hiển thị. Đặc biệt, hệ thống ứng dụng framework Tailwind CSS – một utility-first CSS framework. Thay vì phải viết các file CSS tùy chỉnh dài dòng, Tailwind cung cấp các class tiện ích nhỏ gọn (như `flex`, `pt-4`, `text-center`, `bg-blue-500`) trực tiếp vào mã HTML, giúp tăng tốc độ phát triển giao diện lên gấp nhiều lần, đồng thời đảm bảo tính đồng nhất (Design System) và dễ dàng xây dựng giao diện tương thích đa màn hình (Responsive Mobile-first). Đề tài sử dụng bộ màu sắc "Dark Matcha" (xanh lá kết hợp nền tối) để tạo cảm giác sang trọng, cao cấp như các thương hiệu lớn.</li>
+        <li><strong>JavaScript (Vanilla JS):</strong> Được sử dụng để xử lý các tương tác động ở phía client mà không cần tải lại trang. Các chức năng như: thêm sản phẩm vào giỏ hàng bằng AJAX, hiển thị thông báo động (Toast notifications), cập nhật số lượng và tổng tiền theo thời gian thực (Real-time calculation), tạo hiệu ứng trượt (slider) cho banner, xử lý các menu thả xuống trên thiết bị di động.</li>
+    </ul>
+
+    <h2>2.5. Hệ thống Điểm thưởng (Loyalty Program) và Thanh toán QR Code</h2>
+    <p>Đây là hai điểm nhấn kỹ thuật quan trọng của đề tài, tạo sự khác biệt so với các website bán hàng cơ bản:</p>
+    <ul>
+        <li><strong>Hệ thống tích điểm (Loyalty Points):</strong> Một chiến lược Marketing hiệu quả nhằm giữ chân khách hàng. Thuật toán được thiết kế: Với mỗi đơn hàng thanh toán thành công, khách hàng sẽ nhận được số điểm tương đương một tỷ lệ phần trăm giá trị đơn hàng (ví dụ: 1% - mua 100.000đ được tích 1000 điểm). Điểm này được lưu trữ trong bảng `users`. Khi mua hàng ở những lần tiếp theo, khách hàng có thể nhập số điểm muốn sử dụng. Hệ thống sẽ tự động quy đổi điểm thành tiền giảm giá (1 điểm = 1 VNĐ), trừ thẳng vào tổng tiền cần thanh toán, đồng thời cập nhật lại số dư điểm của khách trong CSDL. Việc này đòi hỏi tính toán logic chặt chẽ trong `OrderController` để tránh việc điểm bị âm hoặc quy đổi sai.</li>
+        <li><strong>Thanh toán qua mã QR (QR Code Payment):</strong> Trong bối cảnh các cổng thanh toán trung gian như VNPAY Sandbox đôi khi gặp sự cố hoặc timeout do môi trường test, giải pháp thanh toán qua mã QR chuyển khoản thủ công được áp dụng. Khi khách hàng chọn phương thức thanh toán này, hệ thống sẽ sinh ra một giao diện hiển thị hình ảnh mã QR Code của ngân hàng chủ shop (tên tài khoản, số tài khoản, tên ngân hàng) kèm theo nội dung chuyển khoản tự động (Memo) được định dạng theo mã đơn hàng (Ví dụ: DH1029). Khách hàng sử dụng ứng dụng Banking trên điện thoại quét mã này, số tiền và nội dung sẽ tự động được điền. Sau khi chuyển, khách ấn nút "Xác nhận đã chuyển", quản trị viên sẽ đối soát và duyệt đơn hàng. Phương pháp này giảm thiểu chi phí tích hợp cổng thanh toán mà vẫn đảm bảo tính tự động hóa cao và an toàn.</li>
+    </ul>
+
+    <!-- CHƯƠNG 3 -->
+    <h1 class="page-break">CHƯƠNG 3: PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG</h1>
+    <h2>3.1. Đặc tả yêu cầu bài toán</h2>
+    <p>Thông qua quá trình khảo sát thực tế tại các cửa hàng bán đồ uống và phân tích nhu cầu của thị trường, hệ thống website bán trà sữa được xác định bao gồm hai nhóm tác nhân (Actors) chính: Người dùng (Customer/Guest) và Quản trị viên (Admin). Mỗi nhóm tác nhân sẽ có những đặc quyền và chức năng riêng biệt nhằm đảm bảo hệ thống vận hành trơn tru.</p>
+    
+    <h3>3.1.1. Yêu cầu chức năng đối với Người dùng (Khách hàng)</h3>
+    <ul>
+        <li><strong>Quản lý tài khoản:</strong> Đăng ký tài khoản mới bằng Email/Số điện thoại; Đăng nhập/Đăng xuất hệ thống; Cập nhật thông tin cá nhân, địa chỉ giao hàng mặc định; Thay đổi mật khẩu; Xem lại lịch sử mua hàng và chi tiết các đơn hàng đã đặt; Xem thông tin điểm tích lũy (Loyalty Points) hiện có.</li>
+        <li><strong>Duyệt và tìm kiếm sản phẩm:</strong> Xem danh sách sản phẩm ở trang chủ (sản phẩm nổi bật, sản phẩm mới); Lọc sản phẩm theo danh mục (Trà sữa, Cà phê, Nước trái cây, Topping...); Tìm kiếm sản phẩm theo tên thông qua thanh tìm kiếm; Xem thông tin chi tiết của một sản phẩm (Hình ảnh, giá cả, mô tả thành phần, đánh giá).</li>
+        <li><strong>Giỏ hàng:</strong> Thêm sản phẩm vào giỏ hàng; Có thể tùy chọn biến thể sản phẩm trước khi thêm (Size M, L; thêm Trân châu, Thạch... nếu có); Cập nhật số lượng sản phẩm trực tiếp trong giỏ; Xóa sản phẩm khỏi giỏ hàng; Hệ thống tự động tính toán tạm tính.</li>
+        <li><strong>Thanh toán và Đặt hàng:</strong> Nhập thông tin người nhận (Tên, SĐT, Địa chỉ chi tiết); Chọn phương thức vận chuyển và thanh toán (Thanh toán khi nhận hàng - COD, hoặc Thanh toán trực tuyến qua mã QR ngân hàng); Áp dụng điểm tích lũy để giảm giá; Xác nhận đặt hàng thành công.</li>
+    </ul>
+
+    <h3>3.1.2. Yêu cầu chức năng đối với Quản trị viên (Admin)</h3>
+    <ul>
+        <li><strong>Xác thực bảo mật:</strong> Đăng nhập vào khu vực quản trị với tài khoản có quyền Admin. Hệ thống chặn truy cập trái phép bằng Middleware kiểm tra Session.</li>
+        <li><strong>Bảng điều khiển (Dashboard):</strong> Xem tổng quan các chỉ số kinh doanh quan trọng: Tổng doanh thu, số lượng đơn hàng, số lượng khách hàng, số đơn hàng đang chờ xử lý. Xem biểu đồ thống kê trực quan.</li>
+        <li><strong>Quản lý Danh mục (Categories):</strong> Thêm mới, sửa tên, xóa danh mục sản phẩm (Chỉ xóa khi không có sản phẩm nào thuộc danh mục đó để tránh lỗi ràng buộc toàn vẹn dữ liệu).</li>
+        <li><strong>Quản lý Sản phẩm (Products):</strong> Thêm sản phẩm mới (Tên, Giá, Mô tả, Hình ảnh đại diện tải lên, Chọn danh mục); Chỉnh sửa thông tin sản phẩm; Xóa sản phẩm; Ẩn/Hiện sản phẩm trên website.</li>
+        <li><strong>Quản lý Đơn hàng (Orders):</strong> Xem danh sách tất cả đơn hàng; Lọc đơn hàng theo trạng thái; Xem chi tiết một đơn hàng (Thông tin khách, sản phẩm mua, tổng tiền, số điểm đã dùng, phương thức thanh toán); Cập nhật trạng thái đơn hàng (Chờ xác nhận -> Đã xác nhận -> Đang giao hàng -> Hoàn thành / Đã hủy); Cập nhật trạng thái thanh toán (Chưa thanh toán -> Đã thanh toán). Việc cập nhật trạng thái "Hoàn thành" sẽ kích hoạt hệ thống cộng điểm thưởng cho khách.</li>
+        <li><strong>Quản lý Người dùng (Users):</strong> Xem danh sách tài khoản khách hàng, khóa/mở khóa tài khoản khi có dấu hiệu vi phạm.</li>
+    </ul>
+
+    <h2>3.2. Yêu cầu phi chức năng</h2>
+    <ul>
+        <li><strong>Tính thân thiện (Usability):</strong> Giao diện người dùng phải trực quan, dễ sử dụng, khách hàng có thể hoàn tất việc mua hàng trong vòng tối đa 3-4 thao tác click chuột. Tương thích hiển thị tốt trên mọi kích cỡ màn hình (PC, Laptop, Tablet, Smartphone).</li>
+        <li><strong>Tính bảo mật (Security):</strong> Mật khẩu của người dùng phải được băm (hashing) sử dụng thuật toán mạnh (ví dụ bcrypt) trước khi lưu vào cơ sở dữ liệu. Ngăn chặn các cuộc tấn công phổ biến như SQL Injection (thông qua PDO Prepared Statements), XSS (Cross-Site Scripting - thông qua hàm `htmlspecialchars` khi hiển thị dữ liệu ra View) và CSRF.</li>
+        <li><strong>Tính toàn vẹn dữ liệu:</strong> Đảm bảo ràng buộc khóa ngoại giữa các bảng (ví dụ: không thể xóa một danh mục nếu vẫn còn sản phẩm thuộc danh mục đó, đơn hàng chi tiết phải liên kết chặt chẽ với ID đơn hàng cha). Sử dụng Transaction khi đặt hàng để nếu có lỗi xảy ra ở bất kỳ bước nào (trừ tiền, trừ số lượng, lưu lịch sử), toàn bộ quá trình sẽ được Rollback, không gây sai lệch dữ liệu.</li>
+        <li><strong>Hiệu suất (Performance):</strong> Tốc độ tải trang nhanh, hình ảnh sản phẩm được tối ưu dung lượng.</li>
+    </ul>
+
+    <h2>3.3. Biểu đồ Use Case tổng quát</h2>
+    <p>Biểu đồ Use Case thể hiện sự tương tác giữa các tác nhân (Actor) và các chức năng (Use Case) của hệ thống. Dưới đây là mô tả bằng văn bản về các luồng tương tác chính do hạn chế không thể chèn trực tiếp hình ảnh vào báo cáo text:</p>
+    <ul>
+        <li><strong>Actor: Khách hàng (Customer)</strong> -> (Bao gồm các chức năng: Xem sản phẩm, Tìm kiếm, Đăng ký/Đăng nhập, Quản lý giỏ hàng, Thanh toán đơn hàng, Xem lịch sử mua hàng, Sử dụng điểm thưởng).</li>
+        <li><strong>Actor: Quản trị viên (Admin)</strong> -> (Bao gồm các chức năng: Đăng nhập quản trị, Quản lý Sản phẩm, Quản lý Danh mục, Quản lý Đơn hàng, Quản lý Khách hàng, Thống kê báo cáo).</li>
+    </ul>
+    <p>Mối quan hệ `<<include>>`: Chức năng [Thanh toán đơn hàng] bắt buộc phải có chức năng [Đăng nhập] (hoặc điền thông tin nếu cho phép khách vãng lai). Chức năng [Quản lý Đơn hàng] của Admin bắt buộc phải [Đăng nhập quyền Admin].</p>
+
+    <!-- CHƯƠNG 4 -->
+    <h1 class="page-break">CHƯƠNG 4: THIẾT KẾ CƠ SỞ DỮ LIỆU</h1>
+    <p>Thiết kế cơ sở dữ liệu là bước quan trọng nhất quyết định tính linh hoạt và khả năng mở rộng của hệ thống. Hệ thống website trà sữa sử dụng hệ quản trị CSDL quan hệ MySQL, bao gồm các bảng chính có liên kết chặt chẽ với nhau thông qua khóa chính (Primary Key) và khóa ngoại (Foreign Key).</p>
+
+    <h2>4.1. Thiết kế chi tiết các bảng (Data Dictionary)</h2>
+    
+    <h3>4.1.1. Bảng `users` (Quản lý người dùng)</h3>
+    <p>Lưu trữ thông tin tài khoản của cả khách hàng và quản trị viên, phân biệt qua cột `role`.</p>
+    <table>
+        <tr>
+            <th>Tên trường (Field)</th>
+            <th>Kiểu dữ liệu (Type)</th>
+            <th>Mô tả (Description)</th>
+        </tr>
+        <tr><td>id</td><td>INT(11), AI, PK</td><td>Khóa chính, tự động tăng, định danh người dùng.</td></tr>
+        <tr><td>username</td><td>VARCHAR(50)</td><td>Tên đăng nhập, duy nhất.</td></tr>
+        <tr><td>password</td><td>VARCHAR(255)</td><td>Mật khẩu đã được mã hóa (băm).</td></tr>
+        <tr><td>email</td><td>VARCHAR(100)</td><td>Địa chỉ email, duy nhất.</td></tr>
+        <tr><td>fullname</td><td>VARCHAR(100)</td><td>Họ và tên đầy đủ.</td></tr>
+        <tr><td>phone</td><td>VARCHAR(20)</td><td>Số điện thoại liên lạc.</td></tr>
+        <tr><td>address</td><td>TEXT</td><td>Địa chỉ giao hàng mặc định.</td></tr>
+        <tr><td>role</td><td>ENUM('admin', 'user')</td><td>Quyền hạn (Mặc định là 'user').</td></tr>
+        <tr><td>points</td><td>INT(11)</td><td>Số điểm thưởng hiện có (Mặc định 0).</td></tr>
+        <tr><td>created_at</td><td>TIMESTAMP</td><td>Thời gian tạo tài khoản.</td></tr>
+    </table>
+
+    <h3>4.1.2. Bảng `categories` (Quản lý danh mục sản phẩm)</h3>
+    <table>
+        <tr>
+            <th>Tên trường (Field)</th>
+            <th>Kiểu dữ liệu (Type)</th>
+            <th>Mô tả (Description)</th>
+        </tr>
+        <tr><td>id</td><td>INT(11), AI, PK</td><td>Khóa chính, tự tăng.</td></tr>
+        <tr><td>name</td><td>VARCHAR(100)</td><td>Tên danh mục (Ví dụ: Trà sữa, Trà trái cây).</td></tr>
+        <tr><td>description</td><td>TEXT</td><td>Mô tả ngắn gọn về danh mục.</td></tr>
+        <tr><td>status</td><td>TINYINT(1)</td><td>Trạng thái hoạt động (1: Hiển thị, 0: Ẩn).</td></tr>
+    </table>
+
+    <h3>4.1.3. Bảng `products` (Quản lý sản phẩm)</h3>
+    <table>
+        <tr>
+            <th>Tên trường (Field)</th>
+            <th>Kiểu dữ liệu (Type)</th>
+            <th>Mô tả (Description)</th>
+        </tr>
+        <tr><td>id</td><td>INT(11), AI, PK</td><td>Khóa chính, tự tăng.</td></tr>
+        <tr><td>category_id</td><td>INT(11), FK</td><td>Khóa ngoại liên kết bảng categories.</td></tr>
+        <tr><td>name</td><td>VARCHAR(255)</td><td>Tên sản phẩm (Trà sữa Oolong nướng).</td></tr>
+        <tr><td>price</td><td>DECIMAL(10,2)</td><td>Giá bán sản phẩm.</td></tr>
+        <tr><td>original_price</td><td>DECIMAL(10,2)</td><td>Giá gốc (để hiển thị mức giảm giá nếu có).</td></tr>
+        <tr><td>description</td><td>TEXT</td><td>Mô tả chi tiết sản phẩm.</td></tr>
+        <tr><td>image</td><td>VARCHAR(255)</td><td>Đường dẫn tới file ảnh đại diện.</td></tr>
+        <tr><td>status</td><td>TINYINT(1)</td><td>Trạng thái (Còn hàng, Hết hàng).</td></tr>
+        <tr><td>created_at</td><td>TIMESTAMP</td><td>Thời gian thêm sản phẩm.</td></tr>
+    </table>
+
+    <h3>4.1.4. Bảng `orders` (Quản lý đơn hàng)</h3>
+    <p>Bảng trung tâm lưu trữ thông tin của một phiên giao dịch mua bán.</p>
+    <table>
+        <tr>
+            <th>Tên trường (Field)</th>
+            <th>Kiểu dữ liệu (Type)</th>
+            <th>Mô tả (Description)</th>
+        </tr>
+        <tr><td>id</td><td>INT(11), AI, PK</td><td>Khóa chính, mã đơn hàng.</td></tr>
+        <tr><td>user_id</td><td>INT(11), FK</td><td>Khóa ngoại liên kết với người dùng đã đặt hàng.</td></tr>
+        <tr><td>total_amount</td><td>DECIMAL(10,2)</td><td>Tổng tiền đơn hàng sau khi đã cộng phí, trừ điểm.</td></tr>
+        <tr><td>points_earned</td><td>INT(11)</td><td>Số điểm sẽ được cộng khi hoàn thành đơn.</td></tr>
+        <tr><td>points_spent</td><td>INT(11)</td><td>Số điểm đã sử dụng để giảm giá trong đơn này.</td></tr>
+        <tr><td>status</td><td>ENUM(...)</td><td>Trạng thái đơn (pending, processing, shipped, completed, cancelled).</td></tr>
+        <tr><td>payment_method</td><td>VARCHAR(50)</td><td>Phương thức thanh toán (cod, qr_transfer).</td></tr>
+        <tr><td>payment_status</td><td>ENUM('pending', 'paid', 'failed')</td><td>Trạng thái thanh toán tiền.</td></tr>
+        <tr><td>shipping_name</td><td>VARCHAR(100)</td><td>Tên người nhận hàng.</td></tr>
+        <tr><td>shipping_phone</td><td>VARCHAR(20)</td><td>Số điện thoại người nhận.</td></tr>
+        <tr><td>shipping_address</td><td>TEXT</td><td>Địa chỉ giao hàng.</td></tr>
+        <tr><td>notes</td><td>TEXT</td><td>Ghi chú của khách hàng cho đơn.</td></tr>
+        <tr><td>created_at</td><td>TIMESTAMP</td><td>Thời gian đặt hàng.</td></tr>
+    </table>
+
+    <h3>4.1.5. Bảng `order_details` (Chi tiết đơn hàng)</h3>
+    <p>Bảng giải quyết mối quan hệ nhiều-nhiều giữa đơn hàng và sản phẩm. Một đơn hàng có thể có nhiều sản phẩm và một sản phẩm có thể nằm trong nhiều đơn hàng.</p>
+    <table>
+        <tr>
+            <th>Tên trường (Field)</th>
+            <th>Kiểu dữ liệu (Type)</th>
+            <th>Mô tả (Description)</th>
+        </tr>
+        <tr><td>id</td><td>INT(11), AI, PK</td><td>Khóa chính, tự tăng.</td></tr>
+        <tr><td>order_id</td><td>INT(11), FK</td><td>Khóa ngoại liên kết bảng orders.</td></tr>
+        <tr><td>product_id</td><td>INT(11), FK</td><td>Khóa ngoại liên kết bảng products.</td></tr>
+        <tr><td>quantity</td><td>INT(11)</td><td>Số lượng mua của sản phẩm đó.</td></tr>
+        <tr><td>price</td><td>DECIMAL(10,2)</td><td>Đơn giá tại thời điểm mua (Tránh lỗi thay đổi giá sản phẩm sau này ảnh hưởng tới lịch sử).</td></tr>
+    </table>
+
+    <!-- CHƯƠNG 5 -->
+    <h1 class="page-break">CHƯƠNG 5: TRIỂN KHAI VÀ XÂY DỰNG ỨNG DỤNG</h1>
+    
+    <h2>5.1. Cấu trúc thư mục dự án theo chuẩn MVC</h2>
+    <p>Dự án được tổ chức một cách logic, tách biệt rõ ràng các thành phần mã nguồn, tuân thủ nguyên tắc Single Responsibility (Đơn trách nhiệm). Cấu trúc cụ thể như sau:</p>
+    <pre>
+Shoptrasua/
+│
+├── config/              # Các file cấu hình hệ thống
+│   ├── config.php       # Chứa các hằng số chung (BASE_URL, DB config)
+│   └── Database.php     # Class Singleton xử lý kết nối PDO tới MySQL
+│
+├── controllers/         # Thư mục chứa các Controller điều hướng
+│   ├── HomeController.php
+│   ├── ProductController.php
+│   ├── CartController.php
+│   ├── OrderController.php
+│   ├── PaymentController.php
+│   └── admin/           # Controller riêng cho trang quản trị
+│       ├── DashboardController.php
+│       └── ProductController.php
+│
+├── models/              # Thư mục chứa các Model tương tác CSDL
+│   ├── User.php
+│   ├── Product.php
+│   ├── Category.php
+│   └── Order.php
+│
+├── views/               # Thư mục chứa các giao diện HTML/PHP
+│   ├── layouts/         # Các thành phần dùng chung (header, footer)
+│   ├── home/            # Giao diện trang chủ
+│   ├── product/         # Giao diện danh sách và chi tiết sản phẩm
+│   ├── cart/            # Giao diện giỏ hàng
+│   ├── order/           # Giao diện thanh toán và chi tiết đơn hàng
+│   ├── payment/         # Giao diện hiển thị mã QR thanh toán
+│   └── admin/           # Giao diện khu vực quản trị viên
+│
+├── public/              # Chứa các file tĩnh (assets) truy cập công khai
+│   ├── css/             # File CSS tùy chỉnh
+│   ├── js/              # File Javascript xử lý client-side
+│   └── images/          # Hình ảnh upload (sản phẩm, banner, QR code)
+│
+├── .htaccess            # Cấu hình Apache Rewrite URL (Pretty URL)
+└── index.php            # File Router chính (Front Controller)
+    </pre>
+    <p><strong>Cơ chế Front Controller:</strong> Mọi request từ người dùng đều được điều hướng tập trung qua file `index.php` tại thư mục gốc nhờ cấu hình trong `.htaccess`. Tại đây, Router sẽ phân tích URL (ví dụ: `?controller=product&action=detail&id=5`), khởi tạo `ProductController` và gọi hàm `detail($id)`. Cách làm này đảm bảo luồng thực thi luôn được kiểm soát, dễ dàng quản lý Session, phân quyền và bắt lỗi tập trung.</p>
+
+    <h2>5.2. Triển khai các tính năng cốt lõi</h2>
+    
+    <h3>5.2.1. Tích hợp thanh toán qua mã QR (Custom QR Payment)</h3>
+    <p>Thay vì sử dụng API của các cổng trung gian phức tạp, hệ thống sinh ra trang thanh toán tĩnh có mã QR của chủ cửa hàng. Controller `PaymentController` đảm nhiệm việc hiển thị trang `pay.php`. Lấy thông tin đơn hàng từ CSDL (tổng tiền) và hiển thị. Có tích hợp sẵn Javascript để khách hàng nhấn nút "Copy số tài khoản", "Copy nội dung chuyển khoản" một cách thuận tiện nhất trên điện thoại. Khi khách nhấn xác nhận, hệ thống lưu lại và chờ Admin vào trang quản trị duyệt tiền.</p>
+    
+    <h3>5.2.2. Xử lý Logic Giỏ hàng (Cart Logic) bằng Session</h3>
+    <p>Giỏ hàng được quản lý tạm thời trong PHP `$_SESSION['cart']` để đảm bảo tốc độ và không làm nặng CSDL với các giỏ hàng rác. Giỏ hàng lưu trữ cấu trúc mảng đa chiều: Khóa là ID sản phẩm, giá trị là mảng chứa số lượng, giá bán, tên. Controller cung cấp các phương thức: `add()`, `update()`, `remove()`. Khi người dùng tiến hành thanh toán, dữ liệu từ Session mới được parse và `INSERT` vào bảng `orders` và `order_details` kết hợp với Transaction.</p>
+    
+    <h3>5.2.3. Hệ thống tích điểm và quy đổi</h3>
+    <p>Thuật toán tích điểm được thực thi tự động. Trong trang Checkout, hệ thống kiểm tra số dư điểm của user (`User::getById()`). Nếu user chọn dùng điểm, logic tính toán: `Tổng tiền thanh toán = Tổng tiền hàng + Phí ship - Số điểm quy đổi (1 điểm = 1đ)`. Lưu ý logic chặn người dùng nhập số điểm lớn hơn tổng tiền đơn hàng hoặc số điểm hiện có. Khi đơn hàng chuyển sang trạng thái "Hoàn thành" bởi Admin, hàm `OrderModel::updateStatus()` sẽ gọi tiếp một trigger để UPDATE số điểm tích lũy của khách `points_earned` cộng vào bảng users.</p>
+
+    <h2>5.3. Giao diện hệ thống (Giao diện người dùng và Quản trị)</h2>
+    <p>Giao diện Website được xây dựng theo tone màu Dark Theme kết hợp xanh Matcha (#1E3932). Sử dụng bộ thư viện Tailwind CSS mang lại trải nghiệm thị giác tuyệt vời. Phông chữ sử dụng là Inter (cho nội dung) và Playfair Display (cho tiêu đề) tạo nét sang trọng.</p>
+    <ul>
+        <li><strong>Trang chủ (Home):</strong> Có banner lớn dạng slider (Hero Section) giới thiệu bộ sưu tập mới. Các khối hiển thị sản phẩm bán chạy có hiệu ứng Hover zoom ảnh và nút "Thêm giỏ hàng" động.</li>
+        <li><strong>Trang chi tiết sản phẩm:</strong> Bố cục chia 2 cột. Trái là hình ảnh, phải là thông tin sản phẩm, chọn size, số lượng và các bài đánh giá.</li>
+        <li><strong>Trang Admin Dashboard:</strong> Giao diện Sidebar bên trái để chuyển menu. Cột phải hiển thị bảng dữ liệu DataTables, có phân trang, thanh tìm kiếm cho từng cột, nút Action Sửa/Xóa. Có biểu đồ thống kê bằng Chart.js.</li>
+    </ul>
+
+    <!-- CHƯƠNG 6 -->
+    <h1 class="page-break">CHƯƠNG 6: KIỂM THỬ VÀ ĐÁNH GIÁ KẾT QUẢ</h1>
+    <p>Kiểm thử (Testing) là khâu bắt buộc để đảm bảo chất lượng phần mềm. Hệ thống đã được kiểm thử qua hai phương pháp chính: Kiểm thử hộp đen (Blackbox Testing) tập trung vào các luồng thao tác của người dùng và Kiểm thử chức năng (Functional Testing) trên các modul của Admin.</p>
+    
+    <h2>6.1. Các kịch bản kiểm thử (Test Cases) nổi bật</h2>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Kịch bản kiểm thử (Test Case)</th>
+            <th>Dữ liệu đầu vào (Input)</th>
+            <th>Kết quả mong đợi (Expected)</th>
+            <th>Kết quả thực tế (Actual)</th>
+        </tr>
+        <tr>
+            <td>TC_01</td>
+            <td>Đăng nhập hệ thống bằng sai mật khẩu</td>
+            <td>Email: test@gmail.com, Pass: 12345 (Sai)</td>
+            <td>Hệ thống từ chối, hiển thị dòng lỗi màu đỏ "Sai tài khoản hoặc mật khẩu". Không tạo Session.</td>
+            <td>Pass (Đạt)</td>
+        </tr>
+        <tr>
+            <td>TC_02</td>
+            <td>Thêm một sản phẩm vào giỏ hàng</td>
+            <td>Click "Thêm vào giỏ" tại sản phẩm ID=2, số lượng 1</td>
+            <td>Thông báo Toast xuất hiện. Icon giỏ hàng trên Header cập nhật số lượng tăng lên 1.</td>
+            <td>Pass (Đạt)</td>
+        </tr>
+        <tr>
+            <td>TC_03</td>
+            <td>Quy đổi điểm thưởng vượt quá số dư</td>
+            <td>Tài khoản có 5000đ. Nhập vào ô dùng điểm: 10000</td>
+            <td>Form báo lỗi chặn lại, không cho submit đơn hàng. Báo "Số điểm sử dụng không hợp lệ".</td>
+            <td>Pass (Đạt)</td>
+        </tr>
+        <tr>
+            <td>TC_04</td>
+            <td>Quản trị viên xóa một danh mục đang chứa sản phẩm</td>
+            <td>Click nút Xóa tại danh mục "Trà Sữa" (Đang có 10 SP)</td>
+            <td>Báo lỗi "Không thể xóa danh mục vì đang chứa sản phẩm" do ràng buộc khóa ngoại bảo vệ dữ liệu.</td>
+            <td>Pass (Đạt)</td>
+        </tr>
+        <tr>
+            <td>TC_05</td>
+            <td>SQL Injection qua form Đăng nhập</td>
+            <td>Tên đăng nhập: `admin' OR '1'='1`</td>
+            <td>Chuỗi bị escape tự động bởi cơ chế Prepared Statement của PDO, truy vấn không thành công, đăng nhập thất bại.</td>
+            <td>Pass (Đạt)</td>
+        </tr>
+    </table>
+
+    <h2>6.2. Đánh giá kết quả đạt được</h2>
+    <p>Sau thời gian nghiên cứu và xây dựng, hệ thống website bán trà sữa đã cơ bản hoàn thiện và đáp ứng được các yêu cầu đặt ra từ ban đầu:</p>
+    <ul>
+        <li>Hệ thống vận hành ổn định trên môi trường Localhost (XAMPP/WAMP) và sẵn sàng deploy lên các Hosting thực tế.</li>
+        <li>Giao diện thân thiện, tương tác mượt mà, phản hồi tốt trên màn hình điện thoại di động – yếu tố then chốt vì đa phần khách hàng mua trà sữa sử dụng smartphone.</li>
+        <li>Áp dụng thành công và hiểu rõ bản chất của quy trình hoạt động của mô hình MVC với ngôn ngữ PHP thuần, không bị phụ thuộc vào các framework bên ngoài.</li>
+        <li>Tính năng thanh toán QR code tuy thủ công nhưng vận hành trơn tru, phù hợp với mô hình kinh doanh nhỏ gọn.</li>
+    </ul>
+
+    <!-- KẾT LUẬN -->
+    <h1 class="page-break">KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN</h1>
+    <h2>1. Kết luận</h2>
+    <p>Đề tài "Xây dựng Website bán trà sữa trực tuyến sử dụng PHP, MySQL theo mô hình MVC" đã giúp em tổng hợp, củng cố và vận dụng được rất nhiều kiến thức nền tảng về phát triển ứng dụng Web. Việc tự tay thiết kế cơ sở dữ liệu, xây dựng cấu trúc thư mục, code các dòng lệnh Controller, Model, xử lý Session/Cookie, làm việc với PDO và thiết kế giao diện với Tailwind CSS đã cung cấp những kinh nghiệm thực chiến vô cùng quý giá.</p>
+    <p>Sản phẩm tạo ra là một website thương mại điện tử tương đối hoàn chỉnh, có thể ứng dụng trực tiếp cho một mô hình kinh doanh nhỏ lẻ trong thực tế, giúp tối ưu hóa việc quản lý và nâng cao trải nghiệm mua hàng cho khách.</p>
+    
+    <h2>2. Hướng phát triển trong tương lai</h2>
+    <p>Do thời gian thực hiện có hạn, ứng dụng vẫn còn một số điểm có thể nâng cấp và hoàn thiện hơn. Trong tương lai, nếu có điều kiện, em sẽ tiếp tục phát triển hệ thống với các tính năng sau:</p>
+    <ul>
+        <li>Nâng cấp sang sử dụng một PHP Framework chuyên nghiệp như Laravel để tối ưu hóa mã nguồn, tăng tốc độ phát triển và tăng cường tính bảo mật.</li>
+        <li>Tích hợp các ví điện tử như Momo, ZaloPay, ShopeePay qua API tự động (IPN Webhook) để tự động hóa hoàn toàn khâu đối soát thanh toán.</li>
+        <li>Tích hợp hệ thống gửi Email tự động (SMTP) gửi hóa đơn mua hàng và thư cảm ơn, nhắc nhở khách hàng khi có chương trình khuyến mãi.</li>
+        <li>Phát triển chức năng Quản lý kho hàng (Inventory) chi tiết hơn, trừ tự động số lượng nguyên vật liệu cấu thành nên ly trà sữa (ví dụ: mua 1 ly mất 50gr trà, 30gr trân châu).</li>
+    </ul>
+
+    <!-- TÀI LIỆU THAM KHẢO -->
+    <h1 class="page-break">TÀI LIỆU THAM KHẢO</h1>
+    <ol>
+        <li>W3Schools, "PHP Tutorial", [Online]. Available: https://www.w3schools.com/php/</li>
+        <li>PHP Official Documentation, [Online]. Available: https://www.php.net/docs.php</li>
+        <li>Tailwind CSS Documentation, "Utility-First CSS Framework", [Online]. Available: https://tailwindcss.com/docs</li>
+        <li>StackOverflow, Diễn đàn trao đổi kiến thức lập trình Web.</li>
+        <li>Tài liệu bài giảng môn Lập trình Web - Khoa Công nghệ Thông tin, Trường Đại học.</li>
+    </ol>
+
+    <!-- PHỤ LỤC MÃ NGUỒN -->
+    <h1 class="page-break">PHỤ LỤC: MỘT SỐ ĐOẠN MÃ NGUỒN QUAN TRỌNG</h1>
+    
+    <h3>A1. File cấu hình kết nối CSDL Singleton (config/Database.php)</h3>
+    <pre>
+&lt;?php
+class Database {
+    private static $instance = null;
+    private $conn;
+
+    private $host = 'localhost';
+    private $db_name = 'shoptrasua_db';
+    private $username = 'root';
+    private $password = '';
+
+    private function __construct() {
+        try {
+            $this->conn = new PDO("mysql:host=" . $this->host . ";dbname=" . $this->db_name, $this->username, $this->password);
+            $this->conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+            $this->conn->exec("set names utf8mb4");
+        } catch(PDOException $exception) {
+            echo "Lỗi kết nối cơ sở dữ liệu: " . $exception->getMessage();
+            die();
+        }
+    }
+
+    public static function getInstance() {
+        if (!self::$instance) {
+            self::$instance = new Database();
+        }
+        return self::$instance->conn;
+    }
+}
+?&gt;
+    </pre>
+
+    <h3 style="margin-top: 2cm;">A2. Front Controller điều hướng (index.php)</h3>
+    <pre>
+&lt;?php
+session_start();
+require_once 'config/config.php';
+require_once 'config/Database.php';
+
+// Lấy thông tin Controller và Action từ URL, mặc định là home/index
+$controllerName = isset($_GET['controller']) ? $_GET['controller'] : 'home';
+$actionName = isset($_GET['action']) ? $_GET['action'] : 'index';
+
+// Chuyển đổi tên Controller thành Class Name (VD: home -> HomeController)
+$controllerClass = ucfirst($controllerName) . 'Controller';
+$controllerFile = 'controllers/' . $controllerClass . '.php';
+
+// Kiểm tra file tồn tại
+if (file_exists($controllerFile)) {
+    require_once $controllerFile;
+    $controller = new $controllerClass();
+    
+    // Kiểm tra method tồn tại trong class
+    if (method_exists($controller, $actionName)) {
+        $controller->$actionName();
+    } else {
+        die('Action không tồn tại');
+    }
+} else {
+    // Xử lý Route cho Admin
+    $adminControllerFile = 'controllers/admin/' . $controllerClass . '.php';
+    if(file_exists($adminControllerFile)) {
+         require_once $adminControllerFile;
+         $controller = new $controllerClass();
+         if (method_exists($controller, $actionName)) {
+             $controller->$actionName();
+         }
+    } else {
+         die('Controller không tồn tại (404 Not Found)');
+    }
+}
+?&gt;
+    </pre>
+
+    <h3 class="page-break">A3. Controller xử lý Thanh toán QR (controllers/PaymentController.php)</h3>
+    <pre>
+&lt;?php
+require_once 'models/Order.php';
+
+class PaymentController {
+    private $orderModel;
+
+    public function __construct() {
+        $this->orderModel = new Order();
+    }
+
+    public function pay() {
+        // Lấy ID đơn hàng từ URL
+        $orderId = isset($_GET['order_id']) ? (int)$_GET['order_id'] : 0;
+        
+        // Truy vấn thông tin đơn hàng từ CSDL
+        $order = $this->orderModel->getById($orderId);
+
+        // Kiểm tra tính hợp lệ
+        if (!$order) {
+            $_SESSION['error'] = "Đơn hàng không tồn tại.";
+            header("Location: " . BASE_URL . "?controller=home&action=index");
+            exit;
+        }
+
+        // Thông tin cấu hình tài khoản nhận tiền
+        $bankInfo = [
+            'bank_name' => 'MB Bank - Ngân hàng Quân Đội',
+            'account_number' => '0123456789',
+            'account_name' => 'VU LE PHI HUNG',
+            'memo' => 'DH' . $order['id']
+        ];
+
+        // Truyền dữ liệu ra View
+        require_once 'views/payment/pay.php';
+    }
+    
+    // Hàm xác nhận đã chuyển khoản
+    public function confirm() {
+        $orderId = isset($_POST['order_id']) ? (int)$_POST['order_id'] : 0;
+        if($orderId > 0) {
+             // Cập nhật trạng thái chờ duyệt
+             $this->orderModel->updatePaymentStatus($orderId, 'pending_review');
+             $_SESSION['success'] = "Đã ghi nhận yêu cầu xác nhận. Chúng tôi sẽ kiểm tra và duyệt đơn hàng sớm nhất.";
+        }
+        header("Location: " . BASE_URL . "?controller=order&action=history");
+    }
+}
+?&gt;
+    </pre>
+</div>
+</body>
+</html>

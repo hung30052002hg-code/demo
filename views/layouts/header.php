@@ -198,8 +198,8 @@ if (User::isLoggedIn()) {
                 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
                     <form action="<?php echo BASE_URL; ?>index.php" method="GET" class="relative">
                         <input type="hidden" name="controller" value="product">
-                        <input type="hidden" name="action" value="search">
-                        <input type="text" name="q" placeholder="Tìm kiếm trà sữa, topping..." 
+                        <input type="hidden" name="action" value="index">
+                        <input type="text" name="search" placeholder="Tìm kiếm trà sữa, topping..." 
                                 class="w-full bg-black/5 dark:bg-white/5 border border-border/20 rounded-full px-6 py-3 text-text-light placeholder-text-gray focus:outline-none focus:border-primary/50 focus:ring-1 focus:ring-primary/30 transition-all duration-300">
                         <button type="submit" class="absolute right-4 top-1/2 -translate-y-1/2 text-text-gray hover:text-primary transition-colors duration-300">
                             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

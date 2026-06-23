@@ -1,0 +1,2748 @@
+
+ĐỀ CƯƠNG ÔN TẬP:
+NHẬP MÔN CÔNG NGHỆ SỐ VÀ ỨNG DỤNG AI CƠ BẢN
+MỤC LỤC
+ TOC \o "1-3" \h \z \u Phần 1: PAGEREF _Toc216103357 \h 2Mô đun 1: Khái niệm và hệ điều hành PAGEREF _Toc216103358 \h 2Mô đun 2: MS Word PAGEREF _Toc216103359 \h 15Mô đun 3: MS Excel PAGEREF _Toc216103360 \h 27Mô đun 4: MS Powerpoint PAGEREF _Toc216103361 \h 38Phần 2: PAGEREF _Toc216103362 \h 50Mô đun 5: Internet PAGEREF _Toc216103363 \h 50Mô đun 6: Công nghệ số và AI PAGEREF _Toc216103364 \h 64
+
+Phần 1:Mô đun 1: Khái niệm và hệ điều hànhCâu 1 Thiết bị nào sau đây mà không có, máy tính vẫn có thể hoạt động được 
+A NIC
+B CPU
+C RAM
+D Mainboard
+Đáp án  
+Câu 2 Trojan là phần mềm độc hại có phương thức tấn công kiểu: hãy chọn phương án ghép đúng. 
+A Điều khiển máy tính từ xa thông qua một phần mềm đã được cài đặt sẵn trên máy tính của nạn nhân
+B Đánh cắp dữ liệu không được mã hóa của nạn nhân khi truyền thông tin lên mạng
+C Tấn công làm tê liệt hoạt động máy tính của nạn nhân
+D Can thiệp trực tiếp vào máy tính của nạn nhân để đánh cắp thông tin
+Đáp án  
+Câu 3 Vai trò của hệ điều hành (OS- Operating System) là: 
+A Tổ chức giao tiếp giữa người dùng và hệ thống
+B Điều khiển và quản lý trực tiếp các phần cứng
+C Cung cấp một hệ thống lệnh cơ bản để hệ điều hành máy tính
+D Tất cả đều đúng
+Đáp án  
+Câu 4 Trong hệ điều hành windows chức năng Disk Defragment gọi là? 
+A Chống phân mảnh ổ cứng
+B Làm giảm dung lượng ổ cứng
+C Sao lưu dữ liệu ổ cứng
+D Lau chùi tập tin rác ổ cứng
+Đáp án  
+Câu 5 Phát biểu nào dưới đây đúng nhất với khái niệm về Macro Virus? 
+A Là virus tin học chủ yếu lây lan vào các mẫu tin khởi động (boot recond)
+B Là virus tin học chủ yếu lây lan vào các bộ trữ đệm
+C Là một loại virus tin học chủ yếu lây lan vào các tệp dữ liệu của Word, Excel, PowerPoint
+D Là một loại virus tin học chủ yếu lây lan vào các chương trình ứng dụng
+Đáp án  
+Câu 6 Octal là hệ đếm nào dưới đây? 
+A Bát phân
+B Nhị phân
+C Thập phân
+D Thập lục phân
+Đáp án  
+Câu 7 Một máy tính bị nghi nhiễm virus thì cách tốt nhất là: 
+A Cài đặt phần mềm diệt virus để quét tất cả các ổ đĩa và cho chương trình này loại bỏ virus
+B Định dạng lại ổ đĩa, cài đặt hệ điều hành và các ứng dụng
+C Khởi động lại máy tính, xóa tất cả các tệp nhiễm virus
+D Thay ổ đĩa cứng
+Đáp án  
+Câu 8 Bộ nhớ truy cập nhẫu nhiên RAM là viết tắt của cụm từ? 
+A Random Access Memory
+B Read Access Memmory
+C Rewrite Access Memmory
+D Reading Access Memmory
+Đáp án  
+Câu 9 Các phần mềm sau thuộc nhóm phần mềm nào: Microsoft Word, Microsoft Excel, Microsoft PowerPoint 
+A Nhóm phần mềm ứng dụng
+B Nhóm phần mềm hệ thống
+C Nhóm phần mền CSDL
+D Nhóm phần mềm hệ điều hành
+Đáp án  
+Câu 10 Các thiết bị thuộc phần cứng thì được điều khiển bởi: 
+A Hệ điều hành
+B Các phần mềm ứng dụng
+C Ngôn ngữ lập trình
+D Người sử dụng
+Đáp án  
+Câu 11 Chữ viết tắt MB, GB, TB thường gặp trong các tài liệu về máy tính có nghĩa là: 
+A Đơn vị đo khả năng lưu trữ
+B Đơn vị đo độ phân giải màn hình
+C Đơn vị đo tốc độ xử lý CPU
+D Đơn vị đo cường độ âm thanh
+Đáp án  
+Câu 12 Chương trình thường được dùng để xem nội dung các trang Web được gọi là: 
+A Bộ duyệt Web
+B Phần mềm xem Web
+C Trình duyệt Web
+D Chương trình xem Web
+Đáp án  
+Câu 13 Cổng để kết nối máy tính với mạng LAN bằng dây được gọi là: 
+A VGA
+B RJ45
+C USB
+D LPT
+Đáp án  
+Câu 14 Cổng giao tiếp nào khác các cổng giao tiếp còn lại: 
+A HDMI
+B Type C
+C VGA
+D LPT
+Đáp án  
+Câu 15 Cổng VGA dùng để kết nối thiết bị nào với máy tính 
+A Bàn phím
+B Màn hình
+C Chuột
+D Máy in
+Đáp án  
+Câu 16 CPU là cụm từ viết tắt của: 
+A Control Processing Unit
+B Central Processing Unit
+C Common Processing Unit
+D Case Processing Unit
+Đáp án  
+Câu 17 Để đảm bảo an toàn dữ liệu ta chọn cách nào? 
+A Đặt thuộc tính hidden
+B Copy nhiều nơi trên ổ đĩa máy tính
+C Đặt thuộc tính Read only
+D Sao lưu dự phòng định kỳ
+Đáp án  
+Câu 18 Đơn vị đo kích thước dữ liệu số hóa là gì? 
+A Hz
+B Mhz
+C Byte
+D Ghz
+Đáp án  
+Câu 19 Đơn vị đo thông tin nhỏ nhất là: 
+A Byte
+B Bit
+C Kbyte
+D Kbit
+Đáp án  
+Câu 20 Email là viết tắt của cụm từ nào sau đây: 
+A Electrical mail
+B Exchange mail
+C Electronic mail
+D Else mail
+Đáp án  
+Câu 21 Giá trị nào dưới đây là số bội số của đơn vị đo thông tin số hóa? 
+A 1024
+B 1000
+C 2048
+D 4096
+Đáp án  
+Câu 22 Giga Hezt (GHz) là đơn vị đo thông tin nào sau đây? 
+A Đơn vị đo độ phân giải màn hình
+B Đơn vị đo dung lượng bộ nhớ
+C Đơn vị đo tốc độ xử lý của CPU
+D Đơn vị đo tốc độ đọc, ghi của đĩa
+Đáp án  
+Câu 23 Hãy chỉ ra phương án ghép đúng cho phát biểu sau đây Virus máy tính có khả năng: 
+A Tự sao chép, lây nhiễm
+B Xóa tất cả dữ liệu trên máy tính
+C Tự lây lan qua màn hình
+D Tự lây lan qua bàn phím
+Đáp án  
+Câu 24 Hãy chọn phát biểu đúng trong các phát biểu sau? 
+A Một byte bằng 8 bit
+B Một Megabyte bằng 1024 bytes
+C Một Gigabyte bằng 1000 Megabyte
+D Một byte có 2 trạng thái là 0 và 1
+Đáp án  
+Câu 25 Các chương trình ứng dụng trên máy tính điện tử được lưu trữ trong: 
+A Bộ nhớ ROM
+B Bộ nhớ RAM
+C Các ổ đĩa
+D Các thiết bị xuất
+Đáp án  
+Câu 26 Hãy chọn phương án đúng cho phát biểu sau: ROM là bộ nhớ dùng để: 
+A Chứa các chương trình hệ thống, được hãng sản xuất cài đặt sẵn, người dùng không thay đổi được
+B Lưu trữ các dữ liệu cho người dùng
+C Lưu trữ tạm thời các dữ liệu của chương trình ứng dụng
+D Tất cả đều sai
+Đáp án  
+Câu 27 Hãy chọn phương án ghép đúng cho phát biểu sau: Ảnh hưởng của virus máy tính không: 
+A Tiêu hao tài nguyên của hệ thống
+B Phá hủy hoặc ăn cắp dữ liệu
+C Làm hỏng 1 số thiết bị phần cứng
+D Gây khó chịu cho người dùng
+Đáp án  
+Câu 28 Hãy xếp các đơn vị lưu trữ thông tin theo chiều tăng dần: 
+A Kilobyte, byte, megabyte, terabyte, gigabyte
+B Byte, kilobyte, megabyte, gigabyte, terabyte
+C Kilobyte, byte, megabyte, gigabyte, terabyte
+D Byte, kilobyte, gigabyte, megabyte, terabyte
+Đáp án  
+Câu 29 Hệ điều hành được khởi động: 
+A Trước khi các chương trình ứng dụng được thực hiện
+B Ngay khi các chương trình ứng dụng được thực hiện
+C Trong khi các chương trình ứng dụng được thực hiện
+D Tất cả đều sai
+Đáp án  
+Câu 30 Hệ điều hành máy tính: 
+A Luôn có sẵn, không phải cài đặt
+B Do hãng phần mềm Microsoft xây dựng
+C Phải có trên mọi máy tính cá nhân
+D Được nạp vào bộ nhớ trong trước các phần mềm ứng dụng
+Đáp án  
+Câu 31 Hệ điều hành phải được cài đặt vào thành phần nào của máy tính để máy tính có thể sử dụng được: 
+A CPU
+B RAM
+C Thiết bị lưu trữ ngoài có gắn với máy tính
+D Màn hình
+Đáp án  
+Câu 32 Hex là hệ đếm nào dưới đây? 
+A Nhị phân
+B Thập phân
+C Bát phân
+D Thập lục phân
+Đáp án  
+Câu 33 Khái niệm nào sau đây đúng với khái niệm về tin học : 
+A Ngành khoa học nghiên cứu về phần cứng máy tính
+B Ngành khoa học về công nghệ phần mềm
+C Ngành khoa học nghiên cứu phương pháp, kỹ thuật xử lý thông tin bằng máy tính điện tử
+D Ngành khoa học nghiên cứu kĩ thuật xử lý thông tin bằng máy tính
+Đáp án  
+Câu 34 Khi làm việc với máy tính, màn hình nên 
+A Thấp hơn tầm mắt
+B Để ngang tầm mắt
+C Cao hơn tầm mắt
+D Thế nào cũng được
+Đáp án  
+Câu 35 LAN là viết tắt của : 
+A Local Area Network
+B Local Area News
+C Local Arena Netword
+D Local Arena News
+Đáp án  
+Câu 36 Mạng LAN có các đặc điểm nào sau đây 
+A Có phạm vi hẹp, băng thông lớn, dễ quản trị mạng và giá thành thấp
+B Có phạm vi rộng, băng thông thấp, quản trị mạng phức tạp
+C Có phạm vi rộng, băng thông lớn, quản trị mạng đơn giản
+D Có pham vi hẹp, băng thông thấp, dễ quản trị và giá thành cao
+Đáp án  
+Câu 37 Mô hình tổng quát của một quá trình xử lý thông tin là: 
+A Nhập / xử lý / xuất
+B Xử lý / nhập / xuất
+C Xuất / xử lý / nhập
+D Xử lý / xuất / nhập
+Đáp án  
+Câu 38 Mọi máy tính muốn sử dụng được, trước tiên phải: 
+A Có phần mềm hệ thống
+B Có đầy đủ các phần mềm ứng dụng
+C Có đầy đủ các phần mềm tiện ích
+D Không cần gì cả vẫn sử dụng tốt
+Đáp án  
+Câu 39 Một Gigabyte (GB) bằng: 
+A 1000 MB
+B 1024 KB
+C 1024 MB
+D 1024 B
+Đáp án  
+Câu 40 Những kí tự nào được sử dụng để biểu diễn số nhị phân? 
+A Chữ số 0 và kí tự 1
+B Chữ số 0 và kí tự 0
+C Các chữ số 0 và 1
+D Các chữ số từ 0 đến 9
+Đáp án  
+Câu 41 Nút Reset trên máy tính có công dụng: 
+A Khởi động lại máy tính
+B Khởi động máy tính
+C Tắt máy tính
+D Nạp hệ điều hành
+Đáp án  
+Câu 42 Phần mềm nào là phần mềm diệt Virus: 
+A Kaspersky
+B Unikey
+C Outlook
+D WinRar
+Đáp án  
+Câu 43 Phát biểu nào sau đây đúng với khái niệm spyware, Adware? 
+A Phần mềm gián điệp, ăn trộm thông tin
+B Phần mềm tăng tốc độ download
+C Phần mềm ghi đĩa CD, DVD
+D Phần mềm bảo mật
+Đáp án  
+Câu 44 Phát biểu nào sau đây là đúng nhất? 
+A Hệ điều hành thường được cài đặt sẵn từ khi sản xuất máy tính
+B Mỗi hệ điều hành phải có một thành phần để kết nối internet, trao đổi e-mail
+C Hệ điều hành cung cấp môi trường giao tiếp giữa người dùng và hệ thống máy tính
+D Tất cả đều đúng
+Đáp án  
+Câu 45 Thiết bị nào được ví như là bộ não của máy tính? 
+A Bảng mạch
+B CPU
+C HDD
+D RAM và ROM
+Đáp án  
+Câu 46 Tín hiệu nào truyền thông qua cổng HDMI từ máy tính tới thiết bị 
+A Hình ảnh
+B Âm thanh
+C Hình ảnh và âm thanh
+D Dữ liệu
+Đáp án  
+Câu 47 Trang web nào không phải mạng xã hội: 
+A Wikipedia
+B Google
+C Instagram
+D Facebook
+Đáp án  
+Câu 48 Trong máy tính, bộ nhớ ngoài là: 
+A CD-ROM, HDD, SSD
+B HDD, RAM, ROM
+C HDD, CPU
+D Monitor
+Đáp án  
+Câu 49 Bạn nên làm gì khi một phần mềm ứng dụng liên tục có vấn đề? 
+A Xóa ứng dụng sau đó đặt lại
+B Di chuyển ứng dụng đó sang vị trí khác rồi cài đặt lại
+C Sao chép ứng dụng từ máy khác
+D Gỡ bỏ cài đặt sau đó cài lại phần mềm
+Đáp án  
+Câu 50 Khi gõ tiếng việt bằng phần mềm Unikey, để chuyển chế độ gõ giữa tiếng Anh và tiếng Việt, người ta sử dụng tổ hợp phím nào: 
+A Alt + X hoặc Ctrl + Shift
+B Atl + Z hoặc Ctrl + Shift
+C Ctrl + Z hoặc Ctrl + Shift
+D Shift + X hoặc Ctrl + Shift
+Đáp án  
+Câu 51 Ẩn các cửa sổ đang dùng và hiển thị màn hình Desktop 
+A Alt+ D
+B Windows+ D
+C Shift+ D
+D Ctrl+ D
+Đáp án  
+Câu 52 Cách để xem dung lượng của 1 file là : 
+A Chuột phải vào file chọn size
+B Chuột trái vào file chọn properties
+C Chuột phải vào file chọn properties
+D Chuột trái vào file chọn size
+Đáp án  
+Câu 53 Cách đổi tên thư mục trong hệ điều hành Windows 10 
+A Kích phải chuột vào đổi tượng, chọn Rename và nhập tên mới
+B Kích trái chuột vào đối tượng, nhấn F2 trên bàn phím và nhập tên mới
+C Kích trái chuột vào đối tượng, chọn nút lệnh Rename trên thanh công cụ Home của cửa sổ thư mục
+D Tất cả đều đúng
+Đáp án  
+Câu 54 Chọn cách phát biểu đúng về windows Defender: 
+A Windows defender là công cụ cung cấp khả năng sửa lỗi phần mềm
+B Windows defender là công cụ cung cấp khả năng sửa lỗi phần cứng
+C Windows defender là công cụ cung cấp khả năng sao lưu dữ liệu
+D Windows defender là công cụ cung cấp khả năng chống vius, phần mềm độc hại cho máy tính và quét tìm ứng dụng có khả năng gây hại
+Đáp án  
+Câu 55 Công dụng của phím Print Screen là gì? 
+A In màn hình hiện hành ra máy in
+B Không có công dụng gì khi sử dụng 1 mình nó
+C In văn bản hiện hành ra máy in
+D Chụp màn hình hiện hành
+Đáp án  
+Câu 56 Đặt thuộc tính chỉ để ẩn cho tệp tin: 
+A Chuột phải vào tệp tin đó chọn Properties tích vào Real sau đó chọn ok
+B Chuột phải vào tệp tin đó chọn Properties sau đó chọn ok
+C Chuột phải vào tệp tin đó chọn Read-only sau đó chọn ok
+D Chuột phải vào tệp tin đó chọn Properties tích vào Hidden sau đó chọn ok
+Đáp án  
+Câu 57 Để khởi động bàn phím ảo chọn cách nào đúng nhất trong các cách sau 
+A Windows+Q và gõ on-screen keyboard sau đó bấm chuột trái và on-screeen keyboard
+B Windows+Q và gõ keyboard sau đó bấm trái chuột vào screen keyboard
+C Windows+Q và gõ screen keyboard sau đó bấm trái chuột và screen keyboard
+D Windows+Q và gõ on-screen keyboard sau đó bấm trái chuột vào screen keyboard
+Đáp án  
+Câu 58 Để khôi phục lại tệp tin cần khôi phục từ thùng rác (recycle bin): 
+A Mở recycle bin chuột phải vào tệp tin cần khôi phục chọn restore
+B Mở recycle bin chuột phải vào tệp tin cần khôi phục chọn properties
+C Mở recycle bin chuột phải vào tệp tin cần khôi phục chọn move
+D Mở recycle bin chuột phải vào tệp tin cần khôi phục chọn cut. Sau đó di chuyển đến vị trí cần chuyển nhấp chuột chọn paste
+Đáp án  
+Câu 59 Để tạo biểu tượng tắt(shortcut) cho một thư mục(folder) ra màn hình nền(desktop) chọn cách đúng nhất sau đây: 
+A Chuột phải vào thư mục(folder) cần tạo shortcut/desktop (create shortcut)
+B Chuột phải vào thư mục(folder) cần tạo shortcut/new/desktop (create shortcut)
+C Chuột phải vào thư mục(folder) cần tạo shortcut/send to/desktop (create shortcut)
+D Chuột phải vào thư mục(folder) cần tạo shortcut/send/desktop (create shortcut)
+Đáp án  
+Câu 60 Để thay đổi máy in mặc định chọn cách nào đúng nhất: 
+A Mở control panel nháy kép vào device and printers chuột phải máy in cần mặc định chọn pinters
+B Mở control panel nháy kép vào device and printers chuột phải máy in cần mặc định chọn set as printers
+C Mở control panel nháy kép vào device and printers chuột phải máy in cần mặc định chọn set
+D Mở control panel nháy kép vào device and printers chuột phải máy in cần mặc định chọn Set as default printer
+Đáp án  
+Câu 61 Để xem thông tin đầy đủ về máy tính hãy chọn cách đúng nhất trong các cách sau? 
+A Tại cửa sổ Run ta gõ dxdiag chọn ok
+B Tại cửa sổ Run ta gõ dediag chọn ok
+C Tại cửa sổ Run ta gõ defender chọn ok
+D Tại cửa sổ Run ta gõ tool chọn ok
+Đáp án  
+Câu 62 Để xóa một tệp, các bước thực hiện đúng là: 
+A Mở thư mục chứa tệp, nháy chuột phải lên tên tệp chọn Space Bar
+B Mở thư mục chứa tệp, nháy phải chuột lên tên tệp, chọn delete
+C Mở tệp, chọn toàn bộ nội dung tệp, nhấn mính delete
+D Mở tệp, chọn toàn bộ nội dung tệp, giữ phím alt và nhấn phím delete
+Đáp án  
+Câu 63 Đổi tên một tệp tin thực hiện cách nào đúng nhất trong các cách sau: 
+A Chuột phải vào tệp tin chọn edit gõ tên mới và nhấn enter
+B Chuột phải vào tệp tin chọn name gõ tên mới và nhấn enter
+C Chuột phải vào tệp tin chọn Rename
+D Chuột phải vào tệp tin chọn Rename gõ tên mới và nhấn enter
+Đáp án  
+Câu 64 Nếu muốn hiện thị thông tin đầy đủ về các File/ Foder trong cửa sổ File Explorer (windows Exoplorer) nháy chuột phải tại vùng trống trong cửa sổ chọn view, chọn: 
+A List
+B Content
+C Details
+D Tiles
+Đáp án  
+Câu 65 Nếu muốn sắp xếp theo ngày cập nhật các file trong cửa sổ file explorer (windows explorer) nháy chuột vào vùng trống trong cửa sổ chọn sort by/ chọn: 
+A Type
+B Name
+C Size
+D Date modified
+Đáp án  
+Câu 66 Ngày nay, một số thiết bị ngoại vi như bàn phím, chuột, máy quét, máy in, webcam, micro, ... thường được kết nối với máy tính thông qua cổng nào? 
+A USB
+B Parallel (cổng song song)
+C LAN
+D Audio
+Đáp án  
+Câu 67 Phát biểu nào sau đây là đúng về phần mềm nén và giải nén Winrar? 
+A Winrar là phiên bản sau của Winzip
+B Tính năng Winrar trội hơn Winzip
+C Đã hỗ trợ định dạng nén Rar 5
+D Tất cả đều đúng
+Đáp án  
+Câu 68 Phím tắt để chạy ứng dụng Windows Explorer (File Explorer) 
+A Windows+ A
+B Windows+ B
+C Windows+ E
+D Windows+ C
+Đáp án  
+Câu 69 Tổ hợp phím tắt để đóng một cửa sổ Windows là? 
+A Bấm phím Ctrl+ F4 trên bàn phím
+B Bấm phím Alt+ F4 trên bàn phím
+C Bấm phím Tab+ F4 trên bàn phím
+D Bấm phím Shift+F4 trên bàn phím
+Đáp án  
+Câu 70 Trên màn hình Start screen của Windows 10, để hiển thị danh sách tất cả các ứng dụng đã cài đặt, thực hiện theo cách nào sau đây? 
+A Kéo chuột từ mép trên xuống mép dưới và chọn All Apps
+B Bấm phím Windows + X và chọn Program and Features
+C Bấm phím Windows + X và chọn System
+D Cả 3 cách trên đều đúng
+Đáp án  
+Câu 71 Trong các lựa chọn dưới đây đâu là phần mềm gõ tiếng việt: 
+A Unicode
+B TCVN3
+C Unikey
+D UTF-8
+Đáp án  
+Câu 72 Trong Control Panel của Hệ điều hành Windows, để thay đổi ngày, giờ hệ thống, ta chọn: 
+A Program
+B Network
+C Date and Time hoặc Region
+D Fonts
+Đáp án  
+Câu 73 Trong hệ điều hành Microsoft Windows, khi xóa một thư mục hoặc tập tin bằng phím Del thì điều gì xảy ra: 
+A Thư mục/tập tin đó sẽ được xóa hoàn toàn khỏi máy tính
+B Thư mục/tập tin đó sẽ được chuyển vào thùng rác (Recycle Bin)
+C Thư mục/tập tin đó sẽ được lưu vào bộ nhớ máy tính
+D Thư mục/tập tin đó sẽ được chép sang một thư mục khác
+Đáp án  
+Câu 74 Trong hệ điều hành Microsoft Windows, người ta sử dụng công cụ nào để quản lý các tập tin (file) và thư mục (folder): 
+A Microsoft Offíce
+B Control Panel
+C Windows Explorer
+D Internet Explorer
+Đáp án  
+Câu 75 Trong hệ điều hành Microsoft Windows, người ta sử dụng tổ hợp phím nào để kích hoạt menu Start: 
+A Ctrl + X
+B Ctrl + Esc
+C Alt + F4
+D Ctrl + Z
+Đáp án  
+Câu 76 Trong hệ điều hành Microsoft Windows, thao tác Drag and Drop (kéo thả chuột) được sử dụng khi người ta muốn làm gì: 
+A Mở thư mục
+B Thay đổi màu nền cho cửa sổ hiện hành
+C Di chuyển đối tượng đến vị trí mới
+D Xem thuộc tính của tập tin hiện tại
+Đáp án  
+Câu 77 Trong hệ điều hành Windows ký tự nào sau đây không được phép sử dụng khi đặt tên File 
+A Kí tự @
+B Ký tự *
+C Ký tự &amp;
+D Kí tự $
+Đáp án  
+Câu 78 Trong Hệ điều hành Windows, Biểu tượng (Shortcut) là: 
+A Đường tắt (Short cut) giúp người dùng truy cập nhanh vào đối tượng thường sử dụng
+B Chương trình được cài đặt vào máy tính
+C Biểu tượng My Computer
+D Chương trình được cài đặt vào máy tính với mục đích hỗ trợ người sử dụng soạn thảo các văn bản tiếng Việt
+Đáp án  
+Câu 79 Trong Hệ điều hành Windows, để sao chép một thư mục/tệp tin sang USB có tên là Flash USB Driver H: ta nháy chuột phải lên thư mục/tệp tin và chọn: 
+A Copy / Flash USB Driver H
+B Send to / Flash USB Driver H
+C Cut / Flash USB Driver H
+D Paste / Flash USB Driver H
+Đáp án  
+Câu 80 Trong Windows 10, gọi chức năng tìm kiếm theo ứng dụng đã cài đặt: 
+A Windows+ Q
+B Alt+ A
+C Ctrl+ F
+D Alt+ F
+Đáp án  
+Câu 81 Trong Windows 10, tổ hợp phím tắt nào sau đây để mở cửa sổ Project 
+A Ctrl+ P
+B Windows+ P
+C Alt+ P
+D Shift+ P
+Đáp án  
+Câu 82 Khi kết nối thành một mạng máy tính cục bộ và các thiết bị, thiết bị nào sau đây có thể được chia sẻ để sử dụng chung 
+A Micro
+B Máy in
+C Đĩa mềm
+D Webcam
+Đáp án  
+Câu 83 Khi xem dạng tài liệu nào dưới đấy, máy tính của bạn không cần phải cài đặt bất cứ phần mềm nào hỗ trợ nào? 
+A Tài liệu dạng PDF
+B Tài liệu dạng DOC
+C Tài liệu dạng PPT
+D Tài liệu dạng HTML
+Đáp án  
+Câu 84 Phần mềm nào sau đây đọc được tập tin PDF: 
+A Foxit Reader
+B Microsoft Excel
+C Microsoft Powerpoint
+D Microsoft Word
+Đáp án  
+Câu 85 Phát biểu nào sau đây đúng nhất đối với khái niệm về mạng máy tính ? 
+A Là một tập hợp các máy tính được kết nối với nhau bằng cáp truyền dẫn
+B Là một tập hợp các máy tính được kết nối với nhau bằng sóng vô tuyến
+C Là một tập hợp các máy tính và các thiết bị được kết nối với nhau bằng môi trường truyền dẫn
+D Là một tập hợp các máy tính đuợc kết nối bằng cáp quang
+Đáp án  
+Câu 86 Thuật ngữ tường lửa (firewall) là: 
+A Tường lửa là một hệ thống bao gồm cả phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet
+B Tường lửa là một hệ thống bao phần cứng
+C Tường lửa là một hệ thống phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet
+D Tường lửa là hệ thống không bao gồm phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet
+Đáp án  
+Mô đun 2: MS WordCâu 1 Khi thao tác trong Microsoft Word 2016, thông báo "The file…already exist" xuất hiện khi: 
+A Không đặt tên file khi lưu văn bản
+B Không chọn một font chữ
+C Khi lưu văn bản với tên file trùng với một file đã có sẵn trong thư mục lựa chọn
+D Khi đóng văn bản nhưng văn bản chưa được lưu
+Đáp án  
+Câu 2 Trong Microsoft Word 2016, để căn thẳng 02 bên lề cho đoạn văn bản đã chọn, người ta sử dụng tổ hợp phím: 
+A Ctrl + S
+B Ctrl + L
+C Ctrl + J
+D Ctrl + E
+Đáp án  
+Câu 3 Trong Microsoft Word 2016, để tạo mới một văn bản đang làm việc, ta thực hiện theo cách nào sau đây? 
+A Thẻ Home – New
+B Thẻ File – New
+C Thẻ Edit – New
+D Thẻ Format – New
+Đáp án  
+Câu 4 Trong Microsoft Word 2016, muốn hiển thị song song 2 tài liệu đang mở chọn chức năng? 
+A Chọn thẻ View và chọn Split
+B Chọn thẻ View và chọn New window
+C Chọn thẻ View và chọn View side by side
+D Chọn thẻ View và chọn Side by Side
+Đáp án  
+Câu 5 Trong Microsoft Word 2016, muốn thay đổi kích thước cửa sổ bằng cách? 
+A Chọn Page Layout và sau đó chọn nút Zoom
+B Chọn Tools và sau đó chọn nút Zoom
+C Chọn tab View và sau đó chọn nút Zoom-out là (-) và Zoom-Insert là (+)
+D Chọn tab View và sau đó chọn nút Zoom
+Đáp án  
+Câu 6 Trong Microsoft Word 2016, thay đổi phông chữ nhanh nhất, thực hiện? 
+A Nhấn tổ hợp phím Ctrl + Shift+P
+B Nhấn tổ hợp phím Ctrl+Shift+F
+C Nhấn tổ hợp phím Ctrl+Shift+M
+D Nhấn tổ hợp phím Ctrl+Shift+T
+Đáp án  
+Câu 7 Trong Microsoft Word 2016, thực hiện thao nào để chuyển đến 2 trang tiếp theo? 
+A Nhấn tổ hợp phím Ctrl+G, nhập +2 trong ô Enter Page number, chọn nút Go to
+B Nhấn phím Page up hai lần
+C Nhấn tổ hợp phím Ctrl+G, nhập +2 trong Enter Page number, chọn nút Go to
+D Nhấn phím Page down hai lần
+Đáp án  
+Câu 8 Trong Microsoft Word, cách nào để in các trang văn bản từ trang 1 đến trang 5? 
+A Nhập “1/5” trong mục Page của hộp thoại Print
+B Nhập “1-5” trong mục Page của hộp thoại Print
+C Nhập “1…5” trong mục Page của hộp thoại Print
+D Nhập “1&lt;5” trong mục Page của hộp thoại Print
+Đáp án  
+Câu 9 Trong Microsoft Word, cách nào dùng để chèn công thức toán học? 
+A Chọn Insert/Microsoft Equation 3.0
+B Chọn Insert/Symbol/Microsoft Equation 3.0
+C Chọn Insert/Object/Math
+D Chọn Insert/Object/Microsoft Equation 3.0
+Đáp án  
+Câu 10 Trong Microsoft Word, chọn cách nào để chọn một đoạn văn bản? 
+A Kích trái chuột 3 lần tại lề trái của dòng văn bản
+B Kích phải chuột tại lề trái của dòng văn bản
+C Kích đúp chuột tại lề trái của dòng văn bản
+D Kích trái chuột tại lề trái của dòng văn bản
+Đáp án  
+Câu 11 Trong Microsoft word, có thể chèn được một bảng tối đa bao nhiêu có cột? 
+A 63
+B Vô số cột
+C 36
+D Tùy khổ giấy
+Đáp án  
+Câu 12 Trong Microsoft Word, hàm nào để tính tổng các ô theo cột trong bảng? 
+A SUM(LEFT)
+B DSUM(LEFT)
+C SUM(ABOVE)
+D SUM(COLUMN)
+Đáp án  
+Câu 13 Bấm tổ hợp phím Ctrl + I trong Microsoft Word 2016 sẽ thực hiện chức năng gì cho khối văn bản đang chọn: 
+A Bật/Tắt chữ đậm
+B Bật/Tắt chữ nghiêng
+C Bật/Tắt chữ gạch chân
+D Bật/Tắt chữ chỉ số dưới (Bottom)
+Đáp án  
+Câu 14 Phần mềm nào sau đây là phần mềm xử lý văn bản: 
+A LibreOffice Writer
+B Microsoft Word 2016
+C Cả 3 phương án đều đúng
+D OpenOffice Writer
+Đáp án  
+Câu 15 Phần mở rộng (phần đuôi) của file văn bản tạo bởi chương trình Microsoft Word là: 
+A .DOC (.DOCX)
+B .XLS (.XLSX)
+C .PPT (.PPTX)
+D .TXT
+Đáp án  
+Câu 16 Phát biểu nào sau đây là ĐÚNG nhất với một văn bản điện tử? 
+A Gồm chữ viết và các đối tượng như biểu tượng, bảng biểu, hình ảnh, …
+B Chỉ với chữ viết
+C Gồm chữ viết và ký tự biểu tượng
+D Gồm chữ viết, ký tự biểu tượng và bảng biểu
+Đáp án  
+Câu 17 Trong Microsoft Word 2016 trở đi, để thiết lập thư mục lưu văn bản mặc định. Ta vào thẻ File - chọn Options. Sau đó, ta thực hiện tiếp thao tác nào sau đây? 
+A Save / chọn thư mục trong mục Default file location
+B General / chọn thư mục trong mục Default file location
+C Display / chọn thư mục trong mục Default file location
+D Proofing / chọn thư mục trong mục Default file location
+Đáp án  
+Câu 18 Trong Microsoft Word 2016, cách lưu tài liệu đang mở dưới dạng *.PDF? 
+A Chọn File/Save/Type/PDF
+B Chọn File/ Save as /Save as type/PDF
+C Chọn File/Save type/PDF
+D Chọn Home/Save/Save as type/PDF
+Đáp án  
+Câu 19 Trong Microsoft Word 2016, cách nào để chèn một bảng biểu vào văn bản? 
+A Chọn Table/ Insert/ Insert Table
+B Chọn Table/ Insert/ Table
+C Chọn Insert/Object/Table
+D Chọn Insert/Table/ chọn số cột và hàng
+Đáp án  
+Câu 20 Trong Microsoft Word 2016, cách nào để gỡ bỏ đánh số tự động trong đoạn văn đã chọn? 
+A Chọn Home/ trong nhóm Paragraph, bấm vào nút numbered
+B Chọn home/ trong nhóm Paragraph, bấm vào nút Butlleted
+C Chọn Insert/Paragraph, bấm vào nút numbered
+D Chọn Home/trong nhóm Paragraph, bấm vào nút numbered Alignment: Left
+Đáp án  
+Câu 21 Trong Microsoft Word 2016, cách nào để tạo chữ cái lớn đầu dòng của đoạn văn bản? 
+A Chọn Format/ Style and Formating
+B Page layout/Drop Cap
+C Chọn Format/Font, thay đổi kích cỡ font
+D Chọn Insert/Drop Cap
+Đáp án  
+Câu 22 Trong Microsoft Word 2016, chọn cách nào để mở một trang văn bản đã có sẵn? 
+A Chọn Home/New
+B Chọn File/New
+C Chọn Home/Open
+D Chọn File/Open
+Đáp án  
+Câu 23 Trong Microsoft Word 2016, chọn cách nào để mở một trang văn bản mới? 
+A Nhấn tổ hợp phím Ctrl+Shift+N
+B Nhấn tổ hợp phím Ctrl+O
+C Nhấn tổ hợp phím Alt+N
+D Nhấn tổ hợp phím Ctrl+N
+Đáp án  
+Câu 24 Trong Microsoft Word 2016, để biết thông tin về tệp văn bản bạn đang làm việc, chọn cách nào? 
+A Chọn File/Options
+B Chọn File/Options/info
+C Chọn View/one Page
+D Chọn File/info
+Đáp án  
+Câu 25 Trong Microsoft Word 2016, để xóa cột trong bảng, thực hiện như thế nào? 
+A Table / Delete Columns
+B Insert / Delete Columns
+C Layout / Delete / Delete Columns
+D Home / Delete Columns
+Đáp án  
+Câu 26 Trong Microsoft Word 2016, mở nhanh hộp thoại Page Setup thực hiện thao tác nào? 
+A Kích đúp bất kì chỗ nào trong trang văn bản
+B Kích đúp bất kì chỗ nào trên thanh thước ngang, hoặc thước dọc
+C Home/Page Setup
+D View/ Page Setup
+Đáp án  
+Câu 27 Trong Microsoft Word 2016, muốn chụp ảnh cửa sổ, ứng dụng đưa vào văn bản, chọn cách nào? 
+A Insert/Screenshot
+B Insert/picture
+C Home/Screenshot
+D Insert/Table/Screenshot
+Đáp án  
+Câu 28 Trong Microsoft Word 2016, nhấn tổ hợp phím Ctrl+F để thực hiện? 
+A Chức năng lọc dữ liệu
+B Chức năng chèn ảnh
+C Chức năng đánh dấu văn bản
+D Chức năng tìm kiếm
+Đáp án  
+Câu 29 Trong Microsoft Word 2016, thay đổi khoảng cách giữa hai đoạn văn bản ta thiết lập lại? 
+A Ô Before và After trong thẻ Page Layout
+B Ô Line Spacing trong thẻ Page Layout
+C Left and Right trong thẻ Page Layout
+D Above và Below trong thẻ Page Layout
+Đáp án  
+Câu 30 Trong Microsoft Word 2016, thực hiện thao tác nào để cắt một đoạn văn bản đã chọn? 
+A Chọn Page Layout/ Cut
+B Chọn Edit/ Cut
+C Chọn Home/ Cut
+D Chọn File/cut
+Đáp án  
+Câu 31 Trong Microsoft Word 2016, thực hiện thao tác nào để in trang văn bản hiện thời thành 3 bản giống nhau? 
+A Nhấn biểu tượng Print Preview trên thanh công cụ 3 lần
+B Chọn File/Print, chọn Curent Page trong mục Page Range, chọn số 3 trong mục number of copies
+C Chọn File/Print, chọn Print Current Page trong mục Setting, chọn số 3 trong mục copies
+D Nhấn tổ hợp phím Ctrl+P, chọn số 3 trong mục Page
+Đáp án  
+Câu 32 Trong Microsoft Word 2016, thực hiện thao tác nào để tăng cỡ chữ thêm một đơn vị của một đoạn văn bản đã chọn? 
+A Nhấn tổ hợp phím Ctrl + &gt;
+B Nhấn tổ hợp phím Ctrl + &lt;
+C Nhấn tổ hợp phím Ctrl +[
+D Nhấn tổ hợp phím Ctrl +]
+Đáp án  
+Câu 33 Trong Microsoft Word, cách nào để bỏ định văn bản canh giữa? 
+A Nhấn tổ hợp phím Ctrl +E
+B Nhấn tổ hợp phím Ctrl + M
+C Nhấn tổ hợp phím Ctrl + R
+D Nhấn tổ hợp phím Ctrl + C
+Đáp án  
+Câu 34 Trong Microsoft Word, cách nào để chèn được tiêu đề đầu trang và cuối trang vào trong văn bản? 
+A Chọn edit/ Header and Footer
+B Chọn View/Header and Footer
+C Chọn Format/Header and Footer
+D Chọn Insert/ chọn nút Header hoặc nút Footer
+Đáp án  
+Câu 35 Microsoft Word, cách nào để chèn hình ảnh từ File trên ổ đĩa vào văn bản? 
+A Chọn Insert/Picture/Word Art
+B Chọn Insert/Picture/ From File
+C Chọn Insert/Picture/Clip Art
+D Chọn Insert/Picture/chọn ổ đĩa chứa File…
+Đáp án  
+Câu 36 Trong Microsoft Word, cách nào để chèn ký tự đặc biệt vào văn bản? 
+A Chọn Insert/Picture/Symbol
+B Chọn Insert/Symbol
+C Chọn Insert/More Symbol
+D Chọn Format/Butllets and Numbering
+Đáp án  
+Câu 37 Trong Microsoft Word, cách nào để chèn số trang cho văn bản? 
+A Chọn Home/chọn Numbering
+B Page Layout/Page Numbers
+C Chọn Insert/Page Numbers
+D Chọn Format/Butllets and Numbering
+Đáp án  
+Câu 38 Trong Microsoft Word, cách nào để chia ô hiện tại thành nhiều ô trong bảng? 
+A Chọn Tools/ Split cells
+B Chọn Insert/Table/Slpit cells
+C Chọn Edit/Split cells
+D Phải chuột/Split cells
+Đáp án  
+Câu 39 Trong Microsoft Word, cách nào để chọn một cột trong bảng? 
+A Chọn toàn bộ bảng/ Select Column
+B Đưa con trỏ vào bảng/ Phải chuột/Select/Column
+C Đưa con trỏ vào bảng/Select/Column
+D Chọn Table/Column/Select
+Đáp án  
+Câu 40 Trong Microsoft Word, cách nào để chọn nhiều ô không liên tiếp trong bảng? 
+A Chọn ô đầu tiên, giữ phím Alt, chọn ô tiếp theo
+B Chọn ô đầu tiên, giữ phím Tab, chọn ô cuối cùng
+C Chọn ô đầu tiên, giữ phím Ctrl, chọn ô tiếp theo
+D Chọn ô đầu tiên, giữ phím Shift, chọn ô tiếp theo
+Đáp án  
+Câu 41 Trong Microsoft Word, cách nào để đặt lại mật khẩu cho File văn bản? 
+A Chọn Tools/Options/Protect Document/Encrypt with Password/nhập mật khẩu/OK
+B Chọn File/Options/Protect Document/Encrypt with Password/nhập mật khẩu/OK
+C Chọn File/Info/Protect Document/Restrictediting/nhập mật khẩu/OK
+D Chọn File/Info/Protect Document/Encrypt with Password/nhập mật khẩu/OK
+Đáp án  
+Câu 42 Trong Microsoft Word, cách nào để điều chỉnh độ rộng của hàng đã chọn trong bảng? 
+A Chọn Table/ Table Properties/ Row/Height
+B Click phải chuột/ Table Properties/ Row Width
+C Chọn Table/Table Properties/Cell/Height
+D Click phải chuột/Table/Row
+Đáp án  
+Câu 43 Trong Microsoft Word, cách nào để định dạng chỉ số trên trong đoạn văn bản? 
+A Home, nhóm Font, bạn bấm nút Subscript
+B Home, nhóm font, bấm nút Superscript
+C Nhấn tổ hợp phím Shift+
+D Nhấn tổ hợp phím Ctrl+
+Đáp án  
+Câu 44 Trong Microsoft Word, cách nào để định dạng khoảng cách dòng là 1.5 cho đoạn văn bản đã chọn? 
+A Nhấn tổ hợp phím Ctrl + 2
+B Nhấn tổ hợp phím Ctrl + 3
+C Nhấn tổ hợp phím Ctrl + 1
+D Nhấn tổ hợp phím Ctrl + 5
+Đáp án  
+Câu 45 Trong Microsoft Word, cách nào để định dạng khoảng cách dòng là 2 cho đoạn văn bản đã chọn? 
+A Nhấn tổ hợp phím Ctrl + 1
+B Nhấn tổ hợp phím Ctrl + F2
+C Nhấn tổ hợp phím Ctrl + 2
+D Nhấn tổ hợp phím Ctrl + 5
+Đáp án  
+Câu 46 Trong Microsoft Word, cách nào để định văn bản canh phải? 
+A Nhấn tổ hợp phím Ctrl + J
+B Nhấn tổ hợp phím Ctrl + L
+C Nhấn tổ hợp phím Ctrl + E
+D Nhấn tổ hợp phím Ctrl + R
+Đáp án  
+Câu 47 Trong Microsoft Word, cách nào để sao chép định dạng của một đoạn văn? 
+A Chọn Home/Copy
+B Chọn biểu tượng Format Painter
+C Chọn File/copy
+D Nhấn tổ hợp phím Ctrl + B
+Đáp án  
+Câu 48 Trong Microsoft Word, cách nào để tạo đường viền cho đoạn văn bản đã chọn? 
+A Chọn Home/ trong nhóm Paragraph, bấm vào nút No Border
+B Chọn Home/ trong nhóm Paragraph, bấm vào nút Butlleted
+C Chọn Insert/Paragraph, bấm vào nút numbered
+D Chọn Home/ trong nhóm Paragraph, bấm vào nút Border
+Đáp án  
+Câu 49 Trong Microsoft Word, cách nào để trộn các ô đã chọn thành một ô trong bảng? 
+A Chọn Table/Row/Merge cells
+B Chọn Insert/Table/Merge cells
+C Chọn Table/Column/Merge cells
+D Phải chuột/Merge cells
+Đáp án  
+Câu 50 Trong Microsoft Word, cách nào để xoay hướng văn bản trong ô của bảng? 
+A Kích phải chuột tại ô muốn xoay chiều văn bản, chọn Cell Aligment
+B Kích phải chuột tại ô muốn xoay chiều văn bản, Table Properties/Text direction
+C Kích phải chuột tại ô muốn xoay chiều văn bản, chọn AutoFit
+D Kích phải chuột tại ô muốn xoay chiều văn bản, chọn Text direction
+Đáp án  
+Câu 51 Trong Microsoft Word, cách nào dùng để chèn biểu đồ? 
+A Chọn Insert/Picture/ClipArt
+B Chọn Insert/Picture/Chart
+C Chọn Insert/Chart
+D Chọn Insert/Object/Chart
+Đáp án  
+Câu 52 Trong Microsoft Word, cách nào dùng để chèn chữ nghệ thuật? 
+A Chọn Insert/ClipArt
+B Chọn home/WordArt
+C Chọn Page Layout/WordArt
+D Chọn Insert/WordArt
+Đáp án  
+Câu 53 Trong Microsoft Word, cách nào sau đây để đặt một điểm dừng (tab) cho đoạn văn bản? 
+A Chọn View/Tab
+B Page Layout/Tab
+C Chọn Edit/Tab
+D Layout/Paragraph/Tabs
+Đáp án  
+Câu 54 Trong Microsoft Word, cách thay đổi font chữ mặc định? 
+A Mở 1 văn bản Word mới/ nhấn Ctrl+F/chọn font mới/nhấn nút Set as Default
+B Mở 1 văn bản Word mới/ nhấn Ctrl+P/chọn font mới/nhấn nút Set as Default
+C Mở 1 văn bản Word mới/ nhấn Ctrl+D/chọn font mới/nhấn nút Set as Default
+D Mở 1 văn bản Word mới/ nhấn Alt+D/chọn font mới/nhấn nút Set as Default
+Đáp án  
+Câu 55 Trong Microsoft Word, chiều cao tối đa của chữ cái đầu dòng trong chế độ Drop Cap là bao nhiêu? 
+A 10 dòng
+B Bằng với số dòng của đoạn văn bản
+C 5 dòng
+D Bằng số dòng của trang văn bản
+Đáp án  
+Câu 56 Trong Microsoft Word, chọn cách nào để chọn lệnh in văn bản? 
+A Chọn File/Print
+B Chọn View/Print Preview
+C Chọn File/Print Preview
+D Chọn Tools/Print Preview
+Đáp án  
+Câu 57 Trong Microsoft Word, có thể đặt được những loại Tab nào? 
+A Left/ Center/ Right/ Number/ Line
+B Left/ Center/ Right/Decimal/Bottom
+C Top/Center/Bottom/Decimal/Bar
+D Left/Center/Right/Decimal/Bar
+Đáp án  
+Câu 58 Trong Microsoft Word, có thể định dạng tối đa một đoạn văn bản thành bao nhiêu cột báo? 
+A Vô số
+B 45
+C 54
+D Tùy thuộc vào khổ giấy
+Đáp án  
+Câu 59 Trong Microsoft Word, để chèn một trang bìa, thực hiện? 
+A Insert/chọn nút Cover Page trên nhóm Pages/chọn một kiểu trang bìa
+B Insert/chọn nút Blank Page trên nhóm Pages/chọn một kiểu trang bìa
+C Page Layout/chọn nút Cover Page trên nhóm
+D Pages/chọn một kiểu trang bìa
+Đáp án  
+Câu 60 Trong Microsoft Word, để di chuyển con trỏ soạn thảo về cuối văn bản dùng tổ hợp phím nào? 
+A Ctrl + Shift + End
+B Ctrl + End
+C Alt + Page down
+D End
+Đáp án  
+Câu 61 Trong Microsoft Word, để định dạng số trang cho văn bản, thực hiện như thế nào? 
+A Home / Paragraph / Format Page Numbers
+B Insert / Page Number /Format Page Numbers
+C Page Layout / Page Setup / Format Page Numbers
+D Insert / Page Break / Format Page Numbers
+Đáp án  
+Câu 62 Trong Microsoft Word, để in trang văn bản ở vị trí con trỏ đang đứng, thực hiện như thế nào? 
+A File / Print / All / OK
+B File / Print / Print / Current page / OK
+C File / Print / Print / Page/OK
+D File/ Print / Print / Selection / Ok
+Đáp án  
+Câu 63 Trong Microsoft Word, để thiết lập chế độ lưu tự động sau một khoảng thời gian nhất định. Ta vào Thẻ File – chọn Options. Sau đó, ta thực hiện tiếp thao tác nào sau đây? 
+A General – chọn mục Save AutoRecovery information every
+B Language – chọn mục Save AutoRecovery information every
+C Advance – chọn mục Save AutoRecovery information every
+D Save – chọn mục Save AutoRecovery information every
+Đáp án  
+Câu 64 Trong Microsoft Word, muốn chèn Text box vào văn bản thực hiện? 
+A Chọn Insert / Tex Box
+B Chọn Home/ chọn nút Tex box
+C Chọn Insert/Smart Art
+D Chọn File/ Text box
+Đáp án  
+Câu 65 Trong Microsoft Word, muốn loại bỏ các hiển thị không mong muốn (vd\: đường sóng) xuất hiện trong văn bản tiếng Việt, thực hiện? 
+A File/Options/Proofing/bỏ hết các tùy chọn sau\: check spelling as use type, check grammar…
+B Home/Options/Proofing/bỏ hết các tùy chọn sau\: check spelling as use type, check grammar…và chọn OK
+C File/Options/Proofing/bỏ hết các tùy chọn sau\: check spelling as use type, check grammar… và chọn OK
+D Click vào nút biểu tượng Word trên góc trái của màn hình Word chọn Word Options/Proofing sau đó bỏ check những phần bạn không mong muốn
+Đáp án  
+Câu 66 Trong Microsoft Word, muốn loại bỏ hiệu ứng điều chỉnh tự động (autocorrect) có sẵn trong phần mềm soạn thảo tiếng việt, thực hiện 
+A File/Options/AutoCorrect Options/ chọn Autocorrect cần loại bỏ/delete
+B File/Options/AutoCorrect Options/delete
+C File/Options/Proofing/AutoCorrect
+D Options/ chọn Autocorrect cần loại bỏ/delete
+Đáp án  
+Câu 67 Trong Microsoft Word, muốn tạo Style (heading) Dùng mục lọc tự động sử dụng tổ hợp phím? 
+A Ctrl+Shift+S
+B Alt+Shift+S
+C Ctrl+Alt+N
+D Ctrl+Alt+P
+Đáp án  
+Câu 68 Trong Microsoft Word, muốn thay thế tất cả các từ “tôi” trong một tài liệu bằng cụm từ “chúng tôi”, thực hiện thao tác nào? 
+A Nhấn tổ hợp phím Ctrl+H, gõ từ “tôi” trong mục Find What, gõ từ “chúng tôi” trong mục Replace with rồi chọn nút Replace All
+B Nhấn tổ hợp phím Ctrl+F, gõ từ “tôi” trong mục Find What, gõ từ “chúng tôi” trong mục Replace with rồi chọn nút Replace All
+C Nhấn tổ hợp phím Ctrl+H, gõ từ “chúng tôi” trong mục Find What, gõ từ “tôi” trong mục Replace with rồi chọn nút Replace All
+D Nhấn tổ hợp phím Ctrl+F, gõ từ “chúng tôi” trong mục Find What, gõ từ “tôi” trong mục Replace with rồi chọn nút Replace All
+Đáp án  
+Câu 69 Trong Microsoft Word, muốn thiết lập các thư mục mặc định, thực hiện? 
+A File/Options. Trong Word Options, kích Proofing/ Default File Location và đánh vào đó đường dẫn đến thư mục bạn muốn sử dụng hoặc kích Browse để tìm đương dẫn…
+B File/Options. Trong Word Options, kích Save as/ Default File Location và đánh vào đó đường dẫn đến thư mục bạn muốn sử dụng hoặc kích Browse để tìm đương dẫn…
+C File/Options. Trong Word Options, kích Add-Ins/ Default File Location và đánh vào đó đường dẫn đến thư mục bạn muốn sử dụng hoặc kích Browse để tìm đương dẫn…
+D File/Options. Trong Word Options, kích Save/ Default File Location và đánh vào đó đường dẫn đến thư mục bạn muốn sử dụng hoặc kích Browse để tìm đương dẫn…
+Đáp án  
+Câu 70 Trong Microsoft Word, sử dụng phím nào để tách một đoạn văn bản thành nhiều đoạn văn bản? 
+A Tab
+B Home
+C Enter
+D Delete
+Đáp án  
+Mô đun 3: MS ExcelCâu 1 Trong Microsoft Excel, thao tác nào để đổi tên bảng tính? 
+A Kích phải chuột tại tên bảng tính/New/Nhập tên mới/Enter
+B Kích phải chuột tại tên bảng tính/Rename/Nhập tên mới/Enter
+C Kích phải chuột tại tên bảng tính/NewName/Nhập tên mới/Enter
+D Kích phải chuột tại tên bảng tính/NewRename/Nhập tên mới/Enter
+Đáp án  
+Câu 2 Công thức = INT(-10/3) được kết quả 
+A -3
+B 3
+C -4
+D 4
+Đáp án  
+Câu 3 Công thức = LEFT(TRIM(" TAI Chinh"),5) 
+A TAICh
+B TAI
+C TAI C
+D TAI Chinh
+Đáp án  
+Câu 4 Công thức = LEN(TRIM(" TAI Chinh") có kết quả là : 
+A 17
+B 9
+C 10
+D 13
+Đáp án  
+Câu 5 Hàm nào sai trong các hàm số sau ? 
+A MOD(số 1, số 2): hàm cho kết quả là phần dư của phép chia
+B INT(số 1, số 2): hàm cho kết quả là phần nguyên của phép chia
+C AVERAGE(số 1, số 2, …): hàm cho kết quả là trung bình cộng của dãy số
+D MIN(số 1, số 2, …): hàm cho kết quả là số nhỏ nhất của dãy số
+Đáp án  
+Câu 6 Trong bảng tính Excel, tại ô A2 có giá trị số 25; Tại ô B2 gõ vào công thức \=SQRT(A2) thì nhận được kết quả: 
+A 0
+B 5
+C #VALUE!
+D #NAME!
+Đáp án  
+Câu 7 Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dãy ký tự: "Hoc vien Tai Chinh"; Tại ô B2 gõ vào công thức =UPPER(LOWER(A2)) thì nhận được kết quả ? 
+A HOC VIEN TAI CHINH
+B HOCVIENTAICHINH
+C hocvientaichinh
+D hoc vien tai chinh
+Đáp án  
+Câu 8 Trong bảng tính Excel, tại ô A2 có sẵn giá trị số không (0); Tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả? (Bỏ qua không xét dấu nếu có ở đầu các đáp án) 
+A #DIV/0!
+B 0
+C 5
+D #VALUE!
+Đáp án  
+Câu 9 Trong Microsoft Excel, cách nào để sắp xếp các cửa sổ làm việc theo chiều ngang? 
+A View/Arrange All/Horizontal
+B View/Arrange All/Vertical
+C View/Arrange All/Tiled
+D View/Arrange All/Cascade
+Đáp án  
+Câu 10 Trong Microsoft Excel, cách nào để sắp xếp dữ liệu theo thứ tự giảm dần? 
+A Data/ Sort/ Ascending
+B Data/ Sort by/Descending
+C Data/ Sort by/ Z to A
+D Data/ Sort/ Z to A
+Đáp án  
+Câu 11 Trong Microsoft Excel, cách nào để thêm các lệnh trên thanh Quick Access Toolbar? 
+A Kích chuột vào thẻ bất kì/ Custumize Quick Access Toolbar chọn lệnh bên hộp trái/Add/Ok
+B File/Options/More Commands/Chọn lệnh bên hộp bên trái/Add/Ok
+C File/Options/More Commands/ Chọn lệnh bên hộp bên trái/Ok
+D Kích chuột phải vào hộp bất kì/ Add to Quick Access Toolbar
+Đáp án  
+Câu 12 Trong Microsoft Excel, cho các giá trị sau: A5=8; B5=15; C5=10; D5=6; E5=40. Nếu trong ô T40 ta nhập = MIN (A5:E5) thì kết quả là: 
+A 8
+B 6
+C 10
+D 15
+Đáp án  
+Câu 13 Trong Microsoft Excel, công thức = AND (5&gt;4,6&lt;9,2&lt;=1) sẽ cho kết quả là? 
+A FALSE
+B TRUE
+C #NAME!
+D VALUE!
+Đáp án  
+Câu 14 Trong Microsoft Excel, công thức =MAX(30,10,65,5) nhận được kết quả như thế nào? 
+A 110
+B 120
+C 105
+D 65
+Đáp án  
+Câu 15 Trong Microsoft Excel, công thức =ROUND(8.45,1) sẽ cho kết quả là? 
+A 8.45
+B 8.4
+C 8.5
+D 8
+Đáp án  
+Câu 16 Cách nào sau đây nêu chính xác cú pháp của hàm Hlookup? 
+A Hlookup(lookup_value, table_array, Row_index num, [range lookup])
+B Hlookup(lookup_value, table_array, Col_index num, [range lookup])
+C Hlookup(table_array, lookup_value, Col_index num, [range lookup])
+D Hlookup(col_index num, lookup_value, table_array, [range lookup])
+Đáp án  
+Câu 17 Cách nào sau đây nêu chính xác cú pháp của hàm Vlookup? (Bỏ qua không xét dấu / ở mỗi đáp án) 
+A Vlookup(lookup_value, table_array, Row_index num, range lookup])
+B #NAME?
+C Vlookup(Table_array, lookup_value, col_index num, [range lookup])
+D Vlookup(lookup_value, table_array, Col_index num, [range lookup])
+Đáp án  
+Câu 18 Câu nào sau đây sai khi nhập dữ liệu vào bảng tính Excel 2016? 
+A Dữ liệu kiểu ký tự sẽ mặc định căn thẳng lề trái
+B Dữ liệu kiểu thời gian sẽ mặc định căn thẳng lề phải
+C Dữ liệu kiểu ngày tháng sẽ mặc định căn thẳng lề phải
+D Dữ liệu kiểu số sẽ mặc định căn thẳng lề trái
+Đáp án  
+Câu 19 Công thức = MOD(-10,3) được kết quả nào : 
+A -1
+B 1
+C -2
+D 2
+Đáp án  
+Câu 20 Công thức = MONTH(DATE(2017,05,MOD(10,3)) có kết quả là: 
+A 5
+B 1
+C 2017
+D 0
+Đáp án  
+Câu 21 Công thức = PROPPER("hOc VIEN TaI CHinH") được kết quả : 
+A HOC VIEN TAI CHINH
+B Hoc Vien Tai Chinh
+C hoc vien tai chinh
+D hocvientaichinh
+Đáp án  
+Câu 22 Cửa sổ Excel khác Cửa sổ Word vì có thêm : 
+A Formula Bar
+B File
+C Insert
+D Review
+Đáp án  
+Câu 23 Địa chỉ B$3 là địa chỉ: 
+A Tương đối
+B Tuyệt đối
+C Hỗn hợp
+D Biểu diễn sai
+Đáp án  
+Câu 24 Microsoft Excel được tích hợp trong: 
+A Bộ Microsoft Office
+B Hệ điều hành Windows
+C Bộ Visual Studio
+D Trình duyệt Internet Explorer
+Đáp án  
+Câu 25 Một trong những thuật ngữ sau không phải dùng để chỉ một thành phần của Microsoft Excel: 
+A WorkBook
+B WorkSheet
+C Workdocument
+D WorkSpace
+Đáp án  
+Câu 26 Trong bảng tính Excel, các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối: 
+A B$1$$10$D
+B B$1
+C $B1:$D10
+D $B$1:$D$10
+Đáp án  
+Câu 27 Trong bảng tính Excel, hàm Today() trả về: 
+A Số ngày trong tháng
+B Số tháng trong năm
+C Ngày tháng năm hiện hành của hệ thống
+D Số giờ trong ngày
+Đáp án  
+Câu 28 Trong bảng tính Excel, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nhật. Địa chỉ khối ô được thể hiện như câu nào sau đây là đúng? 
+A B1:H15
+B B1...H15
+C B1 -H15
+D B1..H15
+Đáp án  
+Câu 29 Trong bảng tính Excel, nếu trong một ô có các ký hiệu #####, điều đó có ý nghĩa là gì? 
+A Chương trình bảng tính bị nhiễm virus
+B Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số
+C Công thức nhập sai và Excel thông báo lỗi
+D Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số
+Đáp án  
+Câu 30 Trong công thức của Microsoft Excel, sử dụng phím nào để chuyển địa chỉ tuyệt đối sang địa chỉ tương đối hoặc ngược lại cho ô hoặc vùng đã chọn? 
+A F3
+B F4
+C F2
+D F1
+Đáp án  
+Câu 31 Trong Excel, trong các phát biểu sau, phát biểu nào đúng 
+A Các cột được đánh thứ tự bằng các chữ cái A, B, C, ... Z, AA, AB, AC…
+B Các cột của bảng tính được đánh thứ tự là A1, B1, ..., Y1, Z1, A2, B2, C2, …X2, Y2, Z2, A3, B3…
+C Các cột của bảng tính được đánh thứ tự là 1, 2, 3, 4, 5, 6
+D Các cột của bảng tính được đánh thứ tự là A1, A2, A3, A4, A5…
+Đáp án  
+Câu 32 Trong khi làm việc với Excel, muốn di chuyển con trỏ ô về ô A1, ta bấm? 
+A Shift – Home
+B Tab – Home
+C Ctrl – Home
+D Ctrl – Shift – Home
+Đáp án  
+Câu 33 Trong Microsoft Excel 2016, cách nào chỉ xóa một nội dung của 1 hàng đã chọn? 
+A Thẻ Home/ Cut
+B Thẻ Home/Delete
+C Thẻ Home/Delete Cells
+D Nhấn phím Delete
+Đáp án  
+Câu 34 Trong Microsoft Excel 2016, cách nào cho phép tạo biểu đồ cột cho vùng giá trị được chọn? 
+A Insert/ Column
+B Insert/ Column Chart
+C Insert/ Bar Chart
+D Insert/Chart/ Column
+Đáp án  
+Câu 35 Trong Microsoft Excel 2016, cách nào để bảo vệ cho trang tính không bị sửa đổi nội dung cũng như định dạng? 
+A Review/ Protect Workbook
+B Review/ Protect File
+C Review/ Protect Sheet
+D Review/ Protect Structure
+Đáp án  
+Câu 36 Trong Microsoft Excel 2016, cách nào để dán dữ liệu đã được sao chép vào vùng đã chọn? 
+A Thẻ Home/ Copy
+B Thẻ Home/ Replace
+C Thẻ Home/ Paste
+D Thẻ Home/ Cut
+Đáp án  
+Câu 37 Trong Microsoft Excel 2016, cách nào để điền tự động số thứ tự 1, 2, 3, ... vào các ô đã được chọn? 
+A Gõ 1 tại ô đầu tiên trong dãy ô đã chọn/ Thẻ Home/Fill/Down/OK
+B Gõ 1 tại ô đầu tiên trong dãy ô đã chọn/ Thẻ Home/Fill/Series/Trend/OK
+C Gõ 1 tại ô đầu tiên trong dãy ô đã chọn/ Thẻ Home/Fill/Up/OK
+D Gõ 1 tại ô đầu tiên trong dãy ô đã chọn/ Thẻ Home/Fill/Justify/OK
+Đáp án  
+Câu 38 Trong Microsoft Excel 2016, cách nào để sao chép dữ liệu trong vùng đã chọn? 
+A Thẻ Home/ Cut
+B Thẻ Home/ Replace
+C Thẻ Home/ Copy
+D Thẻ Home/ Paste
+Đáp án  
+Câu 39 Trong Microsoft Excel 2016, cách nào để tạo đường viền cho ô đã chọn? 
+A Thẻ Home/ nhấn nút xổ Bottom Border/ Chọn kiểu đường viền
+B Thẻ Home/ nhấn nút xổ Paragraph/ Chọn kiểu
+C Thẻ Insert/ nút sổ Cells/ Boders
+D Thẻ Insert/ nút xổ Boders/ All Cells
+Đáp án  
+Câu 40 Trong Microsoft Excel 2016, công cụ nào cho phép thay đổi màu sắc cho vùng được chọn? 
+A Công cụ Font Color trên thẻ Home
+B Công cụ Line Colortreen thẻ Home
+C Công cụ Forrmat Painter trên thẻ Home
+D Công cụ Fill Color trê thẻ Home
+Đáp án  
+Câu 41 Trong Microsoft Excel 2016, tại hộp thoại Move Or Copy, thao tác nào để sao chép một bảng tính? 
+A Chọn mục Copy
+B Chọn mục Move
+C Chọn mục Move and Copy
+D Chọn mục Create a copy
+Đáp án  
+Câu 42 Trong Microsoft Excel 2016, thao tác nào để xóa một cột trong bảng tính? 
+A Chọn ô tại cột cần xóa/ Kích phải chuột/ Delete/ Column
+B Chọn ô tại cột cần xóa/ Kích phải chuột/ Delete/Entire Column
+C Chọn ô tại cột cần xóa/ Kích phải chuột/ Delete/Column Right
+D Chọn ô tại cột cần xóa/ Kích phải chuột/ Delete/Column Left
+Đáp án  
+Câu 43 Trong Microsoft Excel cách nào để thoát chương trình? 
+A Ctrl+ F4
+B Shift+ F4
+C Alt+ F4
+D Alt+ Shift+ F4
+Đáp án  
+Câu 44 Trong Microsoft Excel, cách nào để bớt các lệnh trên thanh Quick Access Toolbar? 
+A File/Options/More Commands/Chọn lệnh bên hộp bên phải/Remove/Ok
+B File/Options/More Commands/Chọn lệnh bên hộp bên phải/Ok
+C Kích chuột phải vào thẻ bất kỳ/Remove to Quick Access Toolbar
+D Kích chuột vào thẻ bất kỳ/Customize Quick Access Toolbar Chọn lệnh bên hộp phải/Remove
+Đáp án  
+Câu 45 Trong Microsoft Excel, cách nào để định dạng hiển thị ngày tháng kiểu dd/mm/yy cho dữ liệu đã được chọn? 
+A Thẻ Home/Mở rộng nhóm Number/Date and Time/Chọn định dạng mm/dd/yy
+B Thẻ Home/Mở rộng nhóm Number/Date/Chọn định dạng mm/dd/yy trong Location
+C Thẻ Home/Mở rộng nhóm Number/Custon/Gõ dd/mm/yy trong mục Type
+D Thẻ Home/Mở rộng nhóm Number/General/Chọn định dạng mm/dd/yy
+Đáp án  
+Câu 46 Trong Microsoft Excel, cách nào để định dạng hiển thị tỷ lệ phần trăm cho dữ liệu đã được chọn? 
+A Ctr+ Shift+ %
+B Ctr+ Alt+ %
+C Alt+ Shift+ %
+D Ctr+ Insert+ $
+Đáp án  
+Câu 47 Trong Microsoft Excel, cách nào để đóng một tệp? 
+A Alt+ F4
+B Shift+ F
+C Ctrl+ Shift+ F4
+D Ctrl+ F4
+Đáp án  
+Câu 48 Trong Microsoft Excel, cách nào để mở hộp thoại thiết lập các thông số in bảng tính? 
+A Alt+ P
+B Ctrl+ P
+C Ctrl+ Print Screen
+D Phím F3
+Đáp án  
+Câu 49 Trong Microsoft Excel, cách nào để nhập công thức: A1+ A2 và trong một ô của bảng tính Excel? 
+A Gõ A1+A2 vào ô cần nhập công tức
+B Nhấn nút Insert và gõ A1+A2 vài ô cần nhập công thức
+C Gõ = A1+A2 vào ô cần nhập công thức
+D Gõ # A1+A2 vào ô cần nhập công thức
+Đáp án  
+Câu 50 Trong Microsoft Excel, cách nào để sắp xếp dữ liệu theo thứ tự tăng dần? 
+A Data/ Sort/ A to Z
+B Data/ Sort/ Ascending
+C Data/ Sort by/ Ascending
+D Data/ Sort by/ A to Z
+Đáp án  
+Câu 51 Trong Microsoft Excel, cách nào để thay đổi hướng nội dung trong ô đã được chọn? 
+A Thẻ Home/Nhóm Alignment/Decrease Indent
+B Thẻ Home/Nhóm Alignment/Increase Indent
+C Thẻ Home/Nhóm Alignment/Orientation
+D Thẻ Home/Nhóm Alignment/Middle Align
+Đáp án  
+Câu 52 Trong Microsoft Excel, cách nào để thêm một Sheet mới? 
+A Ctrl+ F11
+B Shift+ F11
+C Alt+ F11
+D Shift+ Alt+ F11
+Đáp án  
+Câu 53 Trong Microsoft Excel, công thức =EVERAGE(5,7,9) cho kết quả thế nào? 
+A 7
+B 9
+C 5
+D #NAME?
+Đáp án  
+Câu 54 Trong Microsoft Excel, công thức =Round(AVERAGE(6,7,9),-1) cho kết quả thế nào: 
+A 9
+B 21
+C 7
+D 10
+Đáp án  
+Câu 55 Trong Microsoft Excel, để đếm các ô chứa dữ liệu kiểu số sử dụng hàm nào? 
+A Counta
+B Countif
+C Count
+D Countifs
+Đáp án  
+Câu 56 Trong Microsoft Excel, để dữ liệu tự động xuống dòng nếu vượt quá độ rộng của ô, thực hiện như thế nào? 
+A Chọn ô / Home / Merge &amp; Center
+B Chọn ô / Home / Wrap Text
+C Chọn ô / Home / Format Painter
+D Chọn ô / Home / Cell Styles
+Đáp án  
+Câu 57 Trong Microsoft Excel, hàm nào để tìm số nhỏ nhất trong các giá trị được chọn? 
+A MINUTE
+B MINUM
+C MINA
+D MIN
+Đáp án  
+Câu 58 Trong Microsoft Excel, hàm SUM dùng để làm gì? 
+A Tìm giá trị lớn nhất
+B Tính tổng
+C Tìm giá trị nhỏ nhất
+D Tính giá trị trung bình
+Đáp án  
+Câu 59 Trong Microsoft Excel, khi gõ một hàm, Excel báo #DIV/0! Có nghĩa là 
+A Phép chia có số dư (#0)#0
+B Phép chia có số dư bằng 0
+C Viết sai cú pháp hàm
+D Phép chia cho 0 hoặc chia cho ô không có giá trị nào
+Đáp án  
+Câu 60 Trong Microsoft Excel, khi gõ một hàm, Excel báo #NAME? có nghĩa là: 
+A Viết sai cú pháp hàm
+B Viết sai tên hàm
+C Viết sai hàm Name
+D Không được nhập hàm vào ô đó
+Đáp án  
+Câu 61 Trong Microsoft Excel, khi gõ một hàm, Excel báo #REF! có nghĩa là: 
+A Lỗi hàm liên quan đến dữ liệu bị lặp lại
+B Lỗi hàm liên quan đến kiểu dữ liệu
+C Lỗi hàm liên quan đến việc lặp lại địa chỉ vùng
+D Lỗi hàm liên quan đến vùng tham chiếu không hợp lệ
+Đáp án  
+Câu 62 Trong Microsoft Excel, khi gõ một hàm, Excel báo #VALUE! có nghĩa là: 
+A Lỗi hàm liên quan đến vùng tham chiếu
+B Lỗi hàm liên quan đến việc dữ liệu bị lặp lại
+C Công thức bao gồm các ô có chứa các kiểu dữ liệu khác nhau
+D Không được nhập hàm vào ô đó
+Đáp án  
+Câu 63 Trong Microsoft Excel, sử dụng hàm để biết thứ của ngày trong tuần? 
+A WEEKDAY
+B WEEKEND
+C WEEKUP
+D WEEKNUM
+Đáp án  
+Câu 64 Trong Microsoft Excel, sử dụng hàm nào để biết ngày tháng năm hiện thời của hệ thống? 
+A DAY
+B DATE
+C DAYS360
+D TODAY
+Đáp án  
+Câu 65 Trong Microsoft Excel, sử dụng hàm nào để tìm kiếm giá trị trên cột: 
+A Hlookup
+B Lookup
+C Vlookup
+D Lookup value
+Đáp án  
+Câu 66 Trong Microsoft Excel, sử dụng hàm nào để tìm kiếm giá trị trên hàng? 
+A Vlookup
+B Hlookup
+C Lookup
+D Lookup value
+Đáp án  
+Câu 67 Trong Microsoft Excel, tại ô A1 nhập điểm trung bình, tại ô A2 nhập hàm nào dưới đây (nếu điểm trung bình lớn hơn 8.0 thì được học bổng 800000 ngược lại thì không được) 
+A if (A1&gt;=8.0,800000, “không được”)
+B if (A1&gt;8.0, 800000, không được)
+C if (A1&gt;8.0,800000, “không được”)
+D if (A1&lt;8.0, 800000, không được)
+Đáp án  
+Câu 68 Trong Microsoft Excel, tại ô A2 có dữ liệu “1Hanoi2”. Sử dụng Fill hand để điền dữ liệu đến các ô B2, C2, D2, E2; tại ô E2 nhận được kết quả nào? 
+A 1Hanoi5
+B 1Hanoi4
+C 1Hanoi3
+D 1Hanoi6
+Đáp án  
+Câu 69 Trong Microsoft Excel, tại ô A3 nhập chuỗi ký tự: Cơ sở đào tạo Hưng Phát, tại ô B3 nhập hàm nào dưới đây để có kết quả: "đào tạo” 
+A Mid(A3,6,6)
+B MID (A3,7,7)
+C #REF!
+D MID (A3,5,6)
+Đáp án  
+Câu 70 Trong Microsoft Excel, tại ô G32 ta nhập =(7+9):2 thì kết quả là: 
+A 8
+B Báo lỗi
+C FALSE
+D (7+9):2
+Đáp án  
+Mô đun 4: MS PowerpointCâu 1 Để chụp ảnh một phần cửa sổ ứng dụng trong Power Point 2016 bạn thực hiện thao tác nào? 
+A Insert/Screenshot/Chọn hình ảnh cửa sổ đang mở/Kéo rẽ chuột qua phần hình ảnh cần chụp
+B Nhấn phím Print/Kéo rẽ chuột qua phần hình ảnh cần chụp
+C Insert/Screenshot/Screen Clipping/Kéo rẽ chuột qua phần hình ảnh cần chụp
+D Nhấn phím Print/Ctrl+V
+Đáp án  
+Câu 2 Để in tài liệu bài thuyết trình ra 5 bản bạn nhấn tổ hợp phím nào? 
+A Ctrl+M
+B Ctrl+P
+C Ctrl+N
+D Ctrl+O
+Đáp án  
+Câu 3 Hai định dạng File âm thanh có thể chèn vào bài trình chiếu trong Power Point 2016: 
+A .wav và .gif
+B .wav và .mid
+C .wav và .jpg
+D .gif và .jpg
+Đáp án  
+Câu 4 Kiểu định dạng tập tin mà Power Point 2016 hỗ trợ là gì? 
+A .pptx
+B .ppt
+C .ppsx
+D Tất cả các kiểu .pptx, .ppt, . Ppsx
+Đáp án  
+Câu 5 Nhóm lệnh Page setup nằm trên thẻ nào: 
+A View
+B Home
+C Design
+D Review
+Đáp án  
+Câu 6 Phím có thẻ bật chế độ Slide Show: 
+A F1
+B F5
+C F2
+D F10
+Đáp án  
+Câu 7 Phương án nào không chỉ một chế độ hiển thị của Power Point 2016? 
+A Slide Show
+B Outline View
+C Presentation View
+D Slide View
+Đáp án  
+Câu 8 Slide dùng để giới thiệu về chủ đề của bài thuyết trình gọi là: 
+A Table Slide
+B Title Slide
+C Graph Slide
+D Bullet Slide
+Đáp án  
+Câu 9 Thẻ Animations trong Power Point 2016 có chức năng gì? 
+A Thiết lập hiệu ứng chuyển Slide
+B Chèn audio vào Slide
+C Chèn video vào Slide
+D Thiết lập hiệu ứng cho các đối tượng trên Slide
+Đáp án  
+Câu 10 Thẻ nào trong Power Point 2016 cho phép chèn các đối tượng là văn bản, hình ảnh, biểu đồ? 
+A Home
+B Insert
+C File
+D Edit
+Đáp án  
+Câu 11 Trong Microsoft Power Point 2016 trở đi, để thiết lập thư mục mặc định lưu bài thuyết trình là TINHOC_KIM. Ta vào Thẻ File – chọn Options. Sau đó, ta thực hiện tiếp thao tác nào sau đây? 
+A General – chọn thư mục TINHOC_KIM mục Default file location
+B Display – chọn thư mục TINHOC_KIM mục Default file location
+C Save – chọn thư mục TINHOC_KIM mục Default file location
+D Proofing – chọn thư mục TINHOC_KIM mục Default file location
+Đáp án  
+Câu 12 Trong Microsoft Power Point 2016 trở đi, để xóa tất cả slide của bài thuyết trình hiện hành. Trước khi nhấn phím Delete, ta click chọn một slide bất kỳ ở cửa sổ bên trái của màn hình. Ta nhấn tổ hợp phím nào sau đây? 
+A Shift + A
+B Ctrl + End
+C Ctrl + A
+D Shift + End
+Đáp án  
+Câu 13 Trong Microsoft Power Point 2016 trở đi, phần mở rộng mặc định của bài thuyết trình là. Ta chọn định dạng nào sau đây? 
+A ppt
+B xps
+C pptx
+D potx
+Đáp án  
+Câu 14 Trong Power Point 2016, cách nào để di chuyển đến một Slide khác không liền kề khi đang thực hiện trình diễn? 
+A Kích chuột trái tại Slide hiện hành/chọn Go to Slide
+B Kích chuột phải tại Slide hiện hành/chọn Go to Slide
+C Kích đúp chuột phải tại Slide hiện hành/chọn Go to Slide
+D Không cách nào đúng
+Đáp án  
+Câu 15 Bạn chọn thẻ (ngăn) nào để them hiệu ứng chuyển tiếp trong Power Point 2016? 
+A Thẻ ngăn Animations
+B Thẻ Slide Show
+C Thẻ Design
+D Thẻ Transitions
+Đáp án  
+Câu 16 Các yếu tố nào liên quan đến kiểu thiết kế (Design) trong Power Point 2016? 
+A Màu sắc
+B Kiểu phông chữ
+C Tất cả các yếu tố
+D Các hình ảnh nền
+Đáp án  
+Câu 17 Chế độ có thể nhập ghi chú của người thuyết trình trong Power Point 2016 được gọi là gì? 
+A Slide Show
+B Slide sorter
+C Note Page
+D Slide Master
+Đáp án  
+Câu 18 Chế độ hiển thị nào của Power Point 2016 có ngăn tác vụ Slide và Outline? 
+A Reading View
+B Note Page View
+C Normal View
+D Silde Sorter View
+Đáp án  
+Câu 19 Chế độ hiển thị nào của Power Point 2016 có thể thêm ghi chú Slide? 
+A Reading View
+B Normal View
+C Slide MasterView
+D Silde Sorter View
+Đáp án  
+Câu 20 Chế độ hiện thị tất cả danh sách Slide và hữu ích cho việc sắp xếp lại thứ tự là gì? 
+A Slide Sorter
+B Normal
+C Notes Page
+D Reading View
+Đáp án  
+Câu 21 Chế độ thiết lập mặc định hướng (Orientation) của Slide là gì? 
+A Portrait
+B Vertical
+C Horizontal
+D Lanscape
+Đáp án  
+Câu 22 Chọn cách tốt nhất để nhân đôi một Slide trong Power Point 2016? 
+A Chọn Slide/nhấn Ctrl+C/nhấn Ctrl+V
+B Chọn Slide/nhấn nút lệnh Copy/nhấn nút lệnh Paste
+C Không có cách nào đúng
+D Nhấn tổ hợp phím Ctrl+D
+Đáp án  
+Câu 23 Chọn kiểu chế độ hiển thị tốt nhất để thiết kế mẫu cho các slide về phông chữ, kiểu dáng và bố cục? 
+A Handout Master
+B Design View
+C Note Master
+D Slide Master
+Đáp án  
+Câu 24 Chọn nhóm thẻ lệnh chính trong Power Point 2016: 
+A Home, Insert, Transition, Animations,  Slide Show, Review, View, Format
+B Home, Insert, Design, Animations,  Slide Show, Review, View, Layout
+C Home, Insert, Design, Animations,  Slide Show, Review, View,  Slide Master
+D Home, Insert, Design, Transition, Animations, Slide Show, Review, View
+Đáp án  
+Câu 25 Chức năng Animations/ Timing/ Delay dùng để: 
+A Thiết lập thời gian chờ trước khi slide được trình chiếu
+B Thiết lập thời gian chờ trước khi hiệu ứng bắt đầu
+C Thiết lập thời gian hoạt động cho tất cả các hiệu ứng
+D Tất cả đều đúng
+Đáp án  
+Câu 26 Chuột phải vào Slide và chọn Reset Slide nhằm mục đích gì? 
+A Khôi phục lại nội dung bị xóa trên slide
+B Khôi phục lại Slide bị xóa
+C Không có cách nào đúng
+D Trở lại thiết lập mặc định về vị trí, kích thước và định dạng của các Placeholder
+Đáp án  
+Câu 27 Đang trình chiếu một bài thuyết trình, muốn dừng trình diễn ta nhấn phím nào trên bàn phím? 
+A Tab
+B ESC
+C Home
+D End
+Đáp án  
+Câu 28 Để ẩn/hiện một Slide thuyết trình bạn chọn: 
+A Chuột phải vào từng đối tượng trên Slide/chọn Hide Slide
+B Xóa Slide đó đi
+C Không thực hiện được điều này
+D Chuột phải vào khung Slide trong Slide bên trái/chọn Hide Slide
+Đáp án  
+Câu 29 Để bắt đầu trình chiếu từ slide đầu tiên trong Power Point 2016 thực hiện thao tác nào? 
+A Nhấn tổ hợp phím Shift + F5
+B Nhấn phím F5
+C Nhấn phím F12
+D Nhấn phím F2
+Đáp án  
+Câu 30 Để chèn một Slide mới thực hiện: 
+A File/New Slide
+B Insert/Slide
+C Home/Slide
+D Nhấn tổ hợp phím Ctrt+M
+Đáp án  
+Câu 31 Để chèn một Slide trống trong Power Point 2016 bạn thực hiện như thế nào? 
+A Nhấn Ctrl+O
+B Nhấn nút New Slide trong nhóm Slider trên thẻ Home và nhấn chọn Blank
+C Nhấn Ctrl+N
+D Không thực hiện được điều này
+Đáp án  
+Câu 32 Để chèn số trang trong Power Point 2016 thực hiện thao tác nào? 
+A Chèn vào một textbox và chọn Insert/Page Number
+B Chèn vào một textbox và chọn Insert/Number/Page Number
+C Insert/Number/Page Number
+D Insert/Slide Number/ Tích chọn Slide Number /Apply hoặc Apply to All
+Đáp án  
+Câu 33 Để chèn video cho một slide trong Power Point 2016 bạn và thẻ nào? 
+A Thẻ Design
+B Thẻ View
+C Thẻ Home
+D Thẻ Insert
+Đáp án  
+Câu 34 Để định dạng dãn dòng, dãn đoạn văn bản bạn chọn thẻ nào? 
+A Design /Paragraph
+B Insert/Paragraph
+C Không thực hiện được điều này
+D Home /Paragraph
+Đáp án  
+Câu 35 Để đóng nhanh bài thuyết trình hiện hành trong Power Point 2016 bạn nhấn tổ hợp phím nào? 
+A Ctrl+ESC
+B Ctrl+END
+C Alt+F4
+D Không có cách nào đúng
+Đáp án  
+Câu 36 Để đưa một đối tượng đồ họa ra sau đối tượng khác trong Power Point 2016, Tại Format chọn: 
+A Send Backward/ Send to Back
+B Send to back
+C Bring to front
+D Bring forward
+Đáp án  
+Câu 37 Để mở hộp thoại Open bạn thực hiện như thế nào? 
+A Ctrl+N
+B Ctrl+F4
+C Ctrl+S
+D Ctrl+O
+Đáp án  
+Câu 38 Để một đối tượng trong Slide có thể di chuyển khi trình chiếu, trong Power Point 2016 bạn chọn thẻ nào? 
+A Transition
+B Slide Show
+C Animations
+D View
+Đáp án  
+Câu 39 Để nhập nội dung văn bản vào một hình vẽ bạn làm như thế nào? 
+A Tất cả các cách đều được
+B Nhấn chọn hình vẽ và nhập ngay nội dung văn bản
+C Nhấn đúp chuột vào hình vẽ và nhập nội dung văn bản
+D Chuột phải vào hình vẽ/ chọn Edit Text và nhập văn bản
+Đáp án  
+Câu 40 Để nhập thêm nội dung văn bản vào một Slide trống trong Power Point 2016 phải thực hiện hành động nào đầu tiên? 
+A Nhấn vào Slide và nhập
+B Chuột phải vào Slide/chọn Add Text
+C Chèn một Textbox để nhập văn bản
+D Không có cách nào đóng
+Đáp án  
+Câu 41 Để sắp xếp các đối tượng căn thẳng bên lề trái trong Power Point 2016 bạn chọn: 
+A Align right
+B Align center
+C Align left
+D Align top
+Đáp án  
+Câu 42 Để tạo hiệu ứng cho 1 Slide, bạn sử dụng lựa chọn nào? 
+A Animations / Add Animation
+B Transitions / Effect Options
+C Transitions / Transition to this Slide
+D Animations / Animation
+Đáp án  
+Câu 43 Để tạo nhanh bài thuyết trình rỗng khi đang ở trong cửa sổ Power Point 2016 thực hiện: 
+A Nhấn tổ hợp phím Shif + F5
+B Nhấn tổ hợp phím Ctrl+N
+C Nhấn tổ hợp phím Ctrl+M
+D Nhấn tổ hợp phím Ctrl+O
+Đáp án  
+Câu 44 Để thêm ghi chú cho trang thuyết trình, bạn chọn: 
+A Chọn chế độ hiển thị Normal/Nhập nội dung ghi chú vào khung Notes
+B Chọn chế độ hiển thị Slide sorter/Nhập nội dung ghi chú vào khung Notes
+C Chọn chế độ hiển thị Slide Master/Nhập nội dung ghi chú vào khung Notes
+D Chọn chế độ hiển thị Slide Show/Nhập nội dung ghi chú vào khung Notes
+Đáp án  
+Câu 45 Để thêm một Slide bạn chọn thao tác nào? 
+A Home/New Slide
+B Insert/New Slide
+C Nhấn tổ hợp phím Ctrl M
+D Tất cả các đáp án trên đều đúng
+Đáp án  
+Câu 46 Để thêm một Slide mới bạn thực hiện nhấn tổ hợp phím: 
+A Ctrl+N
+B Ctrl+S
+C Ctrl+F
+D Ctrl+M
+Đáp án  
+Câu 47 Để thêm nội dung văn bản vào một Slide trống bạn cần làm gì? 
+A Không phải làm gì cả, chỉ việc nhấn chuột vào Slide và nhập văn bản
+B Chèn vào một Textbox, một hình vẽ hoặc một bảng biểu trước khi thêm văn bản
+C Kích phải chuột vào Slide và chọn Add Text
+D Không có cách nào đúng
+Đáp án  
+Câu 48 Để thoát khỏi chế độ trình chiếu trong Power Point 2016 thực hiện thao tác nào? 
+A Nhấn phím ESC
+B Nhấm phím mũi tên sang trái
+C Nhấn phím mũi tên sang phải
+D Nhấn phím END
+Đáp án  
+Câu 49 Để thực hiện ẩn/hiện thanh thước trong Power Point 2016 bạn vào thẻ nào? 
+A Thẻ Review/ Slide Sorter
+B Thẻ Design
+C Thẻ Slide Show
+D Thẻ View
+Đáp án  
+Câu 50 Để trình chiếu slide hiện tại trong Power Point 2016 thực hiện thao tác nào? 
+A Nhấn phím F5
+B Nhấn phím F12
+C Nhấn tổ hợp phím Shift + F5
+D Nhấn phím F2
+Đáp án  
+Câu 51 Để vẽ đồ thị trong Slide ta chọn 
+A File/ Chart
+B Insert/ Chart
+C View/ Chart
+D Design/ Chart
+Đáp án  
+Câu 52 Định dạng File có thể chèn thêm vào bài trình chiếu trong Power Point 2016: 
+A .jpg
+B Tất cả các tệp định dạng này
+C .gif
+D .wav
+Đáp án  
+Câu 53 Dòng chữ nhắc nhở Click to Add Text trên Slide có nghĩa là gì? 
+A Nhập vào tựa đề cho Slide
+B Nhập vào số trang cho Slide
+C Nhập vào nội dung cho Slide
+D Nhập vào ngày tháng cho Slide
+Đáp án  
+Câu 54 Dòng chữ nhắc nhở Click to Add title trên Slide có nghĩa là gì? 
+A Nhập vào nội dung cho Slide
+B Nhập vào nội dung tựa đề cho Slide
+C Nhập vào số trang cho Slide
+D Nhập vào ngày tháng cho Slide
+Đáp án  
+Câu 55 Khi thiết kế các Slide, sử dụng Home / Slides / New Slide có ý nghĩa gì? 
+A Chèn thêm một slide mới vào ngay trước slide hiện hành
+B Chèn thêm một slide mới vào ngay sau slide hiện hành
+C Chèn thêm một slide mới vào ngay trước slide đầu tiên
+D Chèn thêm một slide mới vào ngay sau slide cuối cùng
+Đáp án  
+Câu 56 Làm thế nào để xóa một Slide trong Power Point 2016? 
+A Chọn Slide cần xóa trên cửa sổ Slide/ nhấn phím Delete
+B Chuột phải vào Slide cần xóa trên cửa sổ Slide/ nhấn Delete Slide
+C Chọn Slide cần xóa trên cửa sổ Slide/ nhấn nút Cut
+D Tất cả các cách trên
+Đáp án  
+Câu 57 Lệnh nào quay lại Slide đầu tiên của bài thuyết trình 
+A Ctrl + End
+B Ctrl + home
+C Previous Slide
+D Ctrl + Page up
+Đáp án  
+Câu 58 Mỗi trang trình diễn trong Power Point 2016 được gọi là: 
+A Một Document
+B Một Slide
+C Một File
+D Tất cả các phương án đều sai
+Đáp án  
+Câu 59 Nếu bạn chọn Insert/Picture trong Power Point 2016 thì: 
+A Chỉ có thể chèn pictures
+B Có thể chèn pictures là clipart
+C Chỉ có thể chèn clipart
+D Tất cả đều sai
+Đáp án  
+Câu 60 Phần trăm cửa sổ Power Point 2016 được phóng đại gấp mấy lần? 
+A 4
+B 2
+C 5
+D 3
+Đáp án  
+Câu 61 Thẻ nào trong Power Point 2016 chứa nút lệnh Hyperlink? 
+A Transition
+B Animations
+C Không có nút lệnh này
+D Insert
+Đáp án  
+Câu 62 Tổ hợp phím Ctrl+M là thao tác nào sau đây? 
+A Mở một tệp trình chiếu mới
+B Chèn thêm một Slide mới vào sau Slide hiện tại
+C Chèn thêm một Slide mới vào cuối bài thuyết trình
+D Mở một tệp trình chiếu có sẵn
+Đáp án  
+Câu 63 Tổ hợp phím tắt nào sau đây không liên quan đến thao tác sao chép, cắt dán trong Power Point 2016? 
+A Ctrl+C
+B Ctrl+V
+C Ctrl+X
+D Ctrl+P
+Đáp án  
+Câu 64 Trong chế độ Handout Master không có chứa: 
+A Tiêu đề Slide
+B Số trang Slide
+C Header
+D Footer
+Đáp án  
+Câu 65 Trong chế độ trình chiếu, để đi đến một Slide nào đó thực hiện lệnh: 
+A Nhấn Ctrl + Số thứ tự của Slide
+B Nhấn Page up
+C Nhấn Page down
+D Chuột phải vào Slide hiện tại/ Go to Slide/ nhấn chọn Slide cần đến
+Đáp án  
+Câu 66 Trong khi trình chiếu, để ẩn đi nội dung trình chiếu (màn hình trình chiếu có màu đen) bạn chọn: 
+A W
+B H
+C K
+D B
+Đáp án  
+Câu 67 Trong Microsoft Power Point 2016 trở đi, đang mở tập tin “Luan_van.pptx”. Ta nhấn tổ hợp phím Ctrl + S thì sẽ có tác dụng gì? 
+A Tạo mới một tập tin
+B Mở một tập tin đã có trên đĩa
+C Lưu nội dung bài thuyết trình tương ứng
+D Không có chức năng gì cả
+Đáp án  
+Câu 68 Trong Microsoft Power Point 2016 trở đi, để phóng to hoặc thu nhỏ màn hình biên tập. Ta thực hiện thao tác nào sau đây? 
+A Giữ phím Alt và lăn con chạy của chuột
+B Giữ phím Shift và lăn con chạy của chuột
+C Giữ phím Ctrl và lăn con chạy của chuột
+D Giữ phím Caps Lock và lăn con chạy của chuột
+Đáp án  
+Câu 69 C
+A Thanh tiêu đề
+B Thanh công cụ
+C Thanh trạng thái
+D Không có thanh nào cả
+Đáp án  
+Câu 70 Trong Microsoft Power Point 2016, “biểu đồ dạng cột” được gọi là? 
+A Bar
+B Pie
+C Column
+D Line
+Đáp án  
+Phần 2:Mô đun 5: InternetCâu 1 Trong khi soạn thảo email nếu muốn gửi kèm file chúng ta bấm nút\: 
+A Send
+B Attachment
+C Copy
+D File &gt; Save
+Đáp án  
+Câu 2 Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì? 
+A Nhãn hiệu của một thiết bị kết nối mạng
+B Thực hiện lệnh in trong mạng cục bộ
+C Một phần mềm hỗ trợ sử dụng mạng cục bộ
+D Chia sẻ tài nguyên
+Đáp án  
+Câu 3 Trong mạng máy tính, thuật ngữ WAN có nghĩa là gì: 
+A Mạng cục bộ
+B Mạng diện rộng
+C Mạng toàn cầu
+D Mạng doanh nghiệp
+Đáp án  
+Câu 4 Trong máy tính, thuật ngữ SLAN có ý nghĩa gì? 
+A Mạng cục bộ
+B Mạng diện rộng
+C Mạng toàn cầu
+D Không phải là thuật ngữ mạng
+Đáp án  
+Câu 5 Trong một địa chỉ Email, kí tự nào là kí tự phải có: 
+A =
+B :
+C !
+D @
+Đáp án  
+Câu 6 Trong soạn thảo thư điện tử bằng Gmail, nễu muốn gửi đồng thời đến cho nhiều người mà không che dấu địa chỉ email của họ, dùng tính năng gửi nào sau đây? 
+A CC
+B BCC
+C Send to
+D Copy
+Đáp án  
+Câu 7 Ưu điểm của hệ thống thư điện tử là gì? 
+A Có thể gửi cho nhiều người cùng lúc, tiết kiệm thời gian và chi phí
+B Độ bảo mật cao, có thể gửi kèm nhiều loại tài liệu với dung lượng không hạn chế
+C Tất cả đều đúng
+D Không bị thất lạc, có thể gửi kèm nhiều loại tài liệu không cần kết nối internet
+Đáp án  
+Câu 8 Vì sao việc mở các tập tin đính kèm theo thư điện tử lại nguy hiểm: 
+A Vì khi mở tệp đính kèm phải trả tiền dịch vụ
+B Vì tệp đính kèm có dung lượng lớn nên máy tính không chứa được
+C Vì tất cả tệp đính kèm thư điện tử có nguồn lây nhiễm của virus máy tính
+D Vì tất cả các lý do
+Đáp án  
+Câu 9 Với thư điện tử, phát biểu nào sau đây là sai: 
+A Có thể gửi 1 thư đến 10 địa chỉ khác nhau
+B Hai người có thể có địa chỉ thư giống nhau, ví dụ hoaphonglan@gmail.com
+C 1 người có thể gửi thư cho chính mình, nhiều lần
+D Tệp tin đính kèm theo thư có thể chứa virus, vậy nên cần kiểm tra virus trước khi sử dụng
+Đáp án  
+Câu 10 Website estih.edu.vn thể hiện? 
+A Đây là địa chỉ của trang web thuộc lĩnh vực hành chính
+B Đây là địa chỉ trang web thuộc lĩnh vực giáo dục
+C Đây là địa chỉ của trang web thuộc lĩnh vực quốc tế
+D Đây là địa chỉ của trang web thuộc lĩnh vực giải trí
+Đáp án  
+Câu 11 Cookies là gì? 
+A Là các tệp văn bản nhỏ lưu trữ thông tin về quá trình truy xuất Internet của người dùng hoặc các thông tin cá nhân mà người dùng từng khai báo
+B Là một chương trình nhỏ nằm trong máy chủ và lưu trữ thông tin kết nối Internet của các máy người dùng
+C Cookies là tất cả những nội dung
+D Là một chức năng cho phép xem thông tin lịch sử máy tính
+Đáp án  
+Câu 12 Trình duyệt web nào sau đây được tích hợp sẵn trong hệ điều hành Windows? 
+A Internet Explorer
+B Mozilla FireFox
+C Google Chrome
+D Opera
+Đáp án  
+Câu 13 Trong các chương trình sau, chương trình nào không phải là trình duyệt web? 
+A Opera
+B Yahoo
+C Safari
+D Google Chrome
+Đáp án  
+Câu 14 Trong các yếu tố sau, yếu tố nào quan trọng nhất với sự phát triển của thương mại điện tử? 
+A Nguồn nhân lực
+B Công nghệ thông tin
+C Môi trường pháp lý, kinh tế
+D Môi trường chính trị, xã hội
+Đáp án  
+Câu 15 World Wide Web là gì? 
+A Là một hệ thống các máy chủ cung cấp thông tin đến bất kì các máy tính nào trên internet có yêu cầu
+B Là một không gian thông tin toàn cầu cho các máy tính kết nối mạng
+C Là máy dùng để đặt các trang Web trên internet
+D Là một không gian thông tin toàn cầu cho các máy tính không kết nối mạng
+Đáp án  
+Câu 16 “Link" trên trang web có nghĩa là: 
+A Liên kết đến 1 trang web khác
+B Liên kết đến 1 liên kết khác
+C Liên kết
+D Tất cả các câu trên đều đúng
+Đáp án  
+Câu 17 ARPANET là gì? 
+A Tiền thân của Internet
+B Một chuẩn mạng cục bộ LAN
+C Một chuẩn mạng diện rộng MAN
+D Mô hình phân tầng
+Đáp án  
+Câu 18 Các chương trình ứng dụng riêng lẻ trong mạng máy tính là? 
+A Các chương trình ứng dụng có thể cài đặt riêng lẻ cho các máy tính để sử dụng hoặc cài đặt lên máy chủ để nhiều máy cùng sử dụng
+B Các chương trình để quản lý các máy tính riêng lẻ
+C Các chương trình ứng dụng dùng để điều khiển các luồng dữ liệu, duy trì sự an toàn và theo dõi tài khoản của người dùng
+D Các chương trình ứng dụng để kiểm tra và phân quyền cho nhiều người chạy trên nhiều máy
+Đáp án  
+Câu 19 Các mạng trên Internet thường được kết nối với nhau bởi thiết bị có tên gọi là gì? 
+A Network Card
+B Internet Host
+C HUB
+D Router
+Đáp án  
+Câu 20 Card mạng được dùng để? 
+A Nối với màn hình
+B Nối với dây cáp mạng LAN để truyền tín hiệu
+C Nối với máy in
+D Nối với máy chiếu
+Đáp án  
+Câu 21 Chỉ ra tên trình duyệt Web mặc định của hệ điều hành Windows 10? 
+A Windows Explorer
+B Microsoft Edge
+C Google Chrome
+D Cốc cốc
+Đáp án  
+Câu 22 Cho biết ứng dụng nào thuộc loại Client/Server: 
+A Word
+B Excel
+C www (world wide web)
+D Photoshop
+Đáp án  
+Câu 23 Chọn phát biểu đúng nói về dịch vụ thư điện tử: 
+A Là dịch vụ chỉ dành cho những người làm trong lĩnh vực điện tử viễn thông
+B Là dịch vụ gửi thông tin qua mạng Internet thông qua các địa chỉ thư điện tử
+C Người đưa thư chỉ việc để thư ở hòm thư trước nhà người nhận là người nhận có thể biết được nội dung
+D Dịch vụ này chưa có
+Đáp án  
+Câu 24 Chọn phát biểu đúng về Email: 
+A Là phương thức truyền tập tin từ máy này đến máy khác trên mạng
+B Là dịch vụ cho phép ta truy cập đến hệ thống máy tính khác trên mạng
+C Là dịch vụ cho phép ta gửi và nhận thư điện tử
+D Là hình thức hội thảo trực tiếp trên internet
+Đáp án  
+Câu 25 Chọn phát biểu đúng về tên miền: 
+A Tất cả đều đúng
+B Tên miền là tên gọi nhớ về một địa chỉ IP
+C Tên miền là tên giao dịch của một công ty hay tổ chức sử dụng trên Internet
+D Công việc chuyển đổi từ tên miền sang địa chỉ IP do máy chủ DNS đảm trách
+Đáp án  
+Câu 26 Chọn phát biểu đúng: 
+A Các trang web được lưu trên các Web Server
+B Tất cả đều đúng
+C Khi có nhu cầu xem nội dung 1 trang web máy client sẽ gửi yêu cầu đến web server
+D Sau khi nhận yêu cầu, web server sẽ gửi nội dung trang web về máy client và hiển thị trên web browser
+Đáp án  
+Câu 27 Chức năng Bookmark của trình duyệt web dùng để: 
+A Lưu trang web về máy tính
+B Đánh dấu trang web trên trình duyệt
+C Đặt làm trang chủ
+D Tất cả đều đúng
+Đáp án  
+Câu 28 Chức năng của giao thức IP là? 
+A Phân đoạn và tái tạo dữ liệu
+B Phân đoạn
+C Định nghĩa cơ chế định địa chỉ trong mạng Internet
+D Định hướng đường cho các đơn vị dữ liệu đến các host ở xa
+Đáp án  
+Câu 29 Chương trình Microsoft Outlook dùng để? 
+A Soạn thảo văn bản
+B Duyệt web
+C Gửi, nhận email
+D Tất cả 3 lý do
+Đáp án  
+Câu 30 Client là gì? 
+A Là một máy tính có kết nối mạng
+B Là một tập hợp các chương trình phần mềm thông thường
+C Là máy tính sử dụng các dịch vụ do máy server cung cấp
+D Là một máy tính có cấu hình mạnh
+Đáp án  
+Câu 31 Đâu không phải là một trình duyệt web? 
+A Internet Browser
+B Chrome
+C Internet Explorer
+D Firefox
+Đáp án  
+Câu 32 Đâu là ứng dụng thư điện tử? 
+A Notepad
+B Ubuntu
+C Microsoft Outlook
+D Google
+Đáp án  
+Câu 33 Dấu nào được sử dụng làm dấu phân cách trong tên miền? 
+A Dấu chấm (.)
+B Dấu hỏi (?)
+C Dấu gạch dưới (_)
+D Dấu (#)
+Đáp án  
+Câu 34 Để các máy tính trên internet có thể liên lạc với nhau, mỗi máy tính cần có một địa chỉ liên lạc và địa chỉ này được gọi là gì ? 
+A Địa chỉ TCP
+B Địa chỉ IP
+C Địa chỉ HTTP
+D Địa chỉ URL
+Đáp án  
+Câu 35 Để chặn các email không mong muốn, thực hiện thao tác nào sau đây ? 
+A Chọn email, sau đó kích nút spam
+B Chọn email, sau đó chọn nút delete
+C Chọn email, sau đó chọn nút reply
+D Chọn email, sau đó chọn nút forward
+Đáp án  
+Câu 36 Để chuyển tiếp thư, dùng nút 
+A Reply
+B Reply to all
+C Attachment
+D Forward
+Đáp án  
+Câu 37 Để có được trang Web trên Internet cho người khác truy cập vào thì cần phải có 
+A Một tên miền truy cập (hay domain) hoặc IP máy chủ
+B Một máy chủ là nơi để chứa nội dung trang Web, hay còn gọi là hosting
+C Kết nối tên miền đến máy chủ hosting chứa trang Web
+D Cả 3 điều kiện trên
+Đáp án  
+Câu 38 Để có được trang Web trên Internet cho người khác truy cập vào thì cần phải có\: 
+A Một tên miền truy cập (hay domain) hoặc IP máy chủ
+B Một máy chủ là nơi để chứa nội dung trang Web, hay còn gọi là hosting
+C Kết nối tên miền đến máy chủ hosting chứa trang Web
+D Cả 3 thông tin trên
+Đáp án  
+Câu 39 Để có thể chat bằng âm thanh (voice), cả hai người tham gia phải có: 
+A Một điện thoại
+B Một máy quay video (webcamera)
+C Một phần mềm tương thích nhau, một card âm thanh, microphone và các loa (hay headphone)
+D Một bộ tăng âm
+Đáp án  
+Câu 40 Để ghi lại các địa chỉ trang web yêu thích thường truy cập, chúng ta nhấn nút nào trên thanh công cụ: 
+A Back
+B History
+C Favorites
+D Links
+Đáp án  
+Câu 41 Để soạn một thư điện tử mới, bạn chọn nút nào? 
+A Compose
+B Check Mail
+C Attachment
+D Send
+Đáp án  
+Câu 42 Để sử dụng mạng Internet hiệu quả, an toàn. Bạn không nên: 
+A Luôn không ngừng học tập, tu dưỡng đạo đức lối sống theo qui định của pháp luật, nhà nước thực hiện nghiêm túc các quy định của pháp luật về Internet
+B Sắp xếp, bố trí thời gian một cách khoa học, hợp lý cho việc sử dụng Internet
+C Đưa nhiều thông tin thật, chính xác về bản thân khi tham gia mạng Internet\: Số tài khoản ngân hàng, mật khẩu, số thẻ căn cước (CMTND)…
+D Chọn lọc nguồn thông tin đúng đắn. Cảnh giác với những thông tin nguy hại, tiêu phí thời gian, sức lực, tiền bạc, bạo lực
+Đáp án  
+Câu 43 Để thay đổi địa chỉ trang mặc định (home page), bạn chọn thẻ nào trong hộp thoại Internet Options? 
+A Content
+B General
+C Connections
+D Advanced
+Đáp án  
+Câu 44 Để trả lời thư cho tất cả mọi người, sử dụng nút: 
+A Reply to All
+B Reply
+C Attachment
+D Forward
+Đáp án  
+Câu 45 Để truy cập vào một trang Web chúng ta cần phải biết: 
+A Hệ điều hành đang sử dụng
+B Trang web đó của nước nào
+C Tên miền của trang Web
+D Tất cả đều sai
+Đáp án  
+Câu 46 Để xem lại lịch sử duyệt web trên trình duyệt Internet Explorer, người ta sử dụng tổ hợp bàn phím: 
+A Ctrl + L
+B Ctrl + H
+C Ctrl + P
+D Ctrl + M
+Đáp án  
+Câu 47 Để xóa Email đã nhận ở hòm thư gmail.com, thao tác thực hiện như thế nào? 
+A Inbox / chọn Email cần xóa / Compose
+B Inbox / chọn Email cần xóa / Check mail
+C Inbox / chọn Email cần xóa / Delete
+D Inbox / chọn Email cần xóa / Sent mail
+Đáp án  
+Câu 48 Địa chỉ IP nào sau đây không hợp lệ ? 
+A 192.168.1.1
+B 192.168.100.1
+C 192.168.10.269
+D 192.168.10.123
+Đáp án  
+Câu 49 Dịch vụ Google Drive cho phép người dùng thực hiện được những công việc nào : 
+A Tạo biểu mẫu online
+B Lưu trữ tài liệu Online
+C Làm việc Excel Online
+D Tất cả các phương án
+Đáp án  
+Câu 50 Dịch vụ mạng DNS dùng để: 
+A Cấp địa chỉ cho máy
+B Truyền file và dữ liệu
+C Gửi thư điện tử
+D Phân giải tên, địa chỉ
+Đáp án  
+Câu 51 Dịch vụ nào cho phép người sử dụng từ một trạm làm việc của mình có thể đăng nhập vào một trạm ở xa qua mạng và có thể làm việc với hệ thống: 
+A Email
+B Telnet
+C FTP
+D WWW
+Đáp án  
+Câu 52 Điều nào sau đây là lợi thế của thư điện tử so với thư tín gửi qua đường bưu điện: 
+A Có thể chuyển được văn bản có dung lượng lớn bất kỳ nhờ chức năng gắn kèm
+B Tốc độ chuyển thư nhanh
+C Thư điện tử luôn có độ an ninh cao hơn
+D Thư điện tử luôn luôn được phân phát
+Đáp án  
+Câu 53 DNS là viết tắt của cụm từ tiếng Anh nào? 
+A Domain Name Software
+B Domain Name Science
+C Dynamic Name System
+D Domain Name System
+Đáp án  
+Câu 54 Download có nghĩa là gì? 
+A Không tải
+B Đang tải
+C Tải file hay folder xuống
+D Trực tuyến
+Đáp án  
+Câu 55 Dưới góc độ địa lý, mạng máy tính được phân biệt thành: 
+A Mạng cục bộ, mạng diện rộng, mạng toàn cục
+B Mạng cục bộ, mạng toàn cục, mạng toàn cầu
+C Mạng cục bộ, mạng diện rộng, mạng toàn cầu
+D Mạng diện rộng, mạng toàn cầu, mạng toàn cục
+Đáp án  
+Câu 56 Email đã soạn thảo sẽ được lưu trữ trong mục nào sau đây nếu người dùng chưa bấm nút gửi thư? 
+A Draft
+B Outbox
+C Sent
+D Starred
+Đáp án  
+Câu 57 Giao thức HTTPS là: 
+A Là giao thức truyền tải siêu văn bản bảo mật
+B Là ngôn ngữ để soạn thảo nội dung các trang Web
+C Là tên của trang Web
+D Là địa chỉ của trang Web
+Đáp án  
+Câu 58 Hai người đã tạo được tài khoản thư miễn phí tại địa chỉ mail.google.com. Phát biểu nào sau đây là sai? 
+A Hai người này buộc phải lựa chọn hai tên đăng nhập khác
+B Người này có thể mở hộp thư của người kia và ngược lại nếu như hai người biết tên đăng nhập và mật khẩu của nhau
+C Hộp thư của 2 người đều nằm trên máy mail server của công ty google
+D Mật khẩu mở hộp thư của hai người này phải khác nhau
+Đáp án  
+Câu 59 Hiện nay bộ giao thức nào được dùng chủ yếu trên internet? 
+A NETBEUI
+B IPX/SPX
+C ARPA
+D TCP/IP
+Đáp án  
+Câu 60 Hiện nay nhiều nước trong đó có Việt Nam sử dụng bộ mã truyền tin tiêu chuẩn của Hoa Kỳ với tên gọi 
+A ASCII (American standard code for information interchange)
+B VNI
+C TCVN3
+D Unikey
+Đáp án  
+Câu 61 Home Page - trang chủ có ý nghĩa là: 
+A Trang Web đơn độc không chứa siêu liên kết đến các trang web khác
+B Trang Web có nhiều nội dung bổ ích, hấp dẫn người xem
+C Trang Web có các nội dung chỉ dành riêng cho các kỹ sư phát triển phần mềm
+D Trang Web giới thiệu cho một cơ quan, tổ chức, siêu liên kết với nhiều trang web khác
+Đáp án  
+Câu 62 HTML là gì ? 
+A Là một ngôn ngữ lập trình ứng dụng rất mạnh
+B Là một ngôn ngữ lập trình hệ thống rất mạnh
+C Không phải ngôn ngữ lập trình
+D Là ngôn ngữ đơn giản, sử dụng các thẻ để tạo ra các trang văn bản hỗn hợp
+Đáp án  
+Câu 63 HTML là viết tắt của cụm từ tiếng Anh nào ? 
+A Hyper Text Markup Language
+B Hyper Test Making Language
+C Huge Text Markup Language
+D High Text Markup Language
+Đáp án  
+Câu 64 HTTP là gì ? 
+A Là giao thức truyền siêu văn bản
+B Là ngôn ngữ để soạn thảo nội dung các trang Web
+C Là tên của trang web
+D Là địa chỉ của trang web
+Đáp án  
+Câu 65 Internet Explorer là gì ? 
+A Chuẩn kết nối mạng Internet
+B Trình duyệt web
+C Chuẩn kết nối mạng cục bộ LAN
+D Bộ giao thức
+Đáp án  
+Câu 66 ISP là gì ? 
+A Là nhà cung cấp cổng truy cập Internet cho các mạng
+B Là nhà cung cấp dịch vụ Internet
+C Là nhà cung cấp thông tin trên Internet
+D Tất cả đều đúng
+Đáp án  
+Câu 67 Google Drive là gì?
+A Một loại hệ điều hành máy tính
+B Dịch vụ lưu trữ và đồng bộ tệp trực tuyến của Google
+C Phần mềm diệt virus miễn phí
+D Trình soạn nhạc trực tuyến
+Đáp án  
+Câu 68 Ưu điểm chính của việc lưu tệp trên Google Drive là gì?
+A Chỉ xem được trên một máy duy nhất
+B Dễ bị mất dữ liệu hơn ổ cứng
+C Có thể truy cập tệp mọi lúc, mọi nơi khi có internet
+D Chỉ lưu được tệp văn bản
+Đáp án  
+Câu 69 Để tạo một tài liệu văn bản mới trên Google Drive, thao tác đúng là:
+A Nhấn "Mới" → Google Tài liệu (Google Docs)
+B Nhấn "Mới" → Google Biểu mẫu
+C Nhấn "Mới" → Tải tệp lên
+D Nhấn chuột phải vào màn hình desktop
+Đáp án  
+Câu 70 Trong Google Docs, chế độ "Gợi ý" (Suggesting/Suggest mode) được dùng để:
+A Khóa không cho ai chỉnh sửa tài liệu
+B Ghi lại các đề xuất chỉnh sửa thay vì sửa trực tiếp văn bản
+C Xóa toàn bộ lịch sử chỉnh sửa
+D Tự động dịch tài liệu sang ngôn ngữ khác
+Đáp án  
+Câu 71 Trong Google Docs, tính năng "Bình luận" (Comment) dùng để:
+A Thay đổi font chữ
+B Thêm ghi chú, nhận xét vào vị trí văn bản cụ thể
+C Xóa đoạn văn bản đã chọn
+D Đổi tên tài liệu
+Đáp án  
+Câu 72 Trong Google Sheets, hàm nào sau đây dùng để tính tổng một dãy ô?
+A =SUM()
+B =AVERAGE()
+C =MAX()
+D =MIN()
+Đáp án  
+Câu 73 Đặc điểm nổi bật của Google Sheets so với Excel cài trên máy là:
+A Không làm việc được nhiều người cùng lúc
+B Cho phép nhiều người chỉnh sửa cùng lúc trên cùng một bảng tính
+C Không có hàm tính toán
+D Không thể chèn biểu đồ
+Đáp án  
+Câu 74 Trong Google Drive, để chia sẻ tệp cho người khác xem nhưng KHÔNG chỉnh sửa, bạn chọn quyền:
+A "Người xem" (Viewer)
+B "Người chỉnh sửa" (Editor)
+C "Người nhận xét" (Commenter)
+D "Chủ sở hữu" (Owner)
+Đáp án  
+Câu 75 Trong Google Drive, tùy chọn liên kết "Bất kỳ ai có đường liên kết" cho phép:
+A Chỉ chủ sở hữu xem được tệp
+B Chỉ những người trong danh sách email cụ thể xem được
+C Bất kỳ ai có đường link (được chia sẻ) có thể truy cập theo đúng quyền đã chọn
+D Mọi người trên Internet đều được chỉnh sửa tệp không cần link
+Đáp án  
+Câu 76 Trong Google Sheets, công cụ "Lọc" (Filter) được dùng để:
+A Xóa dữ liệu các cột
+B Ẩn/bỏ ẩn các hàng
+C Chỉ hiển thị các hàng thỏa mãn điều kiện nhất định
+D Đổi tên trang tính
+Đáp án  
+Câu 77 Trong Google Drive, để sắp xếp tài liệu khoa học hơn, bạn nên:
+A Để tất cả tệp ở thư mục gốc (My Drive)
+B Tạo các thư mục theo chủ đề/môn học/dự án và di chuyển tệp vào
+C Đặt tên tệp giống nhau
+D Chỉ dùng chức năng tìm kiếm, không cần thư mục
+Đáp án  
+Câu 78 Trong Google Docs, để xem lại phiên bản cũ của tài liệu, bạn dùng:
+A Tệp → Tải xuống
+B Tệp → Lịch sử phiên bản (Version history)
+C Chỉnh sửa → Sao chép
+D Công cụ → Từ điển
+Đáp án  
+Câu 79 Trong Google Sheets, thao tác kéo "tay cầm điền" (fill handle) từ một ô xuống nhiều ô bên dưới giúp:
+A Xóa dữ liệu các ô
+B Sao chép hoặc tự động điền chuỗi dữ liệu theo quy luật
+C Đổi màu nền các ô
+D Tạo biểu đồ mới
+Đáp án  
+Câu 80 Trong Google Drive, để tải một tệp từ máy tính lên Drive, bạn chọn:
+A "Mới" → Tải tệp lên (File upload)
+B "Mới" → Google Tài liệu
+C "Mới" → Thư mục
+D Nhấn chuột phải → Tạo bản sao
+Đáp án  
+Câu 81 Trong Google Docs, để căn lề đoạn văn bản (trái, phải, giữa, đều), bạn sử dụng nhóm nút:
+A Căn chỉnh đoạn (Align) trên thanh công cụ
+B Chèn (Insert)
+C Công cụ (Tools)
+D Tiện ích bổ sung (Add-ons)
+Đáp án  
+Câu 82 Trong Google Sheets, để cố định hàng tiêu đề (luôn hiển thị khi cuộn), bạn dùng:
+A Xem → Đóng băng (Freeze) → Hàng 1
+B Chèn → Hàng ở trên
+C Dữ liệu → Xóa hàng
+D Định dạng → Gộp ô
+Đáp án  
+Câu 83 Trên Google Drive, ai là người có toàn quyền với tệp (chia sẻ, xóa, đổi chủ sở hữu)?
+A Người xem (Viewer)
+B Người nhận xét (Commenter)
+C Người chỉnh sửa (Editor)
+D Chủ sở hữu (Owner)
+Đáp án  
+Câu 84 Trong Google Docs, để chèn hình ảnh từ máy tính vào tài liệu, thao tác đúng là:
+A Chèn (Insert) → Hình ảnh → Tải lên từ máy tính
+B Tệp → In
+C Công cụ → Chính tả
+D Định dạng → Đoạn văn
+Đáp án  
+Câu 84 Trong Google Sheets, để tạo biểu đồ từ một vùng dữ liệu, bạn chọn vùng dữ liệu rồi:
+A Nhấn Chuột phải → Xóa
+B Chèn (Insert) → Biểu đồ (Chart)
+C Tệp → Tải xuống
+D Xem → Toàn màn hình
+Đáp án  
+Câu 86 Khi chia sẻ tài liệu Google Docs cho nhóm làm việc, cách làm việc hiệu quả nhất là:
+A Gửi file Word qua email cho từng người
+B In ra giấy cho mọi người ghi chú
+C Chia sẻ link tài liệu với quyền phù hợp, dùng bình luận và gợi ý để trao đổi
+D Chỉ một người chỉnh sửa, người khác không được xem
+Đáp án  
+Mô đun 6: Công nghệ số và AICâu 1 Công nghệ số được hiểu là gì?
+A Công nghệ chỉ dùng trong sản xuất nông nghiệp
+B Việc sử dụng dữ liệu số và hệ thống số để xử lý, lưu trữ và trao đổi thông tin
+C Chỉ là việc dùng máy in và máy photocopy
+D Chỉ là việc sử dụng điện thoại bàn
+Đáp án  
+Câu 2 Chuyển đổi số (Digital Transformation) là:
+A Thay thế toàn bộ con người bằng robot
+B Ứng dụng công nghệ số để thay đổi toàn diện mô hình hoạt động, quy trình và văn hóa tổ chức
+C Chỉ là việc mua thêm máy tính
+D Chỉ là việc dùng email thay cho thư giấy
+Đáp án  
+Câu 3 Ví dụ nào sau đây là ứng dụng của công nghệ số trong giáo dục?
+A Bảng phấn truyền thống
+B Sổ điểm giấy
+C Hệ thống học tập trực tuyến (LMS), lớp học ảo
+D Chỉ dùng loa phóng thanh
+Đáp án  
+Câu 4 Dữ liệu lớn (Big Data) thường được đặc trưng bởi:
+A Dung lượng nhỏ, ít biến đổi
+B Dung lượng lớn, tốc độ tạo dữ liệu nhanh, đa dạng và khó quản lý bằng công cụ truyền thống
+C Chỉ tồn tại trong sách giáo khoa
+D Chỉ là dữ liệu văn bản thuần túy
+Đáp án  
+Câu 5 Điện toán đám mây (Cloud Computing) là:
+A Điện toán chạy trên mây trời
+B Mô hình cung cấp tài nguyên tính toán và lưu trữ qua internet theo nhu cầu
+C Máy tính để bàn thông thường
+D Chỉ là dịch vụ email miễn phí
+Đáp án  
+Câu 6 Ví dụ nào sau đây là ứng dụng của công nghệ số trong thương mại điện tử?
+A Bán hàng tại chợ truyền thống
+B Giao dịch tiền mặt trực tiếp
+C Website bán hàng online, ứng dụng đặt hàng qua điện thoại
+D Sổ ghi chép bằng tay
+Đáp án  
+Câu 7 Internet vạn vật (IoT) là khái niệm chỉ:
+A Mọi người đều dùng chung một mạng xã hội
+B Mạng lưới các thiết bị vật lý được kết nối internet, thu thập và trao đổi dữ liệu
+C Hệ thống email trong doanh nghiệp
+D Chỉ là mạng LAN trong gia đình
+Đáp án  
+Câu 8 Trong môi trường số, bảo mật thông tin là quan trọng vì:
+A Không liên quan đến người dùng
+B Giúp bảo vệ dữ liệu khỏi truy cập trái phép, mất mát và lộ lọt thông tin
+C Chỉ để trang trí cho hệ thống
+D Chỉ cần với các công ty lớn
+Đáp án  
+Câu 9 Mật khẩu mạnh nên có đặc điểm nào sau đây?
+A Ngắn, dễ đoán như 123456
+B Chỉ gồm ngày sinh
+C Đủ dài, kết hợp chữ hoa, chữ thường, số và ký tự đặc biệt
+D Giống nhau cho mọi tài khoản
+Đáp án  
+Câu 10 Khái niệm “chữ ký số” là:
+A Chữ ký viết tay rồi chụp ảnh lại
+B Mã xác thực điện tử gắn với thông điệp dữ liệu, đảm bảo tính toàn vẹn và xác thực của người ký
+C Hình ảnh con dấu của cơ quan
+D Mật khẩu đăng nhập máy tính
+Đáp án  
+Câu 11 Một ví dụ về dịch vụ lưu trữ đám mây là:
+A Máy ghi âm
+B Ổ cứng gắn ngoài
+C Google Drive, OneDrive, Dropbox
+D Máy in
+Đáp án  
+Câu 12 Khái niệm “dấu chân số” (digital footprint) chỉ:
+A Dấu chân để lại trên cát
+B Tất cả dấu vết hoạt động của người dùng trên môi trường số (trên web, mạng xã hội, ứng dụng...)
+C Dữ liệu lưu trong USB
+D Lịch sử sử dụng máy in
+Đáp án  
+Câu 13 Trong chính phủ số, việc nộp hồ sơ trực tuyến là ví dụ của:
+A Dịch vụ công trực tiếp
+B Dịch vụ công trực tuyến (online) trên nền tảng số
+C Dịch vụ không chính thức
+D Dịch vụ bưu chính truyền thống
+Đáp án  
+Câu 14 Phần mềm chống virus (antivirus) được dùng để:
+A Trang trí cho máy tính
+B Bảo vệ hệ thống trước phần mềm độc hại, phát hiện và loại bỏ virus
+C Tăng tốc độ in tài liệu
+D Giảm dung lượng ổ cứng
+Đáp án  
+Câu 15 Ví dụ nào sau đây thể hiện chuyển đổi số trong doanh nghiệp?
+A Chỉ dùng sổ sách giấy
+B Quản lý kho bằng bảng Excel và phần mềm quản trị
+C Ghi nhớ tồn kho bằng trí nhớ cá nhân
+D Chỉ nhận đơn hàng trực tiếp
+Đáp án  
+Câu 16 Dữ liệu số cá nhân nhạy cảm KHÔNG nên:
+A Được bảo mật và chia sẻ có kiểm soát
+B Bị công khai trên mạng xã hội
+C Được mã hóa khi truyền tải
+D Được lưu trữ an toàn
+Đáp án  
+Câu 17 Mạng xã hội là ví dụ điển hình của:
+A Nền tảng giao tiếp và chia sẻ thông tin số giữa người dùng
+B Hệ điều hành máy tính
+C Phần cứng máy tính
+D Thiết bị mạng
+Đáp án  
+Câu 18 Một ví dụ của ứng dụng công nghệ số trong y tế là:
+A Hồ sơ bệnh án giấy
+B Hàng đợi khám bệnh truyền thống
+C Hồ sơ sức khỏe điện tử, tư vấn khám bệnh từ xa (telemedicine)
+D Chỉ dùng loa gọi tên bệnh nhân
+Đáp án  
+Câu 19 Thuật ngữ “văn phòng điện tử” (e-office) chỉ:
+A Văn phòng dùng nhiều giấy hơn
+B Hệ thống quản lý, xử lý văn bản và công việc trên môi trường số
+C Văn phòng chỉ có máy in
+D Văn phòng không dùng email
+Đáp án  
+Câu 20 Trong môi trường số, kỹ năng quan trọng đối với mỗi cá nhân là:
+A Không cần học thêm gì
+B Kỹ năng số: tìm kiếm thông tin, bảo mật, sử dụng công cụ số hiệu quả
+C Chỉ cần biết dùng mạng xã hội
+D Chỉ cần biết gửi email
+Đáp án  
+Câu 21 Khái niệm “kinh tế số” có thể được hiểu là:
+A Kinh tế chỉ dùng tiền mặt
+B Các hoạt động kinh tế dựa trên nền tảng công nghệ số, dữ liệu và internet
+C Chỉ là kinh doanh máy tính
+D Chỉ là bán hàng qua điện thoại
+Đáp án  
+Câu 22 Trí tuệ nhân tạo (AI) trong ứng dụng cơ bản được hiểu là gì?
+A Phần mềm chỉ dùng để chơi game
+B Khả năng của máy tính thực hiện các nhiệm vụ thường cần trí thông minh của con người
+C Bất kỳ chương trình nào chạy trên máy tính
+D Hệ điều hành của máy tính cá nhân
+Đáp án  
+Câu 23 Ví dụ nào sau đây là ứng dụng AI trong đời sống hàng ngày?
+A Máy tính bỏ túi chỉ cộng trừ nhân chia
+B Soạn thảo văn bản trên giấy
+C Ứng dụng nhận diện khuôn mặt để mở khóa điện thoại
+D Đồng hồ kim truyền thống
+Đáp án  
+Câu 24 ChatGPT, Gemini, Copilot thuộc nhóm ứng dụng AI nào sau đây?
+A AI tạo sinh (Generative AI)
+B AI điều khiển robot công nghiệp
+C AI xử lý ảnh y tế chuyên sâu
+D AI trong hệ thống nhúng ô tô
+Đáp án  
+Câu 25 Khi sử dụng AI tạo sinh để hỗ trợ học tập, việc nào sau đây là phù hợp nhất?
+A Yêu cầu AI làm toàn bộ bài làm rồi nộp nguyên văn
+B Nhờ AI gợi ý ý tưởng, sau đó tự viết lại và bổ sung tài liệu tham khảo
+C Dùng AI để tra đáp án trắc nghiệm trong phòng thi
+D Cho AI tài khoản cá nhân và mật khẩu để đăng nhập hộ
+Đáp án  
+Câu 26 Ứng dụng AI trong giáo dục KHÔNG bao gồm ví dụ nào sau đây?
+A Hệ thống gợi ý lộ trình học cá nhân hóa
+B Chấm bài trắc nghiệm tự động
+C Sổ điểm giấy giáo viên tự cộng bằng tay
+D Trợ lý ảo giải thích lại kiến thức bằng nhiều cách
+Đáp án  
+Câu 27 Khái niệm "prompt" trong bối cảnh AI tạo sinh là gì?
+A Tên tài khoản đăng nhập AI
+B Đoạn văn bản/ yêu cầu mà người dùng nhập vào để AI phản hồi
+C Phần cứng của hệ thống AI
+D Ngôn ngữ lập trình bắt buộc khi dùng AI
+Đáp án  
+Câu 28 Khi viết prompt cho mô hình ngôn ngữ (LLM), cách nào giúp AI trả lời chính xác hơn?
+A Viết càng ngắn càng tốt, càng mơ hồ càng hay
+B Nêu rõ bối cảnh, yêu cầu cụ thể, định dạng đầu ra mong muốn
+C Dùng càng nhiều từ viết tắt càng tốt
+D Chỉ viết một từ khóa duy nhất
+Đáp án  
+Câu 29 Cấu trúc một prompt hiệu quả thường gồm những phần nào?
+A Lời chào, lời cảm ơn, lời tạm biệt
+B Bối cảnh, vai trò AI, nhiệm vụ cụ thể, yêu cầu định dạng đầu ra
+C Chỉ có câu hỏi
+D Chỉ có ví dụ minh họa
+Đáp án  
+Câu 30 Ví dụ nào sau đây là prompt TỐT hơn cho nhiệm vụ viết đoạn văn?
+A "Viết giúp đoạn văn"
+B "Viết giúp đoạn văn 150 từ, tiếng Việt, phong cách dễ hiểu cho sinh viên năm nhất, giải thích khái niệm trí tuệ nhân tạo"
+C "AI"
+D "Viết đi"
+Đáp án  
+Câu 31 Khi yêu cầu AI tóm tắt văn bản, phần nào nên xuất hiện trong prompt?
+A Yêu cầu tóm tắt, độ dài mong muốn, ngôn ngữ tóm tắt
+B Ảnh đại diện Facebook của người dùng
+C Mật khẩu email cá nhân
+D Thông tin tài khoản ngân hàng
+Đáp án  
+Câu 32 Ứng dụng nào sau đây KHÔNG phải là ví dụ điển hình của AI?
+A Hệ thống gợi ý phim trên nền tảng xem phim trực tuyến
+B Bộ lọc thư rác trong email
+C Ứng dụng ghi chú đơn giản chỉ lưu văn bản
+D Trợ lý ảo trả lời câu hỏi bằng giọng nói
+Đáp án  
+Câu 33 Trong chăm sóc sức khỏe, AI có thể hỗ trợ nhiệm vụ nào?
+A Phân tích hình ảnh chụp X-quang để phát hiện bất thường
+B Kê đơn thuốc mà không cần bác sĩ
+C Tự ý phẫu thuật không có bác sĩ giám sát
+D Tự động cấp giấy chứng tử
+Đáp án  
+Câu 34 Ứng dụng AI trong tài chính – ngân hàng thường dùng để:
+A Tự động rửa tiền
+B Phát hiện giao dịch bất thường, phòng chống gian lận
+C Tăng lãi suất vô điều kiện
+D Xóa lịch sử giao dịch của khách hàng
+Đáp án  
+Câu 35 Thói quen nào sau đây là AN TOÀN khi sử dụng các công cụ AI trực tuyến?
+A Không chia sẻ mật khẩu, số tài khoản ngân hàng vào khung chat AI
+B Đưa toàn bộ dữ liệu cá nhân nhạy cảm lên để AI "tư vấn"
+C Đăng nhập AI bằng tài khoản người khác
+D Dùng AI để mạo danh người khác trên mạng
+Đáp án  
+Câu 36 Khi dùng AI để dịch thuật, người dùng nên:
+A Tin tuyệt đối 100% và không cần kiểm tra lại
+B Đọc lại, chỉnh sửa bản dịch cho phù hợp ngữ cảnh
+C Chỉ dùng cho tài liệu mật
+D Bắt buộc dịch sang ít nhất 5 ngôn ngữ
+Đáp án  
+Câu 37 Khi viết prompt yêu cầu tạo dàn ý bài thuyết trình, phần nào là QUAN TRỌNG nhất?
+A Nêu rõ chủ đề và đối tượng người nghe
+B Chỉ ghi "viết dàn ý"
+C Đính kèm ảnh đại diện cá nhân
+D Ghi ngày tháng năm sinh của người thuyết trình
+Đáp án  
+Câu 38 Đặc điểm nổi bật của Generative AI (AI tạo sinh) là:
+A Chỉ phân loại dữ liệu có sẵn
+B Tạo ra nội dung mới (văn bản, hình ảnh, âm thanh) dựa trên dữ liệu đã học
+C Chỉ thực hiện phép cộng trừ
+D Chỉ dùng để lưu trữ dữ liệu
+Đáp án  
+Câu 39 Yếu tố nào sau đây giúp cải thiện chất lượng câu trả lời của AI?
+A Prompt rõ ràng, có ví dụ minh họa
+B Prompt mơ hồ, càng ít thông tin càng tốt
+C Luôn viết bằng ngôn ngữ lạ, ít người hiểu
+D Luôn viết hoa toàn bộ nội dung
+Đáp án  
+Câu 40 Khi muốn AI trả lời theo định dạng bảng, người dùng nên:
+A Không cần nói gì, AI tự hiểu
+B Ghi rõ trong prompt: "Hãy trình bày kết quả dưới dạng bảng gồm các cột..."
+C Chỉ gõ từ "bảng"
+D Đính kèm một file bất kỳ
+Đáp án  
+Câu 41 Ví dụ nào sau đây là prompt tốt để AI hỗ trợ viết email?
+A "Viết email"
+B "Viết giúp tôi email tiếng Việt, giọng lịch sự, gửi cho giảng viên X xin phép vắng buổi học ngày 10/12 vì lý do sức khỏe"
+C "EMAIL"
+D "Viết cái thư gì đó"
+Đáp án  
+Câu 42 Khi muốn AI đóng vai một chuyên gia, người dùng nên làm gì trong prompt?
+A Yêu cầu AI tự chọn vai trò
+B Ghi rõ: "Hãy đóng vai một chuyên gia trong lĩnh vực..."
+C Không cần nêu vai trò
+D Chỉ viết mỗi tên chuyên gia
+Đáp án  
+Câu 43 Ưu điểm lớn của việc biết viết prompt tốt là:
+A Giảm hiệu quả làm việc với AI
+B Tăng chất lượng, độ chính xác và tốc độ nhận được kết quả từ AI
+C Không cần hiểu nội dung vẫn dùng được AI
+D Chỉ để khoe với bạn bè
+Đáp án  
+Câu 44 Trong ứng dụng chăm sóc khách hàng, chatbot AI thường được dùng để:
+A Tự ý khóa tài khoản khách hàng
+B Tự động trả lời câu hỏi thường gặp 24/7
+C Tăng giá sản phẩm mà không thông báo
+D Xóa dữ liệu khách hàng
+Đáp án  
+Câu 45 Khi yêu cầu AI viết mã nguồn (code), người dùng nên:
+A Không mô tả yêu cầu, chỉ viết "viết code"
+B Mô tả rõ ngôn ngữ lập trình, mục tiêu và môi trường chạy
+C Gửi kèm mật khẩu hệ thống
+D Bắt buộc AI tự đoán hệ thống đang dùng
+Đáp án  
+Câu 46 Khả năng nào KHÔNG thuộc về AI tạo sinh văn bản như ChatGPT?
+A Soạn thảo văn bản theo yêu cầu
+B Tự sinh ra đoạn hội thoại giả lập
+C Đọc suy nghĩ trực tiếp của con người
+D Tóm tắt văn bản dài thành ngắn
+Đáp án  
+Câu 47 Trong thiết kế, AI có thể hỗ trợ nhiệm vụ nào sau đây?
+A Tạo gợi ý phối màu và bố cục
+B Tự ý ký hợp đồng với khách hàng
+C Tự động rút tiền của khách hàng
+D Thay thế hoàn toàn mọi nhà thiết kế
+Đáp án  
+Câu 48 Khi yêu cầu AI tạo slide thuyết trình, prompt nên bao gồm:
+A Chủ đề, số lượng slide, đối tượng người nghe, mức độ chi tiết
+B Chỉ ghi "tạo slide"
+C Thông tin tài khoản ngân hàng
+D Mật khẩu wifi
+Đáp án  
+Câu 49 Ứng dụng AI trong giao thông thông minh thường dùng để:
+A Tự động tăng phí gửi xe
+B Dự báo lưu lượng giao thông, tối ưu hóa đèn tín hiệu
+C Xóa dữ liệu camera
+D Tăng số vụ tai nạn
+Đáp án  
+Câu 50 Trong thương mại điện tử, AI gợi ý sản phẩm dựa trên:
+A Sở thích của người bán
+B Lịch sử tìm kiếm và mua sắm của người dùng
+C Giá sản phẩm cao nhất
+D Chỉ số thời tiết
+Đáp án  
+Câu 51 Mục đích chính của việc dùng ví dụ (example) trong prompt là:
+A Làm prompt dài hơn cho đẹp
+B Giúp AI hiểu rõ kiểu trả lời mong muốn
+C Che giấu thông tin quan trọng
+D Gây nhiễu cho AI
+Đáp án  
+Câu 52 Khi muốn AI trả lời bằng tiếng Việt, người dùng nên:
+A Không nói gì, để AI tự chọn ngôn ngữ
+B Ghi rõ trong prompt: "Trả lời bằng tiếng Việt"
+C Chỉ viết bằng tiếng Anh
+D Đổi ngôn ngữ hệ điều hành
+Đáp án  
+Câu 53 Điểm hạn chế cần lưu ý khi sử dụng AI tạo sinh là:
+A Có thể tạo ra thông tin sai, cần được kiểm chứng
+B Luôn luôn đúng 100% nên không cần kiểm tra
+C Không thể tạo ra nội dung mới
+D Không cần kiến thức nền tảng
+Đáp án  
+Câu 54 Trong doanh nghiệp, AI có thể giúp tối ưu hóa hoạt động nào sau đây?
+A Dự báo nhu cầu khách hàng và tối ưu tồn kho
+B Tự ý sa thải nhân viên
+C Tự động ký kết hợp đồng pháp lý
+D Tự tăng lương không cần phê duyệt
+Đáp án  
+Câu 55 Khi dùng AI để hỗ trợ nghiên cứu, thái độ nào là phù hợp?
+A Xem AI là công cụ hỗ trợ, vẫn cần đọc tài liệu gốc
+B Chỉ đọc câu trả lời của AI, bỏ qua tài liệu khác
+C Để AI viết toàn bộ luận văn
+D Dùng AI để giả mạo dữ liệu nghiên cứu
+Đáp án  
+Câu 56 Để yêu cầu AI giải một bài toán nhiều bước, prompt nên:
+A Yêu cầu AI trình bày từng bước giải rõ ràng
+B Chỉ yêu cầu kết quả cuối
+C Không cho đề bài
+D Chỉ gửi hình ảnh mờ
+Đáp án  
+Câu 57 Ứng dụng nhận diện giọng nói (voice recognition) là ví dụ của:
+A AI trong xử lý ngôn ngữ tự nhiên và âm thanh
+B AI điều khiển thời tiết
+C AI trong tài chính
+D AI trong nông nghiệp chính xác
+Đáp án  
+Câu 58 Khi muốn AI gợi ý ý tưởng sáng tạo, prompt nên:
+A Nêu rõ lĩnh vực, mục tiêu, giới hạn và phong cách mong muốn
+B Chỉ ghi "cho ý tưởng"
+C Gửi kèm mật khẩu mạng xã hội
+D Đòi hỏi AI tự tìm hiểu
+Đáp án  
+Câu 59 Một trong những nguyên tắc đạo đức khi dùng AI là:
+A Không dùng AI để mạo danh, lừa đảo người khác
+B Cố ý dùng AI tạo tin giả
+C Dùng AI để quấy rối người khác
+D Dùng AI để vượt qua mọi quy định thi cử
+Đáp án  
+Câu 60 Tại sao cần chỉ rõ "vai trò" của AI trong prompt?
+A Giúp AI điều chỉnh phong cách trả lời phù hợp chuyên môn
+B Để AI biết tên người dùng
+C Để AI lưu mật khẩu
+D Để tăng dung lượng bộ nhớ máy
+Đáp án  
+Câu 61 Trong quản lý dự án, AI có thể hỗ trợ:
+A Lập kế hoạch, theo dõi tiến độ và nhắc việc
+B Tự ý thay đổi mục tiêu dự án
+C Sa thải thành viên đội nhóm
+D Tự động ký hợp đồng với khách hàng
+Đáp án  
+Câu 62 Khi muốn AI so sánh hai phương án, prompt nên:
+A Mô tả rõ từng phương án và tiêu chí so sánh
+B Chỉ ghi "so sánh đi"
+C Gửi kèm mật khẩu hệ thống
+D Không đưa thông tin gì
+Đáp án  
+Câu 63 Trong lĩnh vực marketing, AI có thể hỗ trợ:
+A Phân tích dữ liệu khách hàng để cá nhân hóa nội dung quảng cáo
+B Tự ý tăng giá bán không thông báo
+C Xóa dữ liệu khách hàng
+D Tự ký kết hợp đồng quảng cáo
+Đáp án  
+Câu 64 Một prompt yêu cầu AI viết báo cáo nên bao gồm nội dung nào?
+A Chủ đề, độ dài, cấu trúc mong muốn và đối tượng người đọc
+B Chỉ ghi "viết báo cáo"
+C Ngày sinh của người viết
+D Mật khẩu email
+Đáp án  
+Câu 65 Lợi ích của việc dùng AI để tự động hóa công việc lặp lại là:
+A Tiết kiệm thời gian, giảm lỗi, người dùng tập trung vào việc sáng tạo hơn
+B Tăng khối lượng giấy tờ thủ công
+C Bắt buộc làm chậm quy trình
+D Không còn cần suy nghĩ gì
+Đáp án  
+Câu 66 Khi yêu cầu AI sinh câu hỏi trắc nghiệm, prompt nên:
+A Ghi rõ chủ đề, số lượng câu, mức độ khó và dạng câu hỏi
+B Chỉ ghi "tạo câu hỏi"
+C Gửi kèm mật khẩu ngân hàng
+D Không đưa thông tin nào
+Đáp án  
+Câu 67 Để hạn chế thông tin sai do AI tạo ra, người dùng nên:
+A Kiểm tra chéo với nguồn tin cậy khác
+B Tin tuyệt đối vào AI
+C Không bao giờ đọc lại kết quả
+D Chia sẻ ngay lên mạng xã hội
+Đáp án  
+Câu 68 Ứng dụng AI nhận diện hình ảnh thường được dùng trong:
+A Kiểm soát chất lượng sản phẩm, chẩn đoán y khoa, giám sát an ninh
+B Thay đổi thời tiết
+C Tự ý thay đổi biển số xe
+D Tự động kết bạn trên mạng xã hội
+Đáp án  
+Câu 69 Trong giáo dục đại học, dùng AI thế nào là phù hợp?
+A Dùng AI hỗ trợ tìm tài liệu, gợi ý ý tưởng, luyện tập, nhưng vẫn tự suy nghĩ và trích dẫn rõ ràng
+B Phó mặc cho AI làm toàn bộ bài tập, báo cáo
+C Dùng AI để gian lận thi cử
+D Dùng AI để viết hộ luận văn mà không cho giảng viên biết
+Đáp án  
+Câu 70 Lý do nên lưu lại những prompt hiệu quả là:
+A Tái sử dụng và điều chỉnh nhanh cho các lần sau
+B Để quên không bao giờ dùng lại
+C Để chia sẻ mật khẩu hệ thống
+D Để AI tự học lại từ đầu
+Đáp án  
+Câu 71 Khi dùng AI tạo hình ảnh, người dùng nên:
+A Mô tả rõ phong cách, màu sắc, bố cục và nội dung muốn thể hiện
+B Chỉ ghi một từ khóa duy nhất
+C Gửi mật khẩu ngân hàng
+D Không nêu bất kỳ yêu cầu nào
+Đáp án  
+Câu 72 Một prompt yêu cầu AI lập kế hoạch học tập nên:
+A Nêu rõ mục tiêu, quỹ thời gian mỗi ngày, thời gian hoàn thành và môn học
+B Chỉ viết "lập kế hoạch"
+C Đính kèm mật khẩu email
+D Không cung cấp thông tin gì
+Đáp án  
+Câu 73 Khi dùng AI dịch tài liệu chuyên ngành, điều quan trọng là:
+A Có kiến thức cơ bản để kiểm tra và chỉnh sửa thuật ngữ
+B Không cần biết nội dung vẫn chấp nhận bản dịch
+C Tin tuyệt đối vào AI
+D Không bao giờ đọc lại bản dịch
+Đáp án  
+Câu 74 Thực hành tốt nhất khi sử dụng AI trong học tập là:
+A Coi AI là trợ lý, không phải người làm hộ, luôn kết hợp với tư duy phản biện
+B Để AI làm hết và không cần suy nghĩ
+C Dùng AI để gian lận
+D Không bao giờ đọc lại nội dung AI tạo ra
+Đáp án  
+Câu 75 Một prompt yêu cầu AI đánh giá ưu nhược điểm của hai lựa chọn nên:
+A Mô tả rõ từng lựa chọn và tiêu chí muốn so sánh
+B Chỉ ghi "chọn giúp tôi"
+C Không đưa thông tin nào
+D Gửi mật khẩu hệ thống
+Đáp án  
